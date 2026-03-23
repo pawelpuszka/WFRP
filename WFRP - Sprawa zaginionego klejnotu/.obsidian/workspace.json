@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Na zamku.md",
+                "file": "7. Wejście do zamku.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Na zamku"
+              "title": "7. Wejście do zamku"
             }
           },
           {
@@ -75,7 +75,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Przeglądarka plików"
             }
           },
           {
@@ -205,30 +205,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Otwórz okno szybkiego wyboru": false,
+      "graph:Otwórz podgląd grafu": false,
+      "canvas:Stwórz nową tablicę": false,
+      "daily-notes:Otwórz dzisiejszy dziennik": false,
+      "templates:Wstaw szablon": false,
+      "command-palette:Otwórz listę poleceń": false,
+      "bases:Stwórz nową bazę danych": false
     }
   },
   "active": "15db8d3991b3ae83",
   "lastOpenFiles": [
+    "GRUBY PLAN.md",
+    "7. Wejście do zamku.md",
+    "9. Annalisa.md",
+    "8. Na zamku.md",
+    "Mechaniki/Walka na koniu.md",
+    "Wklej Obraz.png",
+    "miejsce_akcji",
+    "3. Spotkanie z Wolfgangiem Kellermanem.md",
+    "Mechaniki",
+    "4. Spotkanie z hrabią Drakensbergiem.md",
+    "2. Gospoda „POD SKRZYŻOWANYMI LANCAMI”.md",
+    "1. Poszukiwani bohaterowie.md",
     "6. Pościg za Lauengramem.md",
     "5. Laungram opuszcz gospodę.md",
     "BN/Kasper Lauengram.md",
     "Lokacje/Gospoda „POD SKRZYŻOWANYMI LANCAMI”.canvas",
-    "4. Spotkanie z hrabią Drakensbergiem.md",
-    "3. Spotkanie z Wolfgangiem Kellermanem.md",
-    "2. Gospoda „POD SKRZYŻOWANYMI LANCAMI”.md",
-    "1. Poszukiwani bohaterowie.md",
     "0. Napad banitów.md",
     "BN/Annalisa Kessler i banici.canvas",
-    "8. Annalisa.md",
-    "GRUBY PLAN.md",
-    "7. Na zamku.md",
     "Pasted image 20260315185001.png",
     "Pasted image 20260315184946.png",
     "Pasted image 20260315184934.png",
@@ -239,7 +244,6 @@
     "Pasted image 20260315184816.png",
     "Pasted image 20260315183939.png",
     "Lokacje/Zamek Czarnych Strzał.canvas",
-    "Pasted image 20260315170910.png",
     "BN/Hrabia von Drakensberg.canvas",
     "Nagroda_hrabiego 4",
     "Nagroda_hrabiego 3",

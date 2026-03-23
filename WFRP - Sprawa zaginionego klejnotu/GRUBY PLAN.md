@@ -4,5 +4,6 @@
 4. [[4. Spotkanie z hrabią Drakensbergiem]]
 5. [[5. Laungram opuszcz gospodę]]
 6. [[6. Pościg za Lauengramem]]
-7. [[7. Na zamku]]
-8. [[8. Annalisa]]
+7. [[7. Wejście do zamku]]
+8. [[8. Na zamku]]
+9. [[9. Annalisa]]
