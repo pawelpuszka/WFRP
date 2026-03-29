@@ -7,3 +7,6 @@
 7. [[7. Wejście do zamku]]
 8. [[8. Na zamku]]
 9. [[9. Annalisa]]
+10. [[10. Powrót do Zajazdu]]
+11. [[11.Co zaplanują BG]]
+12. [[12. Konfrontacja z Hrabią]]
