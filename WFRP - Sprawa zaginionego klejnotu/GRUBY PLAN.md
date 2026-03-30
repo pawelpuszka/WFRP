@@ -8,5 +8,5 @@
 8. [[8. Na zamku]]
 9. [[9. Annalisa]]
 10. [[10. Powrót do Zajazdu]]
-11. [[11.Co zaplanują BG]]
+11. [[11.W zajeździe Pod Skrzyżowanymi Lancami]]
 12. [[12. Konfrontacja z Hrabią]]
