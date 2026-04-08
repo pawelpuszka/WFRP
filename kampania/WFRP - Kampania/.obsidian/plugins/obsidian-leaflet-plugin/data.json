@@ -3,7 +3,7 @@
     {
       "id": "Reikland",
       "locked": false,
-      "lastAccessed": 1775260832397,
+      "lastAccessed": 1775685485163,
       "markers": [
         {
           "id": "ID_3a99ea5b9b39",
@@ -27,9 +27,7 @@
       ],
       "overlays": [],
       "shapes": [],
-      "files": [
-        "Szablony/Reikland.md"
-      ]
+      "files": []
     }
   ],
   "defaultMarker": {
