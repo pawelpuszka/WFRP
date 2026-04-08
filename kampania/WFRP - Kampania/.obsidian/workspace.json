@@ -31,18 +31,24 @@
             "id": "a5d96c5463d52f84",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Miejsca/Gospoda Pod Skrzyżowanymi Lancami.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "obsidian-leaflet-map-view",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Gospoda Pod Skrzyżowanymi Lancami"
+              "title": "Leaflet Map"
+            }
+          },
+          {
+            "id": "6dbc05278f939aa1",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-leaflet-map-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Leaflet Map"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -205,10 +211,12 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "a5d96c5463d52f84",
+  "active": "6dbc05278f939aa1",
   "lastOpenFiles": [
-    "Szablony/Reikland.md",
+    "mapy/UnersreikMap.webp",
     "Miejsca/Gospoda Pod Skrzyżowanymi Lancami.md",
+    "mapy/ubersreik.jpg",
+    "Szablony/Reikland.md",
     "Miejsca",
     "mapy/reikland.png",
     "mapy/Map-The-Empire-1-Color.jpg",
