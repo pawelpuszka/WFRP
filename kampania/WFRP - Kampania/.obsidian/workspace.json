@@ -16,8 +16,21 @@
               "icon": "lucide-file",
               "title": "Leaflet Map"
             }
+          },
+          {
+            "id": "ad697455c80e0986",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "RAW/mapy/ubersreik.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "ubersreik"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,10 +193,12 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "d2cb35cb879ef39d",
+  "active": "ad697455c80e0986",
   "lastOpenFiles": [
-    "RAW/mapy/ubersreik_ksiestwo.jpg",
     "RAW/mapy/ubersreik_dzielnice.jpg",
+    "3 - Miasta/UBERSREIK.md",
+    "3 - Miasta",
+    "RAW/mapy/ubersreik_ksiestwo.jpg",
     "RAW/mapy/ubersreik.jpg",
     "RAW/mapy/reikland.png",
     "RAW/mapy/Map-The-Empire-1-Color.jpg",
