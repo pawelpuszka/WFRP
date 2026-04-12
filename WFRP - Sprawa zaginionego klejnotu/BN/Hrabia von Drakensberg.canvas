@@ -1,7 +1,10 @@
 {
 	"nodes":[
-		{"id":"3e352b9d84df2c48","x":-900,"y":-580,"width":469,"height":880,"type":"file","file":"Pasted image 20260315165036.png"},
-		{"id":"96f7679f4edf67cc","x":-346,"y":-580,"width":432,"height":880,"type":"file","file":"Pasted image 20260315165202.png"}
+		{"id":"96f7679f4edf67cc","type":"file","file":"Pasted image 20260315165202.png","x":-346,"y":-580,"width":432,"height":880},
+		{"id":"3e352b9d84df2c48","type":"file","file":"Pasted image 20260315165036.png","x":-900,"y":-579,"width":469,"height":879},
+		{"id":"c566e2188451e4c7","type":"file","file":"BN/opis/Hrabia Amadeus von Drakenberg.md","x":-1720,"y":-620,"width":769,"height":920},
+		{"id":"9604a8276e7495e9","type":"text","text":"**RAPIER**\nDługa\n- -10 do trafienia dla przeciwnika z krótszą bronią\nNadziewający\n- trafienie krytyczne także przy wynikach 10, 20 itp\nSzybki \n- atak poza sekwencją inicjatywy\n- Testy obrony Bronią Białą przeciwko Szybkiej broni obciążone są karą -10","x":-900,"y":300,"width":250,"height":400},
+		{"id":"470f0ecd4be9107c","type":"text","text":"**LEWAK** +5\nParujący\n- +1 PS do parowania","x":-650,"y":300,"width":250,"height":400}
 	],
 	"edges":[]
 }
