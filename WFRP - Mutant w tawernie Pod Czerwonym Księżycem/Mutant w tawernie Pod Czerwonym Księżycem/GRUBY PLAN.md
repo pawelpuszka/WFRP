@@ -1,7 +1,8 @@
 [[0. Przybycie do Ubersreiku]]
 [[1. W Ubersreiku]]
+[[2. Spotkanie z Annalise]]
 
-- **Incydent początkowy: [[1. Makabryczne znalezisko i ultimatum]].**
+- **[[3. Makabryczne znalezisko i ultimatum]].**
     
     - Bohaterowie odnajdują w sali wspólnej karczmy **ciało mutanta** o wielu oczach zamiast twarzy.
     - Kapitan straży miejskiej, Andreas Pfeffer, daje bohaterom **dwie godziny na wyjaśnienie sprawy**.
