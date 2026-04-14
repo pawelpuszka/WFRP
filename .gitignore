@@ -6,3 +6,8 @@ tokeny_BG/
 **/.obsidian/workspace-mobile.json
 **/.obsidian/graph.json
 **/.obsidian/cache/
+**/.obsidian/indexed_db/
+
+# --- Systemowe (IGNORUJEMY) ---
+.DS_Store
+Thumbs.db
