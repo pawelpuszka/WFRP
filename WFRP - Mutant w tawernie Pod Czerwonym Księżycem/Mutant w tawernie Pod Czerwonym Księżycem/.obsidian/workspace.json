@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Spotkanie z Annalise.md",
+                "file": "4. Makabryczne znalezisko i ultimatum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Spotkanie z Annalise"
+              "title": "4. Makabryczne znalezisko i ultimatum"
             }
           }
         ]
@@ -180,15 +180,18 @@
       "daily-notes:Otwórz dzisiejszy dziennik": false,
       "templates:Wstaw szablon": false,
       "command-palette:Otwórz listę poleceń": false,
-      "bases:Stwórz nową bazę danych": false
+      "bases:Stwórz nową bazę danych": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "21dbb429ba2a3f74",
   "lastOpenFiles": [
-    "0. Przybycie do Ubersreiku.md",
-    "2. Spotkanie z Annalise.md",
-    "1. W Ubersreiku.md",
+    "2. Spotkanie w Starej Kuźni.md",
+    "4. Makabryczne znalezisko i ultimatum.md",
     "GRUBY PLAN.md",
+    "3. Sprzedaż kamienia w lombardzie.md",
+    "0. Przybycie do Ubersreiku.md",
+    "1. W Ubersreiku.md",
     "1. Makabryczne znalezisko i ultimatum.md",
     "Szablony",
     "Straż miejska.md",

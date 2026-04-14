@@ -1,8 +1,8 @@
 [[0. Przybycie do Ubersreiku]]
 [[1. W Ubersreiku]]
-[[2. Spotkanie z Annalise]]
-
-- **[[3. Makabryczne znalezisko i ultimatum]].**
+[[2. Spotkanie w Starej Kuźni]]
+[[3. Sprzedaż kamienia w lombardzie]]
+**[[4. Makabryczne znalezisko i ultimatum]].**
     
     - Bohaterowie odnajdują w sali wspólnej karczmy **ciało mutanta** o wielu oczach zamiast twarzy.
     - Kapitan straży miejskiej, Andreas Pfeffer, daje bohaterom **dwie godziny na wyjaśnienie sprawy**.
