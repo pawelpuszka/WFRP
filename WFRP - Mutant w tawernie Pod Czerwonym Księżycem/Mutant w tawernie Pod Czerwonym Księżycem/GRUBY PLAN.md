@@ -3,11 +3,8 @@
 [[2. Spotkanie w Starej Kuźni]]
 [[3. Sprzedaż kamienia w lombardzie]]
 **[[4. Makabryczne znalezisko i ultimatum]].**
-    
-    - Bohaterowie odnajdują w sali wspólnej karczmy **ciało mutanta** o wielu oczach zamiast twarzy.
-    - Kapitan straży miejskiej, Andreas Pfeffer, daje bohaterom **dwie godziny na wyjaśnienie sprawy**.
-    - Jeśli winny nie zostanie wskazany, kapitan wezwie łowcę czarownic (Ponurego Wolfa), który prawdopodobnie **spali karczmę wraz ze wszystkimi wewnątrz**.
-- 2. **Etap śledztwa: Przeszukiwanie pokoi i analiza dowodów.**
+[[5. Etap śledztwa - Przeszukiwanie pokoi i analiza dowodów.]]
+
     
     - **Badanie zwłok:** Dzięki spostrzegawczości bohaterowie odkrywają, że mutant to ucharakteryzowany człowiek (zaginiony gość Holvig), a jego „tatuaż” jest świeżo namalowany farbą.
     - **Przeszukanie pokoi:** W pokoju Holviga bohaterowie znajdują ślady walki oraz **czerwoną i niebieską farbę**, pasującą do kolorów fałszywego tatuażu.
