@@ -23,7 +23,7 @@ mapCalc1: 0
 
 ```leaflet  
 id: Reikland ### Must be unique with no spaces  
-image: [[ubersreik.jpg]] ### Link to the map image file. Do not add a ! in front of the image  
+image: [[Ubersreik_gamemaster_map.png]] ### Link to the map image file. Do not add a ! in front of the image  
 bounds: [[0,0], [1299, 2048]] ### Size of the map in px Height_y, Width_x. Ignore 0,0  
 height: 850px ### Size of the leaflet embed in px on your screen  
 width: 200% ### Size of the leaflet embed in your note  
@@ -38,3 +38,4 @@ scale: 0.33333 ### Real units/px (resolution) of your map
 recenter: false  
 darkmode: false ### marker
 ```
+

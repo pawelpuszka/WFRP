@@ -3,7 +3,7 @@
     {
       "id": "Reikland",
       "locked": false,
-      "lastAccessed": 1776459567220,
+      "lastAccessed": 1776592160443,
       "markers": [
         {
           "id": "ID_3a99ea5b9b39",
@@ -23,11 +23,29 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_1abb9bdb788b",
+          "type": "default",
+          "loc": [
+            979.1953125,
+            1248
+          ],
+          "layer": "%5B%5BUbersreik_gamemaster_map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Stara Kuźnia",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
       "shapes": [],
-      "files": []
+      "files": [
+        "RAW/Szablony/Ubersreik.md"
+      ]
     }
   ],
   "defaultMarker": {
