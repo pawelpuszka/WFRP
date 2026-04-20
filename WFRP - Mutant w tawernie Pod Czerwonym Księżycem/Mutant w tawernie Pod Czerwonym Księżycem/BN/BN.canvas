@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"adedd56efba4bc66","type":"file","file":"BN/pic/Pasted image 20260421003613.png","x":-1040,"y":-620,"width":400,"height":280},
+		{"id":"0507763f8228a8f7","type":"file","file":"BN/pic/Pasted image 20260421003627.png","x":-580,"y":-620,"width":400,"height":280},
+		{"id":"e039007da0643f4c","type":"file","file":"BN/pic/Pasted image 20260421003640.png","x":-120,"y":-620,"width":400,"height":280},
+		{"id":"7b6dead704b55fc4","type":"file","file":"BN/pic/Pasted image 20260421003702.png","x":-1040,"y":-280,"width":400,"height":280},
+		{"id":"0d54516911d75726","type":"file","file":"BN/pic/Pasted image 20260421003820.png","x":480,"y":-620,"width":400,"height":280},
+		{"id":"e3596e352078d3f6","type":"file","file":"BN/pic/Pasted image 20260421003833.png","x":480,"y":-280,"width":400,"height":280},
+		{"id":"45009283e7095623","type":"file","file":"BN/pic/Pasted image 20260421005226.png","x":-580,"y":-280,"width":400,"height":280},
+		{"id":"3362498c15e70d0f","type":"file","file":"BN/pic/Pasted image 20260421005238.png","x":-1040,"y":260,"width":400,"height":280},
+		{"id":"b6b5b9b11f8e5b5e","type":"file","file":"BN/pic/Pasted image 20260421005256.png","x":-580,"y":260,"width":400,"height":280},
+		{"id":"fbdee582828173f3","type":"file","file":"BN/pic/Pasted image 20260421005303.png","x":-120,"y":260,"width":400,"height":280},
+		{"id":"0fc572d32ead16be","x":-580,"y":540,"width":400,"height":74,"type":"file","file":"Pasted image 20260421015131.png"},
+		{"id":"48e67fd3b94d31ee","x":-1040,"y":544,"width":400,"height":70,"type":"file","file":"Pasted image 20260421015228.png"},
+		{"id":"97ac3414936ae507","x":-120,"y":544,"width":400,"height":70,"type":"file","file":"Pasted image 20260421015314.png"},
+		{"id":"4600e35c7d1241ce","x":-580,"y":0,"width":400,"height":68,"type":"file","file":"Pasted image 20260421015419.png"},
+		{"id":"9941cd44ba88581f","x":480,"y":0,"width":400,"height":74,"type":"file","file":"Pasted image 20260421015452.png"},
+		{"id":"1c77d3268c55da8c","x":-1040,"y":2,"width":400,"height":72,"type":"file","file":"Pasted image 20260421015847.png"}
+	],
+	"edges":[]
+}

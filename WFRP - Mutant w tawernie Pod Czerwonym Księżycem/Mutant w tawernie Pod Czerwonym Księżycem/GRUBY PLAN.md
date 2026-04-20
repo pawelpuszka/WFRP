@@ -4,8 +4,6 @@
 [[3. Sprzedaż kamienia w lombardzie]]
 **[[4. Makabryczne znalezisko i ultimatum]].**
 [[5. Etap śledztwa - Przeszukiwanie pokoi i analiza dowodów.]]
-
-    
     - **Badanie zwłok:** Dzięki spostrzegawczości bohaterowie odkrywają, że mutant to ucharakteryzowany człowiek (zaginiony gość Holvig), a jego „tatuaż” jest świeżo namalowany farbą.
     - **Przeszukanie pokoi:** W pokoju Holviga bohaterowie znajdują ślady walki oraz **czerwoną i niebieską farbę**, pasującą do kolorów fałszywego tatuażu.
     - **Motyw finansowy:** Odnalezienie **dokumentu (umowy)** między współwłaścicielami karczmy (Ulrichem i Prattem Kofflerem), z której wynika, że w przypadku śmierci jednego z nich (i jego potomków), drugi przejmuje całość majątku.
