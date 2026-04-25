@@ -10,4 +10,4 @@
   
 - Zapytany odpowie, że sporadycznie Prat Kopfel odwiedzał Holwiga, czasem Holwig przychodził do Prata, ale o czym rozmawiali i czy coś ich łączyło, nie wie.
   
-- Może zdradzić że karczmarz dwa razy zasnął pijany na sali głównej odkąd zaginął mu syn. Ostatnim razem wczoraj. - Sytuacja gdy Pratt Kopfel zabrał klucze do pokoju Siga 
+- Może zdradzić że karczmarz dwa razy zasnął pijany na sali głównej odkąd zaginął mu syn. Ostatnim razem wczoraj - *Sytuacja gdy Pratt Kopfel zabrał klucze do pokoju Siga* 

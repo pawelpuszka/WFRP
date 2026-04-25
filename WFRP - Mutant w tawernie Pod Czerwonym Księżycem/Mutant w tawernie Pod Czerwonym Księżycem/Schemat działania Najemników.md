@@ -1,6 +1,6 @@
 1. Jeżeli nikt nie sprawdzi mutanta to pierwsza zrobi to Teresa, oznajmiając że znalazła tatuaż, co wskaże na winę karczmarza.
 2. Rozmowa z Prattem Kopflerem - będzie można wykorzystać gdyby była potrzeba zmowy Pratta i najemników 
-3. Rozmowa z karczmarzem.
+3. Rozmowa z karczmarzem - będą pytali o to skąd pochodzi mutant i co ukrywa karczmarz. Karczmarz wyczuwa że ta trójka już wydała na nim wyrok.
 4. Przeszukiwanie pokoi
 	1. Pokój Holviga.
 	2. Pokój syna karczmarza
