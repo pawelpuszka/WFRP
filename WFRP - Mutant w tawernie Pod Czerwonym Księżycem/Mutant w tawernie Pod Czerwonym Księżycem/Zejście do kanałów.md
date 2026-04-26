@@ -1,5 +1,5 @@
 ### Wejście do kanałów
-Odsuwasz regał dosyć cicho. Musi tu istnieć jakiś dziwny mechanizm, bo mebel porusza się nadzwyczaj gładko.
+Odsuwasz regał dosyć cicho. Musi tu istnieć jakiś dziwny mechanizm, bo mebel porusza się nadzwyczaj gładko i cicho.
 
 Pojawia się ciemna, czarna dziura w ścianie, na wysokości metra, z której bije intensywny, odrzucający fetor. To mieszanka stęchlizny, ludzkich odchodów, piżma i czegoś, co przypomina zapach mokrego futra.
 
@@ -12,9 +12,15 @@ Po przyświeceniu można zauważyć, że tunel jest bardzo krótki – około 2-
 ### Opis Kanałów (do odczytania graczom)
 
 **Zmysły i Atmosfera:**
-> "Gdy schodzicie po śliskiej drabince, pierwszą rzeczą, która was uderza, nie jest ciemność, lecz odór. To gęsta, lepka mieszanka wyziewów z rzeźni, ludzkich nieczystości i stęchlizny, która wydaje się mieć niemal namacalną fakturę. Powietrze jest tu ciężkie i wilgotne, a każdy wasz oddech kończy się nieprzyjemnym drapaniem w gardle. 
+> "Gdy schodzicie po drabince, pierwszą rzeczą, która was uderza, nie jest ciemność, lecz wstrętny odór. Gęsta mieszanka wyziewów z rzeźni, ludzkich nieczystości i stęchlizny. Powietrze jest tu ciężkie i wilgotne, a każdy wasz oddech kończy się nieprzyjemnym drapaniem w gardle. 
 > 
-> W dole słyszycie miarowy, hipnotyzujący dźwięk kapiącej wody, przerwany raz po raz piskliwym, nerwowym szmerem szczurów, które pierzchają przed światłem waszej latarni. Ściany kanału pokrywa lśniący, czarny osad, a pod waszymi butami mlaska tłusta maź, która próbuje wessać wasze stopy przy każdym kroku."
+> Słychać miarowy dźwięk kapiącej wody, przerwany raz po raz piskliwym, nerwowym szmerem szczurów, które pierzchają przed światłem waszej latarni. Ściany kanału pokrywa lśniący, czarny osad, a pod waszymi butami mlaska wilgotna maź."
+
+"W świetle pochodni widoczny jest kanał miejski, szeroki na około 2 metry, płynący pośrodku tunelu. Stoicie na brukowanym, śliskim chodniku szerokości jakieś półtora metra. Taki sam chodnik widać po drugiej stronie kanału."
+
+Gdy BG przyjrzą się dokładnie chodnikowi to zauważą ślady prowadzące na prawo od dziury z której przybyli. Są to ślady butów kilku osób.
+
+*Sprawa wygląda tak, że Pratt Kopfel zostawia wiadomość dla śliskiego Kuby w kanałach pod sporym kamieniem który leży około 20 metrów od dziury prowadzącej z karczmy do kanałów. Umówionego dnia, w nocy, ludzie Kuby przychodzą pod karczmę kanałami. Pomagają mu zabrać ofiarę do kanałów.*
 
 **Ślad Siga (Haczyk fabularny):**
 > "Tuż przy wyjściu z tunelu, na wysokości waszych oczu, dostrzegacie coś, co nie pasuje do tego ścieku. O rdzawy, wygięty hak wbity w mur zahaczył się **strzęp błękitnego aksamitu**. Jest czysty, nie zdążył jeszcze nasiąknąć brudem kanałów. Pamiętacie ten kolor – to dokładnie ten sam materiał, z którego uszyty był dublet Siga, syna karczmarza. Fakt, że materiał został tu brutalnie naddarty, nie pozostawia złudzeń: chłopak nie schodził tu dobrowolnie."
