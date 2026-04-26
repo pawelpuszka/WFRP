@@ -20,7 +20,7 @@ Po przyświeceniu można zauważyć, że tunel jest bardzo krótki – około 2-
 
 Gdy BG przyjrzą się dokładnie chodnikowi to zauważą ślady prowadzące na prawo od dziury z której przybyli. Są to ślady butów kilku osób.
 
-*Sprawa wygląda tak, że Pratt Kopfel zostawia wiadomość dla śliskiego Kuby w kanałach pod sporym kamieniem który leży około 20 metrów od dziury prowadzącej z karczmy do kanałów. Umówionego dnia, w nocy, ludzie Kuby przychodzą pod karczmę kanałami. Pomagają mu zabrać ofiarę do kanałów.*
+*Sprawa wygląda tak, że Pratt Kopfel zostawia wiadomość dla śliskiego Kuby w kanałach pod sporym kamieniem który leży około 20 metrów od dziury prowadzącej z karczmy do kanałów. Umówionego dnia, w nocy, ludzie Kuby przychodzą pod karczmę kanałami. Pomagają mu zabrać ofiarę do kanałów, którą Pratt wcześniej ogłusza lub usypia swoimi ziołami.*
 
 **Ślad Siga (Haczyk fabularny):**
 > "Tuż przy wyjściu z tunelu, na wysokości waszych oczu, dostrzegacie coś, co nie pasuje do tego ścieku. O rdzawy, wygięty hak wbity w mur zahaczył się **strzęp błękitnego aksamitu**. Jest czysty, nie zdążył jeszcze nasiąknąć brudem kanałów. Pamiętacie ten kolor – to dokładnie ten sam materiał, z którego uszyty był dublet Siga, syna karczmarza. Fakt, że materiał został tu brutalnie naddarty, nie pozostawia złudzeń: chłopak nie schodził tu dobrowolnie."
