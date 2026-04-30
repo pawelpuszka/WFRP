@@ -13,7 +13,7 @@
 	- jeżeli BG znajdą farby w pokoju Holwiga to Pratt wpadnie w panikę choć stara się to ukryć - **TEST Percepcja +0** (takie same farby można odnaleźć w pokoju Prata)
 	- jeżeli przez dłuższy czas nikt nie odkryje że mutant nie jest synem karczmarza to zauważy jako pierwszy że brakuje Holviga i wskaże blondyna z warkoczami że wczoraj się pokłócili
 	- Jeśli BG znajdą czarny guzik w pokoju Holwiga, który pasuje do koszuli Prata ten odpowie, że prawdopodobnie zgubił ten guzik jakiś czas temu, a do Holwiga czasami zachodził i być może akurat tam ten guzik zgubił (fakt odwiedzin może potwierdzić stajenny Filip).
-	- Jeżeli BG w jakikolwiek sposób obezwładnią Pratta lub go obszukają to znajdą klucz w kieszeni jego kaftana. Porównanie z kluczem do pokoju Siga wskaże że to jest kopia.
+	
 
 ## ⚡ Reakcje na działania Bohaterów Graczy (BG)
 
