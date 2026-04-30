@@ -1,5 +1,6 @@
 {
 	"nodes":[
+<<<<<<< HEAD
 		{"id":"adedd56efba4bc66","type":"file","file":"Mutant w tawernie Pod Czerwonym Księżycem/BN/pic/Pasted image 20260421003613.png","x":-1040,"y":-620,"width":400,"height":280},
 		{"id":"0507763f8228a8f7","type":"file","file":"Mutant w tawernie Pod Czerwonym Księżycem/BN/pic/Pasted image 20260421003627.png","x":-580,"y":-620,"width":400,"height":280},
 		{"id":"e039007da0643f4c","type":"file","file":"Mutant w tawernie Pod Czerwonym Księżycem/BN/pic/Pasted image 20260421003640.png","x":-120,"y":-620,"width":400,"height":280},
@@ -15,6 +16,23 @@
 		{"id":"48e67fd3b94d31ee","type":"file","file":"Mutant w tawernie Pod Czerwonym Księżycem/BN/pic/Pasted image 20260421015228.png","x":-1050,"y":744,"width":399,"height":70},
 		{"id":"0fc572d32ead16be","type":"file","file":"Mutant w tawernie Pod Czerwonym Księżycem/BN/pic/Pasted image 20260421015131.png","x":-590,"y":740,"width":399,"height":74},
 		{"id":"89ae32ed6d7b91a2","type":"file","file":"Mutant w tawernie Pod Czerwonym Księżycem/BN/pic/Pasted image 20260421232351.png","x":-1050,"y":1220,"width":400,"height":200},
+=======
+		{"id":"adedd56efba4bc66","type":"file","file":"BN/pic/Pasted image 20260421003613.png","x":-1040,"y":-620,"width":400,"height":280},
+		{"id":"0507763f8228a8f7","type":"file","file":"BN/pic/Pasted image 20260421003627.png","x":-580,"y":-620,"width":400,"height":280},
+		{"id":"e039007da0643f4c","type":"file","file":"BN/pic/Pasted image 20260421003640.png","x":-120,"y":-620,"width":400,"height":280},
+		{"id":"7b6dead704b55fc4","type":"file","file":"BN/pic/Pasted image 20260421003702.png","x":-1040,"y":-280,"width":400,"height":280},
+		{"id":"0d54516911d75726","type":"file","file":"BN/pic/Pasted image 20260421003820.png","x":480,"y":-620,"width":400,"height":280},
+		{"id":"e3596e352078d3f6","type":"file","file":"BN/pic/Pasted image 20260421003833.png","x":480,"y":-280,"width":400,"height":280},
+		{"id":"45009283e7095623","type":"file","file":"BN/pic/Pasted image 20260421005226.png","x":-580,"y":-280,"width":400,"height":280},
+		{"id":"4600e35c7d1241ce","type":"file","file":"BN/pic/Pasted image 20260421015419.png","x":-580,"y":0,"width":400,"height":68},
+		{"id":"fbdee582828173f3","type":"file","file":"BN/pic/Pasted image 20260421005303.png","x":-130,"y":460,"width":400,"height":280},
+		{"id":"94bb3c51a9d9b70a","type":"text","text":"**Umiejętności:** Broń Biała (Podstawowa) 38, Broń Biała (Parująca) 33, Odporność 35, Unik 38, Skradanie (Miasto) 39, Opanowanie 37,\n\nTalenty:\nSilny Cios 1\n\nEkwipunek:\nSztylet +5\nPuklerz +5 Parujący\n","x":-120,"y":840,"width":380,"height":360},
+		{"id":"95f73b335a0c8cd7","type":"file","file":"BN/pic/Pasted image 20260421015228.png","x":-130,"y":744,"width":399,"height":70},
+		{"id":"3362498c15e70d0f","type":"file","file":"BN/pic/Pasted image 20260421005238.png","x":-1050,"y":460,"width":400,"height":280},
+		{"id":"48e67fd3b94d31ee","type":"file","file":"BN/pic/Pasted image 20260421015228.png","x":-1050,"y":744,"width":399,"height":70},
+		{"id":"0fc572d32ead16be","type":"file","file":"BN/pic/Pasted image 20260421015131.png","x":-590,"y":740,"width":399,"height":74},
+		{"id":"89ae32ed6d7b91a2","type":"file","file":"BN/pic/Pasted image 20260421232351.png","x":-1050,"y":1220,"width":400,"height":200},
+>>>>>>> 1f5cacd4d1c1f22c4b568876eba5e2c0d74e89d7
 		{"id":"51c737285b2c854b","type":"text","text":"**Umiejętności:** Broń Biała (Podstawowa) 36, Broń Biała (Bijatyka) 32, Broń Biała (Parująca) 33, Zastraszanie 44, Odporność 35, Unik 39, Atletyka 41, Mocna Głowa 40, Wiedza (Lokalna) 52, Dowodzenie 46\n\nTalenty:\nCios Poniżej Pasa 1, Skrócenie Dystansu\n\nEkwipunek:\nSztylet +5 \nLewak +5 Parujący\nSkórzana kurta +1PP (ramiona, korpus)","x":-1050,"y":840,"width":380,"height":360},
 		{"id":"4943b3e19532194b","type":"text","text":"**Umiejętności:** Broń Biała (Podstawowa) 42, Zastraszanie 55, Odporność 50, Atletyka 41, Mocna Głowa 55, Unik 41\n\nTalenty:\nUrodzony Wojownik, Groźny\n\nEkwipunek:\nMiecz +8\n\n","x":-580,"y":840,"width":380,"height":360},
 		{"id":"5f0f935c1747788e","type":"text","text":"**Umiejętności:** Broń Biała (Podstawowa) 46, Odporność 55, Unik 38, Atletyka 38, Mocna Głowa 57, Wspinaczka 38\n\nTalenty:\nUrodzony Wojownik, Silny Cios 1\n\nEkwipunek:\nTopór +9 **Niewyważony**, **Rąbiący**\nSkórzana kaftan +1PP (korpus)","x":-1040,"y":74,"width":380,"height":360},

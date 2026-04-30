@@ -1,6 +1,0 @@
-	- prowadzą śledztwo na własną rękę i są manipulowani przez **Pratta Kopflera**, który podsuwa im rozwiązania sugerujące winę karczmarza - ukrywanie mutanta 
-	- w związku z tym nie będą szukali dodatkowego rozwiązania ponad to co Zaproponuje Pracy Kopfel - wina karczmarza który ukrywał syna mutanta
-	- zgodzą się na przeszukanie swojego pokoju pod warunkiem przeszukania pokoju BG
-	- nie boją się BG, nie dadzą się zastraszyć i nie obawiają się rozwiązania siłowego, choć nie dążą do niego
-	- Jeżeli BG nie odkryją zagadki to wskażą łowcy czarownic karczmarza jako winnego, ponieważ to ich syn jest mutantem i był ukrywany
-	- Jeżeli zagadka zostanie rozwiązana to i tak wskażą na karczmarza ponieważ to w jego pokoju zostanie odkryta fiolka z roztworem spaczenia, a karczmarz miał motyw do pozbycia się Holwiga, bo ten mu zalegał z czynszem.
