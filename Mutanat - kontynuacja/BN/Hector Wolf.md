@@ -1,12 +1,18 @@
 Fanatyczny Łowca Czarownic.
 Nienawidzi mutantów.
 
+**Opis wyglądu**
+
 Można wykorzystać jako plotki:
 - Sprowadzony przez grafa Jungfreuda do Ubersreiku aby pozbyć się szerzących się kultów bóstw chaosu.
 - Standardowym działaniem Hectora jest posłać na stos każdego mutanta, którego wykryje i osoby z nim powiązane. Zdarzyło mu się w taki sposób wymazać istnienia kilka wiosek.
 - Jest nienawidzony przez ludność miasta i pobliskich wsi. 
   
 Graf Jungfreud przykazał łowcy czarownic działanie z większą rozwagą.
+
+Bardzo często można go spotkać w karczmie Bałagan i Wiadro w dzielnicy Wojskowej.
+
+Hector mieszka za murami zamku Czarna Skała, w jednym z domów.
 
 **TAJEMNICA ŁOWCY CZAROWNIC**
 Hector Wolf jest tak na prawdę kultystą organizacji "Żółte Brzuchy" i czci Rogatego Szczura.
