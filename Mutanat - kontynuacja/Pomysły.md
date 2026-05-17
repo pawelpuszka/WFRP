@@ -16,4 +16,11 @@
 6. Pomysły BG
 	1. Czy zechcą skontaktować się z kultystami
 	2. Czy zechcą odnaleźć kryjówkę kultystów
-	3. 
+
+ Motyw muzyczny gdy pojawia się Hector wolf
+ Przekopiować mechanikę do tego projektu.
+ gdzie jest i jak wygląda siedziba straży miejskiej
+ opis kaplicy grala
+ opisy bogatego mieszczaństwa
+ mechanika śledzenia
+ statystyka i opis ludzi śliskiego kuby
