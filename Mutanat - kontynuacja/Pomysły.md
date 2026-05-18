@@ -23,4 +23,7 @@
  opis kaplicy grala
  opisy bogatego mieszczaństwa
  mechanika śledzenia
- statystyka i opis ludzi śliskiego kuby
+ statystyka i opis ludzi śliskiego kuby i samego kuby
+ jak BG dowiedzą się gdzie kult ma swoją siedzibę, czy dotrą tam kanałami czy normalnie
+ ropiejąca rana
+ wielkość przeciwnika
