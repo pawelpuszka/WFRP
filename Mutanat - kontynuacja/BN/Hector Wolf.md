@@ -2,6 +2,7 @@ Fanatyczny Łowca Czarownic.
 Nienawidzi mutantów.
 
 **Opis wyglądu**
+Uwzględnić w opisie że Wolf ma na ręku tylko jedną rękawiczkę. jest to czarna rękawiczka z dobrej jakości materiału haftowana złotymi ozdobami i wzorami.
 
 Można wykorzystać jako plotki:
 - Sprowadzony przez grafa Jungfreuda do Ubersreiku aby pozbyć się szerzących się kultów bóstw chaosu.
