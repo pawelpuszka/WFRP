@@ -18,6 +18,7 @@
 	2. Czy zechcą odnaleźć kryjówkę kultystów
 
  Motyw muzyczny gdy pojawia się Hector wolf
+ Dźwięki kanałów
  Przekopiować mechanikę do tego projektu.
  gdzie jest i jak wygląda siedziba straży miejskiej
  opis kaplicy grala
@@ -27,3 +28,5 @@
  jak BG dowiedzą się gdzie kult ma swoją siedzibę, czy dotrą tam kanałami czy normalnie
  ropiejąca rana
  wielkość przeciwnika
+ mapa kanałów do walki
+ mapa siedzib kultystów
