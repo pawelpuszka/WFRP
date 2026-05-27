@@ -16,7 +16,6 @@ Bardzo często można go spotkać w karczmie Bałagan i Wiadro w dzielnicy Wojsk
 Hector mieszka za murami zamku Czarna Skała, w jednym z domów.
 
 **TAJEMNICA ŁOWCY CZAROWNIC**
-Hector Wolf jest tak na prawdę kultystą organizacji "Żółte Brzuchy" i czci Rogatego Szczura.
-Profesja którą wykonuje jest po części jego przykrywką, a po części jego pokutą za służbę chaosowi 
+Hector Wolf jest tak na prawdę kultystą organizacji "Żółte Brzuchy". Nie jest on zbyt gorliwym wyznawcą Rogatego Szczura. Głównym powodem przystąpienia do organizacji jest zawarty układ pomiędzy Hectorem a Śliskim Kubą. Kuba dostarcza Hectorowi mutantów i informacji gdzie można ich znaleźć a Hector dzięki temu wygląda na skutecznego łowcę czarownic. Z kolei łowca zapewnia bezpieczeństwo i informacje o planowanych działaniach władz miejskich oraz eliminuje konkurencję dla Rogatego Szczura.
 Kultyści czczący boga szczuroludzi nie mają żadnych mutacji więc są dla Hectora idealnym ugrupowaniem.
 Hector Wolf przez lata służby napatrzył się na potęgę chaosu i zauważył że zepsucie tego świata postępuje pomimo starań ludzi aby temu przeciwdziałać. Nienawidzi mutacji, ale postanowił sprzymierzyć się ze swoim wrogiem. W tym widzi swoją jedyną szansę na przetrwanie. Hector Wolf po prostu zwątpił w ludzkość i w triumf dobra nad złem.

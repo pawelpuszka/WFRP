@@ -17,16 +17,29 @@
 	1. Czy zechcą skontaktować się z kultystami
 	2. Czy zechcą odnaleźć kryjówkę kultystów
 
- Motyw muzyczny gdy pojawia się Hector wolf
+ Motyw muzyczny :
+ gdy pojawia się Hector wolf
  Dźwięki kanałów
+
+ dźwięki miasta
+	 doki
+	 rzemieślnicza
+	 DAWIHAFEN
+walka
+neutralna
+ 
  Przekopiować mechanikę do tego projektu.
+ mechanika śledzenia
+ ropiejąca rana
+ wielkość przeciwnika
+ 
  gdzie jest i jak wygląda siedziba straży miejskiej
  opis kaplicy grala
  opisy bogatego mieszczaństwa
- mechanika śledzenia
+ 
  statystyka i opis ludzi śliskiego kuby i samego kuby
+ 
  jak BG dowiedzą się gdzie kult ma swoją siedzibę, czy dotrą tam kanałami czy normalnie
- ropiejąca rana
- wielkość przeciwnika
+ 
  mapa kanałów do walki
  mapa siedzib kultystów
