@@ -22,7 +22,9 @@
  Dźwięki kanałów
 
  dźwięki miasta
+	 chlust
 	 doki
+	 kolonia wandiene
 	 rzemieślnicza
 	 DAWIHAFEN
 walka

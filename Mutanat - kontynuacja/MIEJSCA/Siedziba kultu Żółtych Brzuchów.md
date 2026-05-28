@@ -1,7 +1,7 @@
 
 [[#BUDYNEK W KOLONII WANDIENE]]
 Budynek w [[Kolonia Wandiene]] - położony w jednej z bocznych uliczek. 
-Z głównej ulicy skręcacie w boczną uliczkę która ma około dwóch metrów szerokości i prowadzi pomiędzy piętrowymi budynkami, których górne kondygnacje opierają się o siebie nawzajem. Jest tu ciemno i ponuro ponieważ światło słoneczne/księzycowe nie ma tutaj dostępu. Ogólny zgiełk nieco cichnie ustępując odgłosom awantury w budynku obok, chrobotaniu i popiskiwaniu szczurów. Brud i śmieci zalegają w niemal każdym kącie, o ścianę jednego z budynków opartych jest kilka przegnitych skrzynek a obok nich stoją też stare beczki. ^f15e2a
+Z głównej ulicy skręcacie w boczną uliczkę która ma około dwóch metrów szerokości i prowadzi pomiędzy piętrowymi budynkami, których górne kondygnacje  niemal opierają się o siebie nawzajem. Jest tu ciemno i ponuro ponieważ światło słoneczne/księzycowe praktycznie tutaj nie docierają. Ogólny zgiełk nieco cichnie ustępując odgłosom awantury w budynku obok, chrobotaniu i popiskiwaniu szczurów. Brud i śmieci zalegają w niemal każdym kącie, o ścianę jednego z budynków opartych jest kilka przegnitych skrzynek a obok nich stoją też stare beczki. ^f15e2a
 
 **BUDYNEK I WNĘTRZE**
 Sam budynek, o szerokości około 4 metrów, jest wtopiony w rząd ruder, które opierają się jedna o drugą. 
