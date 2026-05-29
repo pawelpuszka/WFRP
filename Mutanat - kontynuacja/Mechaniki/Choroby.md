@@ -33,3 +33,27 @@ Infekcji.
 Inkubacja: 1k10 dni lub natychmiast, jeśli jest skutkiem powikłania
 Czas trwania: 1k10 dni
 Objawy: Apatia, Gorączka, Nawroty (częste), Uciążliwa rana
+
+
+*Apatia*
+No cóż, postać nie czuje się dobrze. Jest zmęczona, ciężko jej się
+skoncentrować i ogólnie rzecz biorąc, czuje się wypluta. Otrzymuje 1
+poziom Zmęczenia, który nie może zostać usunięty, dopóki choroba
+nie zostanie wyleczona.
+
+*Apatia*
+No cóż, postać nie czuje się dobrze. Jest zmęczona, ciężko jej się
+skoncentrować i ogólnie rzecz biorąc, czuje się wypluta. Otrzymuje 1
+poziom Zmęczenia, który nie może zostać usunięty, dopóki choroba
+nie zostanie wyleczona.
+
+*Uciążliwa Rana*
+Rana lub dolegliwość postaci nie chce się zagoić z powodu infekcji.
+Każda Uciążliwa Rana oznacza, że postać nie może wyleczyć jednej
+Rany, która jątrzy się, otwiera i zaczyna sączyć się z niej śmierdząca
+ropa. Każdego dnia należy wykonać Przeciętny (+20) Test Odporności
+– jeśli się nie powiedzie, infekcja rozwija się w Ropiejącą Ranę
+(jeśli postać jeszcze jej nie ma).
+*Leczenie*: Codziennie wykonywany udany Test Leczenia oznacza,
+że Rana jest odpowiednio przemywana i opatrywana, dzięki czemu
+znika konieczność wykonywania Testu Odporności.

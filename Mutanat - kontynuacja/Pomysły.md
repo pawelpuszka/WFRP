@@ -38,6 +38,9 @@ neutralna
  gdzie jest i jak wygląda siedziba straży miejskiej
  opis kaplicy grala
  opisy bogatego mieszczaństwa
+ **opis Marktplatz**
+	 ratusz - Budynek ratusza Ubersreiku to budzący podziw dwupiętrowy gmach,
+którego cztery wieże górują nad północną stroną Marktplatzu.
  
  statystyka i opis ludzi śliskiego kuby i samego kuby
  

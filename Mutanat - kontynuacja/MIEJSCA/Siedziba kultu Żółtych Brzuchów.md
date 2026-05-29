@@ -62,10 +62,10 @@ Na przeciwległej ścianie znajdują się kolejne drzwi za którymi jest kolejne
 
 Można się do niego dostać także z poziomu kanałów.
 [[#OD STRONY KANAŁÓW]] 
-Od tej strony można się dostać
+Od tej strony można się dostać ^eacc12
 - śledzenie kultysty który przyjdzie pod kamień po wiadomość od BG
 - BG przyprowadzi tutaj Wahlund, jeżeli BG z nim porozmawiają, twierdząc że to jest dziwne miejsce w kanałach i może o nie chodzi
-Podążacie dalej głównym korytarzem. Jeden z bocznych korytarzy jest waszym docelowym. Nie ma tutaj chodnika, brodzicie w prawie po kolana w ścieku. Po kilkunastu metrach ściek wysycha, droga kieruje was minimalnie w górę. 
+Podążacie dalej głównym korytarzem. Jeden z bocznych korytarzy jest waszym docelowym. Nie ma tutaj chodnika, brodzicie w prawie po kolana w ścieku. Po kilkunastu metrach ściek wysycha, droga kieruje was minimalnie w górę. *Jeżeli jest to tutaj Wahlund pożegna BG*
 *Tutaj bystrzy BG mogą zauważyć świeże ślady butów.* - **TEST Per +0** 
 Korytarz się kończy.
 Po waszej prawej stronie widzicie wnękę w ścianie. Wielkością na jednego człowieka. 
