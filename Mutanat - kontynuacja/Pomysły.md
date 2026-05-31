@@ -40,7 +40,8 @@ neutralna
  opisy bogatego mieszczaństwa
  **opis Marktplatz**
 	 ratusz - Budynek ratusza Ubersreiku to budzący podziw dwupiętrowy gmach,
-którego cztery wieże górują nad północną stroną Marktplatzu.
+	którego cztery wieże górują nad północną stroną Marktplatzu.
+tawerna Pod Skrzywionym Młotkiem
  
  statystyka i opis ludzi śliskiego kuby i samego kuby
  

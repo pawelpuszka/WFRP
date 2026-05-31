@@ -57,3 +57,6 @@ ropa. Każdego dnia należy wykonać Przeciętny (+20) Test Odporności
 *Leczenie*: Codziennie wykonywany udany Test Leczenia oznacza,
 że Rana jest odpowiednio przemywana i opatrywana, dzięki czemu
 znika konieczność wykonywania Testu Odporności.
+
+
+
