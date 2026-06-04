@@ -19,33 +19,25 @@
 
  Motyw muzyczny :
  gdy pojawia się Hector wolf
- Dźwięki kanałów
 
- dźwięki miasta
-	 chlust
-	 doki
-	 kolonia wandiene
-	 rzemieślnicza
-	 DAWIHAFEN
-walka
-neutralna
+
+
  
- Przekopiować mechanikę do tego projektu.
- mechanika śledzenia
- ropiejąca rana
+
  wielkość przeciwnika
  
- gdzie jest i jak wygląda siedziba straży miejskiej
+
  opis kaplicy grala
  opisy bogatego mieszczaństwa
- **opis Marktplatz**
-	 ratusz - Budynek ratusza Ubersreiku to budzący podziw dwupiętrowy gmach,
-	którego cztery wieże górują nad północną stroną Marktplatzu.
 tawerna Pod Skrzywionym Młotkiem
  
- statystyka i opis ludzi śliskiego kuby i samego kuby
- 
  jak BG dowiedzą się gdzie kult ma swoją siedzibę, czy dotrą tam kanałami czy normalnie
- 
- mapa kanałów do walki
- mapa siedzib kultystów
+	 1. mogą śledzić kogoś kto przyjdzie po wiadomość w kanałach
+	 2. mogą uprowadzić kultystę który przyjdzie się skontaktować z BG i wymusić na nim zdradzenie gdzie jest siedziba kultystów lub gdzie znaleźć Kubę
+	 3. mogą śledzić Hectora Wolfa, a później Śliskiego Kubę i dowiedzieć się gdzie jest siedziba kultystów
+	 4. Wahlund zaprowadzi ich pod siedzibę kultystów od strony kanałów
+
+zebrać statystyki BG w jeden dokument
+
+spis różnych sytuacji
+	mięsna maczanka

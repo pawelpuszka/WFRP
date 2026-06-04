@@ -45,20 +45,21 @@
     },
     {
       "id": "Reikland",
-      "lastAccessed": 1777847861177,
+      "locked": true,
+      "lastAccessed": 1780530629464,
       "markers": [
         {
-          "id": "ID_e9c94a6bb9d9",
+          "id": "ID_5b6adbf9fa7a",
           "type": "default",
           "loc": [
-            970.390625,
-            1268
+            961.453125,
+            1270
           ],
           "layer": "%5B%5BUbersreik_gamemaster_map.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": null,
-          "description": "Gospoda Stara Kuźnia",
+          "description": "Stara Kuźnia",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"

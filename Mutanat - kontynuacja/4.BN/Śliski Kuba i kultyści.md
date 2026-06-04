@@ -7,3 +7,10 @@ Ubrany w zielony **wyświechtany kaftan i białą koszulę**. Kaftan z pozłacan
 
 Kuba jest rajfurem i oferuje, tym których uważa za podróżnych i obcych w mieście, ludziom zwiedzanie tutejszych przybytków. Uśmiecha się przy tym szeroko ukazując swoje niepełne uzębienie. 
 Ci którzy się zgodzą skorzystać z jego usług bardzo często trafiają do kanałów, a następnie trafiają jako niewolnicy do skaveńskiego podimperium. Niektórzy są transportowani pod osłoną nocy do innych miast jeżeli Kuba ma zamówienie na "towar" od swoich panów.
+
+**KULTYŚCI**
+Hans Knochen - rzeźnik, szeroki jak beczka piwa. Łysy, na twarzy broda i szrama.
+Albrecht Sieben - pożółkłe duże zęby i gdy mówi to żuchwa wychodzi mu poza usta.
+Kurt Fasser - były żołnierz, czarne włosy zaczesane do tyłu, mruży oczy gdy się uważnie czemuś 
+			przygląda
+Dietrich von Mahl - były myśliwy, całkowicie okryty peleryną z kapturem, tajemniczy, młody, spory wąs pod nosem
