@@ -13,4 +13,8 @@ Hans Knochen - rzeźnik, szeroki jak beczka piwa. Łysy, na twarzy broda i szram
 Albrecht Sieben - pożółkłe duże zęby i gdy mówi to żuchwa wychodzi mu poza usta.
 Kurt Fasser - były żołnierz, czarne włosy zaczesane do tyłu, mruży oczy gdy się uważnie czemuś 
 			przygląda
-Dietrich von Mahl - były myśliwy, całkowicie okryty peleryną z kapturem, tajemniczy, młody, spory wąs pod nosem
+###### Dietrich von Mahl 
+
+^680c06
+
+- były myśliwy, całkowicie okryty peleryną z kapturem, tajemniczy, młody, spory wąs pod nosem

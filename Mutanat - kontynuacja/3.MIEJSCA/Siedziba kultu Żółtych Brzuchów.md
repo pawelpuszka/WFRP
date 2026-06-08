@@ -55,8 +55,11 @@ W środku zazwyczaj jest tylko jeden kultysta. To jego posiadłość którą udo
 **Budynek** jest dwukondygnacyjny, szeroki na 6 metrów, wydaje się być długi na jakieś 12 metrów.
 **[[#Główna izba]]** jest dosyć spora. Podłoga z drewnianych desek. Na środku stół i ława. Jest tutaj palenisko oraz murowany komin. W kominku tli się żar/pali ogień. Na lewej ścianie jest kuchnia. Wisi jakiś garnek, stoi blat a obok palenisko do podgrzewania posiłków. Z wyjątkiem wiadra na wodę, drewna składowanego przy kuchni i innych narzędzi nie ma tutaj nic ciekawego. ^a9a3c2
 
+Jeżeli BG przyjdą do budynku (nie wiedzą który należy do kultystów) od ulicy to otworzy im kultysta ale będzie grał zwykłego mieszczanina tak aby BG nie domyślili się co to za miejsce.
+
 Na przeciwległej do wejścia ścianie widać dwie pary drzwi. 
 **Drzwi po lewej** to sypialnia z łóżkiem. W kącie stoi skrzynia na ubrania. Na ścianie wisi mała półka na której stoi drewniany kubek.
+Tutaj czai się także jeden z kultystów [[Śliski Kuba i kultyści#^680c06]]
 **Drzwi po prawej** prowadzą do pustego pomieszczenia. Na podłodze leży wygarbowana skóra świni. Gdy BG podniosą skórę to ukaże się drewniana klapa w podłodze. Zamknięta na zasówę.
 Na przeciwległej ścianie znajdują się kolejne drzwi za którymi jest kolejne pomieszczenie gdzie BG znajdują prowizoryczne leże z siana. **TEST Percepcja +0** - odkrycie śladów krwi na sianie.
 

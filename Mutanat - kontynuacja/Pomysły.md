@@ -29,7 +29,7 @@
 
  opis kaplicy grala
  opisy bogatego mieszczaństwa
-tawerna Pod Skrzywionym Młotkiem
+
  
  jak BG dowiedzą się gdzie kult ma swoją siedzibę, czy dotrą tam kanałami czy normalnie
 	 1. mogą śledzić kogoś kto przyjdzie po wiadomość w kanałach
