@@ -2,7 +2,11 @@ Fanatyczny Łowca Czarownic.
 Nienawidzi mutantów.
 
 **Opis wyglądu**
-Uwzględnić w opisie że Wolf ma na ręku tylko jedną rękawiczkę. jest to czarna rękawiczka z dobrej jakości materiału haftowana złotymi ozdobami i wzorami.
+Kapelusz z szerokim rondem ozdobiony czerwonym piórem.  Pod rondem kapelusza kryje się twarz — głębokie bruzdy, zaniedbany zarost i oczy które _mierzą was_ zanim zdążycie otworzyć usta. Nie z ciekawości. Z nawyku.
+Do tyłu zarzucony czerwony, pobrudzony błotem płaszcz a skórzane pasy krzyżują się na piersi i biodrach. 
+Do biodrowego pasa przytroczony jest miecz i kabura z pistoletem.
+Na ręku jedna czarna rękawiczka haftowana w różne wzory złotymi nićmi.
+
 
 Można wykorzystać jako plotki:
 - Sprowadzony przez grafa Jungfreuda do Ubersreiku aby pozbyć się szerzących się kultów bóstw chaosu.
