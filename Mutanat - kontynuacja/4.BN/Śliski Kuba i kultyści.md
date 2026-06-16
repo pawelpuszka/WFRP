@@ -1,7 +1,7 @@
 **Opis wyglądu w zaułku** 
 Średniej wysokości mężczyzna z  długim nosem widocznym spod kaptura i blond włosach. Ma charakterystyczny nawyk **zacierania rąk**.
 
-**Opis gdy wychodzi z karczmy** - prawidziwy Kuba
+**Opis gdy wychodzi z karczmy po spotkaniu z łowcą czarownic lub jest obserwowany przez BG** - prawidziwy Kuba
 Wychudzona twarz o ziemistej cerze, poorana bruzdami. Mokre, ciemne włosy przyklejone do czoła. Szeroko otwarte oczy patrzą na was z mieszaniną strachu i desperacji jakby człowiek ten widział już za wiele rzeczy, których widzieć nie powinien.
 Ubrany w zielony **wyświechtany kaftan i białą koszulę**. Kaftan z pozłacanymi guzikami, z których połowa już dawno odpadła. Proste, lekko bufiaste i wyraźnie znoszone spodnie. Dziurawe buty.
 
@@ -12,7 +12,7 @@ Ci którzy się zgodzą skorzystać z jego usług bardzo często trafiają do ka
 Hans Knochen - rzeźnik, szeroki jak beczka piwa. Łysy, na twarzy broda i szrama.
 Albrecht Sieben - pożółkłe duże zęby i gdy mówi to żuchwa wychodzi mu poza usta.
 Kurt Fasser - były żołnierz, czarne włosy zaczesane do tyłu, mruży oczy gdy się uważnie czemuś 
-			przygląda
+			przygląda ^fa4ab1
 ###### Dietrich von Mahl 
 
 ^680c06
