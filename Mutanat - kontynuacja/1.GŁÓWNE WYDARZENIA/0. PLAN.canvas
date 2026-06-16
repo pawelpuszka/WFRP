@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"409387c79886c590","x":-820,"y":-240,"width":260,"height":60,"type":"text","text":"[[6. Syn karczmarza w domu]]\n"},
+		{"id":"e9a66333a4456761","x":-500,"y":-240,"width":250,"height":60,"type":"text","text":"Do kapitana Stelzera"},
+		{"id":"bc02cedfc0f66afe","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":""},
+		{"id":"6ca9eeb99396373b","x":-80,"y":-180,"width":250,"height":60,"type":"text","text":""},
+		{"id":"4d6e526414a10fdd","x":-80,"y":-300,"width":250,"height":60,"type":"text","text":"[[7. Do kapitana Stelzera, albo i nie]]"}
+	],
+	"edges":[
+		{"id":"3f61bd2b22db9847","fromNode":"409387c79886c590","fromSide":"right","toNode":"e9a66333a4456761","toSide":"left"},
+		{"id":"4d5acde3156772c4","fromNode":"e9a66333a4456761","fromSide":"right","toNode":"4d6e526414a10fdd","toSide":"left","label":"TAK"},
+		{"id":"a6c24945022ef054","fromNode":"e9a66333a4456761","fromSide":"right","toNode":"6ca9eeb99396373b","toSide":"left","label":"NIE"}
+	]
+}

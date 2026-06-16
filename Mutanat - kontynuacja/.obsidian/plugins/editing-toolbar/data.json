@@ -455,7 +455,7 @@
   "useCurrentLineForRegex": false,
   "ai": {
     "enabled": false,
-    "consentAccepted": false,
+    "consentAccepted": true,
     "onboardingShown": true,
     "providerMode": "pkmer-first",
     "enableInlineCompletion": true,
@@ -478,7 +478,7 @@
       "tokenExpiresAt": 0,
       "userInfo": null
     },
-    "enableCustomModel": false,
+    "enableCustomModel": true,
     "customModel": {
       "apiFormat": "openai-compatible",
       "baseUrl": "",
