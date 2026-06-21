@@ -4,7 +4,7 @@ kanban-plugin: board
 
 ---
 
-## [[7. Ciemne Interesy Łowcy Czarownic]]
+## [[8. Ciemne Interesy Łowcy Czarownic]]
 
 - [ ] Opis Dunkelfeucht
 - [ ] Gdzie dokładnie znajduje się Spittlefeld
@@ -15,10 +15,15 @@ kanban-plugin: board
 - [ ] zapytać AI co można ciekawego dodać do listy
 
 
+## Ogólna
+
+- [ ] Zrekapitulować rozmowę Śliskiego Kuby i Hectora Wolfa
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
 ```
 %%

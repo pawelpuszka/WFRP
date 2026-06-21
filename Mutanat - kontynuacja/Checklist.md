@@ -10,7 +10,7 @@ Wydarzenia/sceny
 3. Spotkanie z wysłannikiem grafa Jungfreuda i zlecenie odnalezienia łowcy. Straz miejska nie może być w to zamieszana ponieważ nikt nie może się dowiedzieć że łowca czarownic grafa mial związek z jakimkolwiek kultem. Łowca ma być unieszkodliwiony potajemnie. 
 4. Przeszukanie domu Hectora Wolfa i znalezienie wskazówek mówiących o magazynie.
 5. Przekazanie info o magazynie kapitanowi straży. Kapitan jest niechętny obławie magazynu.
-6. Przeszukanie wskazanego magazynu. Coś ciekawego tutaj musi się wydarzyć. Dalsze wskazówki. Jeżeli odbędzie ze strażą miejską to Hector się nie pojawi.
+6. Przeszukanie wskazanego magazynu. Coś ciekawego tutaj musi się wydarzyć. Dalsze wskazówki.
 7. Atak Hectora Wolfa i kultysty kusznika
 8. Ucieczka Hectora do budynku w Spitlefeld
 
