@@ -3,13 +3,14 @@
 Budynek w [[Kolonia Wandiene]] - położony w jednej z bocznych uliczek. 
 Z głównej ulicy skręcacie w boczną uliczkę która ma około dwóch metrów szerokości i prowadzi pomiędzy piętrowymi budynkami, których górne kondygnacje  niemal opierają się o siebie nawzajem. Jest tu ciemno i ponuro ponieważ światło słoneczne/księzycowe praktycznie tutaj nie docierają. Ogólny zgiełk nieco cichnie ustępując odgłosom awantury w budynku obok, chrobotaniu i popiskiwaniu szczurów. Brud i śmieci zalegają w niemal każdym kącie, o ścianę jednego z budynków opartych jest kilka przegnitych skrzynek a obok nich stoją też stare beczki. ^f15e2a
 
-**BUDYNEK I WNĘTRZE**
-Sam budynek, o szerokości około 5 metrów, jest wtopiony w rząd ruder, które opierają się jedna o drugą. 
+**BUDYNEK**
+Sam budynek, o szerokości około 5 metrów, jest wtopiony w rząd ruder, które opierają się jedna o drugą.
+**WNĘTRZE**
 W środku budynku, zaraz za wejściem jest izba (4x5 metrów, największe pomieszczenie w budynku). Podłoga to zwykłe klepisko. Na środku pomieszczenia zrobione jest prowizoryczne palenisko z rusztem otoczone kamieniami. Dookoła paleniska ułożone są belki z drzewa, przeznaczone do siedzenia. W kącie drewniane wiadro z wodą, a na prawej ścianie schody na górę, pod nimi porąbane drewno.
 *W tym miejscu kultyści organizują swoje spędy i dyskutują na różne sprawy.*
 W pomieszczeniu panuje półmrok rozpraszany jedynie kilkoma świecami stojącymi tu i ówdzie (**w dzień**: i światłem padającym przez wąskie szpary w ścianach oraz otwór w dachu który służy jako komin). Okien brak.
 Na końcu izby głównej widać jeszcze dwoje drzwi prowadzących do innych pomieszczeń.
-**Pomieszczenie pierwsze** 
+**Pomieszczenie pierwsze** (lewe)
 	Jest ciemne, a w świetle świecy widać że jest puste, nie licząc klapy w podłodze i kilku gratów stojących w rogu.
 	Klapę można unieść do góry bez problemu. 
 	**PIWNICA**
@@ -21,7 +22,7 @@ Na końcu izby głównej widać jeszcze dwoje drzwi prowadzących do innych pomi
 	W korytarzu są schody prowadzące na dół (około 10 schodów) a następnie prowadzi do solidnych drewnianych drzwi, które są zamknięte (klucze ma jeden z kultystów).
 	Za drzwiami rozciąga się kolejny ciemny, wąski korytarz. Po zapachu można się zorientować że BG są w kanałach. 
 	**BG mogą dostać się do tego pomieszczenia także od strony kanałów.**
-**Pomieszczenie drugie**
+**Pomieszczenie drugie** (prawe)
 	Małe pomieszczenie z prowizorycznym leżem z siana. Widać że jest to jakiegoś rodzaju cela.
 	*Tutaj Kuba przetrzymuje porwanych ludzi*
 [[#OD STRONY KANAŁÓW]]

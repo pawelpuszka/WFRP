@@ -1,8 +1,8 @@
  Miejsce: Karczma "Stara Kuźnia", Ubersreik, dzielnica Rzemieślnicza.
 
    1. W karczmie odnaleziono ciało mutanta, którego rozpoznano jako Siga – zaginionego syna karczmarza Ulricha Wirta. Podejrzenie padło natychmiast na starego Ulricha: oskarżono go o ukrywanie potwora w piwnicy, co w Imperium karze się tylko w jeden sposób – stosem.
-   2. W trakcie śledztwa odkryliście, że "mutant" to w rzeczywistości ucharakteryzowany i pomalowany farbami gość karczmy, niejaki Holwig. Ślady farb, brakujący guzik od koszuli oraz umowa spadkowa doprowadziły Was do prawdziwego winowajcy: Pratta Kopfela, wspólnika karczmarza w interesie
+   2. W trakcie śledztwa odkryliście, że "mutant" to w rzeczywistości ucharakteryzowany i pomalowany farbami gość karczmy, niejaki Holwig. Ślady farb, brakujący guzik od koszuli oraz umowa spadkowa doprowadziły Was do prawdziwego winowajcy: Pratta Kopfela, wspólnika karczmarza w interesie. W piwnicy karczmy odnaleźliście również tajemne przejście do kanałów miasta, którym najprawdopodobniej porwany został Sig - syn karczmarza.
    3. Wynajęci przez Pratta najemnicy pod wodzą Ursuli Tikle próbowali Was powstrzymać, ale po brutalnym starciu zostali przez Was pobici i obezwładnieni.
    4. Przyciśnięty do muru Pratt pękł. Wyjawił, że cały plan był ukartowany, by pozbyć się Ulricha i przejąć karczmę na własność. Przyznał się też do współpracy z niejakim "Śliskim Kubą" – liderem podziemnej organizacji, który pomógł mu pozbyć się prawdziwego Siga Wirta.
-   5. Gdy na miejsce przybył bezwzględny łowca czarownic, Hector Wolf zamiast niewinnego karczmarza, na stosie z rozkazu Wolfa spłonęli najemnicy Pratta, który ocalił skórę i może być skłonny do współpracy.
+   5. Gdy na miejsce przybył bezwzględny łowca czarownic, Hector Wolf zamiast niewinnego karczmarza, na stosie z rozkazu Wolfa spłonęli najemnicy Pratta, który ocalił skórę. Czy uda się go nakłonić do współpracy?
    6. Choć Ulrich został oczyszczony z zarzutów to nadal nie rozwiązało pierwotnego problemu. Prawdziwy Sig Wirt wciąż nie wrócił do domu. Zobowiązaliście się odnaleźć chłopaka lub przynajmniej dowiedzieć się, co się z nim stało.

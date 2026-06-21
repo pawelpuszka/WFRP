@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"5b8382591089bb76","x":-980,"y":-60,"width":250,"height":80,"type":"text","text":"BG wiedzą że Hector Wolf współpracuje z kultem"},
+		{"id":"a3618a97c6984ff6","x":-530,"y":-60,"width":250,"height":60,"color":"4","type":"text","text":"Informują kapitana straży miejskiej"},
+		{"id":"726b293d8b99f598","x":-530,"y":20,"width":250,"height":60,"color":"1","type":"text","text":"Nie informują kapitana straży miejskiej"},
+		{"id":"bf68c2d352d00f25","x":-80,"y":-60,"width":250,"height":60,"color":"4","type":"text","text":"Kapitan nie wierzy w opowiadanie BG"},
+		{"id":"c07fa91620a51eb6","x":300,"y":-120,"width":250,"height":60,"type":"text","text":"BG przekonują kapitana aby "}
+	],
+	"edges":[
+		{"id":"400e8650a25335a0","fromNode":"5b8382591089bb76","fromSide":"right","toNode":"a3618a97c6984ff6","toSide":"left"},
+		{"id":"d17c948f91b7462f","fromNode":"5b8382591089bb76","fromSide":"right","toNode":"726b293d8b99f598","toSide":"left"},
+		{"id":"91b484d8e58032d8","fromNode":"a3618a97c6984ff6","fromSide":"right","toNode":"bf68c2d352d00f25","toSide":"left"}
+	]
+}
