@@ -5,9 +5,9 @@
 		{"id":"a2b14a810f46bc05","type":"text","text":"**Czempion**\nStworzenie wyjątkowo dobrze walczy. Jeśli wygra Test Przeciwstawny,\ngdy broni się w walce w zwarciu, może zadać Obrażenia, tak jakby to\nono atakowało.","x":-1700,"y":-397,"width":250,"height":240},
 		{"id":"312aac441c4b0e1e","type":"text","text":"**Magiczny**\nStworzenie spowite jest magią. Wszystkie jego ataki liczą się jako Magiczne, co oznacza, że może ranić istoty wrażliwe tylko na ataki\nmagiczne.","x":-1450,"y":-397,"width":250,"height":203},
 		{"id":"7024a292236e0747","type":"file","file":"_obrazy/Pasted image 20260530000757.png","x":-1300,"y":-600,"width":458,"height":203},
-		{"id":"b2d96dc18420ce87","type":"text","text":"![[Pasted image 20260603010952.png|1519]]","x":-780,"y":-980,"width":1568,"height":260},
 		{"id":"f020c252d44790b6","type":"text","text":"1. **Kusza (2R):**\n    - **Obrażenia:** +9.\n    - **Zasięg:** 60 metrów.\n    - **Zalety i Wady:** Przeładowanie 1 (US)\n    - **Amunicja:** Bełty, które posiadają Zaletę _Nadziewający_.\n2. **Nadziewający** \n\t- **Trafienie Krytyczne** przy wyniku rzutu podzielnym przez 10 (np. 10, 20, 30 itd.) oraz przy dubletach (np. 11, 22, 33)\n3. **Przeładowanie** - zabiera akcję","x":81,"y":-720,"width":270,"height":458},
-		{"id":"3d5818acd90b078c","type":"text","text":"![[Pasted image 20260603012506.png]]","x":-780,"y":-720,"width":861,"height":1148}
+		{"id":"3d5818acd90b078c","type":"text","text":"![[Pasted image 20260603012506.png]]","x":-780,"y":-720,"width":861,"height":1148},
+		{"id":"b2d96dc18420ce87","type":"text","text":"![[Pasted image 20260603010952.png|1519]]","x":-760,"y":-980,"width":1568,"height":260}
 	],
 	"edges":[]
 }
