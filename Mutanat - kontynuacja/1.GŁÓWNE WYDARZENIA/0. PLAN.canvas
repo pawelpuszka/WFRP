@@ -1,14 +1,22 @@
 {
 	"nodes":[
-		{"id":"409387c79886c590","x":-820,"y":-240,"width":260,"height":60,"type":"text","text":"[[6. Syn karczmarza w domu]]\n"},
-		{"id":"e9a66333a4456761","x":-500,"y":-240,"width":250,"height":60,"type":"text","text":"Do kapitana Stelzera"},
-		{"id":"bc02cedfc0f66afe","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":""},
-		{"id":"6ca9eeb99396373b","x":-80,"y":-180,"width":250,"height":60,"type":"text","text":""},
-		{"id":"4d6e526414a10fdd","x":-80,"y":-300,"width":250,"height":60,"type":"text","text":"[[7. Do kapitana Stelzera, albo i nie]]"}
+		{"id":"409387c79886c590","type":"text","text":"[[6. Syn karczmarza w domu]]\n","x":-820,"y":-240,"width":260,"height":60},
+		{"id":"e9a66333a4456761","type":"text","text":"Do kapitana Stelzera","x":-500,"y":-240,"width":250,"height":60},
+		{"id":"4d6e526414a10fdd","type":"text","text":"[[7. Do kapitana Stelzera, albo i nie]]","x":-80,"y":-300,"width":250,"height":60},
+		{"id":"bc02cedfc0f66afe","type":"text","text":"BG przekazują kapitanowi informacje o łowcy czarownic","x":260,"y":-320,"width":250,"height":80},
+		{"id":"c9758fb61d1a9de0","type":"text","text":"[[8. Przepatrywacz z wiadomością]]","x":640,"y":-380,"width":250,"height":60},
+		{"id":"00707b21d552d37c","type":"text","text":"[[9.W budynku Straży Miejskiej]]","x":1000,"y":-380,"width":250,"height":60},
+		{"id":"6ca9eeb99396373b","type":"text","text":"[[7. Na tropie łowcy czarownic]]","x":1080,"y":-80,"width":250,"height":60},
+		{"id":"0130b351e41746ad","x":1440,"y":-80,"width":250,"height":60,"type":"text","text":"[[8. Ciemne Interesy Łowcy Czarownic]]"}
 	],
 	"edges":[
 		{"id":"3f61bd2b22db9847","fromNode":"409387c79886c590","fromSide":"right","toNode":"e9a66333a4456761","toSide":"left"},
 		{"id":"4d5acde3156772c4","fromNode":"e9a66333a4456761","fromSide":"right","toNode":"4d6e526414a10fdd","toSide":"left","label":"TAK"},
-		{"id":"a6c24945022ef054","fromNode":"e9a66333a4456761","fromSide":"right","toNode":"6ca9eeb99396373b","toSide":"left","label":"NIE"}
+		{"id":"a6c24945022ef054","fromNode":"e9a66333a4456761","fromSide":"right","toNode":"6ca9eeb99396373b","toSide":"left","label":"NIE"},
+		{"id":"78e6a14b4e695d94","fromNode":"4d6e526414a10fdd","fromSide":"right","toNode":"bc02cedfc0f66afe","toSide":"left"},
+		{"id":"0bddbf68f11dadce","fromNode":"bc02cedfc0f66afe","fromSide":"right","toNode":"c9758fb61d1a9de0","toSide":"left","label":"TAK"},
+		{"id":"50667cfde9e4959f","fromNode":"c9758fb61d1a9de0","fromSide":"right","toNode":"00707b21d552d37c","toSide":"left"},
+		{"id":"40a41f0fdc55c9ab","fromNode":"6ca9eeb99396373b","fromSide":"right","toNode":"0130b351e41746ad","toSide":"left"},
+		{"id":"3bb579f0672e4d1d","fromNode":"bc02cedfc0f66afe","fromSide":"right","toNode":"6ca9eeb99396373b","toSide":"top","label":"NIE"}
 	]
 }
