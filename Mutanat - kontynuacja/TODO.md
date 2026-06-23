@@ -8,6 +8,7 @@ kanban-plugin: board
 
 - [ ] Opis Dunkelfeucht
 - [ ] Gdzie dokładnie znajduje się Spittlefeld
+- [ ] Sytuacja transportu mutanta do magazynu
 
 
 ## [[Przedmioty do kupienia w lombardzie]]
@@ -18,6 +19,11 @@ kanban-plugin: board
 ## Ogólna
 
 - [ ] Zrekapitulować rozmowę Śliskiego Kuby i Hectora Wolfa
+- [ ] Przygotować jatkę w spittlefeld według punktów z książki
+- [ ] Przygotować stracie z wampirem i ściganie gówniaka
+- [ ] Przygotować przedmioty do sprzedaży
+- [ ] Przemyśleć ambicję krótkoterminową dla Filipa
+- [ ] Rozpisać mapę myśli
 
 
 
