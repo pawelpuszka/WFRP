@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"409387c79886c590","type":"text","text":"[[6. Syn karczmarza w domu]]\n","x":-820,"y":-240,"width":260,"height":60},
+		{"id":"409387c79886c590","type":"text","text":"[[1. Syn karczmarza w domu]]\n","x":-820,"y":-240,"width":260,"height":60},
 		{"id":"e9a66333a4456761","type":"text","text":"Do kapitana Stelzera","x":-500,"y":-240,"width":250,"height":60},
-		{"id":"4d6e526414a10fdd","type":"text","text":"[[7. Do kapitana Stelzera, albo i nie]]","x":-80,"y":-300,"width":250,"height":60},
+		{"id":"4d6e526414a10fdd","type":"text","text":"[[2. Do kapitana Stelzera]]","x":-80,"y":-300,"width":250,"height":60},
 		{"id":"bc02cedfc0f66afe","type":"text","text":"BG przekazują kapitanowi informacje o łowcy czarownic","x":260,"y":-320,"width":250,"height":80},
-		{"id":"c9758fb61d1a9de0","type":"text","text":"[[8. Przepatrywacz z wiadomością]]","x":640,"y":-380,"width":250,"height":60},
-		{"id":"00707b21d552d37c","type":"text","text":"[[9.W budynku Straży Miejskiej]]","x":1000,"y":-380,"width":250,"height":60},
+		{"id":"c9758fb61d1a9de0","type":"text","text":"[[4. Przepatrywacz z wiadomością]]","x":640,"y":-380,"width":250,"height":60},
+		{"id":"00707b21d552d37c","type":"text","text":"[[5. W budynku Straży Miejskiej]]","x":1000,"y":-380,"width":250,"height":60},
 		{"id":"6ca9eeb99396373b","type":"text","text":"[[7. Na tropie łowcy czarownic]]","x":1080,"y":-80,"width":250,"height":60},
 		{"id":"0130b351e41746ad","x":1440,"y":-80,"width":250,"height":60,"type":"text","text":"[[8. Ciemne Interesy Łowcy Czarownic]]"}
 	],
