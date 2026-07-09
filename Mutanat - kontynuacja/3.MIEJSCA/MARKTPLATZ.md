@@ -1,10 +1,11 @@
-Plac jest miejscem zgromadzeń i wydarzeń publicznych. Najbardziej charakterystycznym obiektem na placu jest pomnik Magnusa Pobożnego tuż obok którego znajduje się **Sprichstumpf** – ogromny, mający 2,5 metra szerokości pień dębu. 
+Plac jest miejscem zgromadzeń i wydarzeń publicznych. Najbardziej charakterystycznym obiektem na placu jest pomnik Magnusa Pobożnego stojący na środku placu, wysoki na kilkanaście metrów, góruje nad okolicą a jego wzrok skierowany jest na most Ubersreiku.
+Tuż obok znajduje się **Sprichstumpf** – ogromny, mający 2,5 metra szerokości pień dębu. 
 
 **Pomnik Magnus Pobożnego**
 Stoi on na wprost budynku **ratusza** oraz w sąsiedztwie monumentalnej **świątyni Sigmara**
 
 **Ratusz w Ubersreiku** 
-to imponujący, dwupiętrowy gmach o jednoskrzydłowej konstrukcji, którego cztery wieże dominują nad północną stroną głównego placu miasta. Położony jest naprzeciwko wielkiego gmachu świątyni Sigmara. Przed ratuszem stoi wysoki posąg Magnusa Pobożnego.
+to imponujący, dwupiętrowy gmach o jednoskrzydłowej konstrukcji, którego cztery wieże dominują nad północną stroną głównego placu miasta. Położony jest naprzeciwko wielkiego gmachu świątyni Sigmara.
 
 1. Centralne punkty placu
 - **Posąg Magnusa Pobożnego:** Na środku placu wznosi się potężny pomnik Imperatora, upamiętniający jego rolę w odbudowie miasta ze zgliszcz po Wielkiej Wojnie z Chaosem. Magnus spogląda bezpośrednio w kierunku słynnego Mostu Ubersreiku.

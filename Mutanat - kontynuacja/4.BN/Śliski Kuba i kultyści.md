@@ -11,8 +11,7 @@ Ci którzy się zgodzą skorzystać z jego usług bardzo często trafiają do ka
 **KULTYŚCI**
 Hans Knochen - rzeźnik, szeroki jak beczka piwa. Łysy, na twarzy broda i szrama.
 Albrecht Sieben - pożółkłe duże zęby i gdy mówi to żuchwa wychodzi mu poza usta.
-Kurt Fasser - były żołnierz, czarne włosy zaczesane do tyłu, mruży oczy gdy się uważnie czemuś 
-			przygląda ^fa4ab1
+Kurt Fasser - były żołnierz, czarne włosy zaczesane do tyłu, mruży oczy gdy się uważnie czemuś 	przygląda ^fa4ab1
 ###### Dietrich von Mahl 
 
 ^680c06
