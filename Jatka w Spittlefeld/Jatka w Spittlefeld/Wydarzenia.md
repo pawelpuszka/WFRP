@@ -8,4 +8,6 @@ Pułapka, napad i utrata przytomność po ciosach w głowę.
 
 Nieprzyjemna pobudka w trakcie zamykania budynku przez wojsko.
 
+[[Rozmowy z mieszkańcami budynku]]
+
 
