@@ -24,7 +24,7 @@ Pułapka, napad i utrata przytomność po ciosach w głowę.
 
 Odwiedziny Eluharatha Wavecresta
 
-Zejście do piwnicy
+[[Zejście do piwnicy]]
 
-Konfrontacja z wampirem
+[[Konfrontacja z wampirem]]
 
