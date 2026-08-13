@@ -1,0 +1,5 @@
+## Nadziewający
+- **Mechanika Trafień Krytycznych:** Broń ta zadaje **Trafienie Krytyczne** przy dowolnym wyniku rzutu podzielnym przez 10 (np. 10, 20, 30 itd.) oraz przy dubletach (np. 11, 22, 33), pod warunkiem, że rzut był udany (wynik równy lub niższy od poziomu umiejętności).
+- **Amunicja w ciele:** W przypadku broni dystansowej cecha ta oznacza, że pocisk głęboko utknął w ciele. Wyjęcie strzały lub bełtu wymaga udanego **Wymagającego (+0) Testu Leczenia**, natomiast pociski z broni prochowej wymagają zabiegu chirurgicznego.
+- **Kara do leczenia:** Postać nie może wyleczyć jednej ze swoich Ran za każdy pocisk, który wciąż pozostaje w jej ciele.
+- **Ważne zastrzeżenie:** Według niektórych zasad dodatkowych (np. w tabelach broni podstawowej), Zaleta Nadziewająca ma zastosowanie wyłącznie wobec celów, które posiadają **Stan Zaskoczenie** lub **Powalenie**.

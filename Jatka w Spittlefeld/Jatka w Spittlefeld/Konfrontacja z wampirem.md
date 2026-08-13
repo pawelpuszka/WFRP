@@ -1,4 +1,4 @@
-Legowisko Wampirzycy
+**Legowisko Wampirzycy**
 W najciemniejszym zakątku piwnicy trafiając na niewielkie pomieszczenie, czujecie jakby nagłe ochłodzenie powietrza. 
 Wokół porozrzucane są strzępy krwawych tkanin, podarte materace i fragmenty połamanych mebli.
 W jednym z narożników znajdują się popękane, pokryte sadzą przybory do gotowania, starannie ustawione.
@@ -8,10 +8,10 @@ Pośród tego chaosu spoczywa prowizoryczne legowisko – ciemne, wilgotne, cuch
 Wampirzyca stoi w mroku i przygląda się w swoje pęknięte lusterko nucąc nieznaną wam piosenkę.
 Wychudzone ciało przypomina kości obciągnięte pergaminową skórą, bladoszarą i niemal przezroczystą.
 włosy ma tłuste i sklejone, opadają w nieładzie na zgarbione ramiona
-Zczerniałe, porwane łachmany oblepione są skrzepłą krwią. Materiał zwisa z niej jak skóra zdarta z ciała, falując przy każdym powolnym kroku.
-Jej ruchy są nienaturalne, szarpane i pełne napięcia. Czuć od niej zapach starej krwi, wilgoci i zgnilizny.
+Sczerniałe, porwane łachmany oblepione są skrzepłą krwią. Materiał zwisa z niej jak skóra zdarta z ciała, falując przy każdym ruchu.
+Jej ruchy - nienaturalne, szarpane i pełne napięcia. Czuć od niej zapach starej krwi, wilgoci i zgnilizny.
 
-![[Pasted image 20260716192827.png]]
+![[Pasted image 20260812012727.png]]
 
 **Ugryzienie +8**
  W swojej Turze stworzenie może wykonać Darmowy Atak, wydając 
@@ -29,15 +29,11 @@ Stworzenie wywołuje nienaturalny Strach w innych istotach. Poziom
 Strachu równy jest podanej wartości. Patrz: strona 190.
 
  **Regeneracja**
- Stworzenie leczy się w niezwykłym tempie. Nawet jego odcię
-te części ciała mogą odrastać. Na początku każdej Rundy, o ile 
-pozostało mu ponad 0 Żywotności, stworzenie automatycznie 
-regeneruje 1k10 punktów Żywotności. Jeśli pozostało mu 0 Ży
-wotności, regeneruje jedną Ranę po wyrzuceniu 8+ na 1k10. Jeśli 
-kiedykolwiek podczas regeneracji wyrzuci 10, może w pełni zre
-generować także Ranę Krytyczną, anulując w ten sposób wszelkie
- powiązane z nią kary i Stany. Poza tym wszelkie Rany Krytyczne 
-lub Rany spowodowane przez ogień nie mogą być regenerowane 
+ Stworzenie leczy się w niezwykłym tempie. Nawet jego odcięte części ciała mogą odrastać. 
+ **Na początku każdej Rundy**, o ile pozostało mu ponad 0 Żywotności, stworzenie automatycznie 
+regeneruje **1k10 punktów Żywotności**. 
+Jeśli pozostało mu **0 Żywotności**, regeneruje **1 Ranę po wyrzuceniu 8+ na 1k10**. 
+Jeśli kiedykolwiek podczas regeneracji wyrzuci 10, może w pełni zregenerować także Ranę Krytyczną, anulując w ten sposób wszelkie  powiązane z nią kary i Stany. Poza tym wszelkie Rany Krytyczne lub Rany spowodowane przez ogień nie mogą być regenerowane 
 i powinny być zapisywane oddzielnie.
 
 **Furia**
@@ -45,7 +41,7 @@ i powinny być zapisywane oddzielnie.
 dać wszystkie Przewagi (minimalnie 1), by wzbudzić w sobie Niena
 wiść wobec przeciwników w walce wręcz. Jeżeli stworzenie zebrało 
 przynajmniej 3 Przewagi, może wydać wszystkie Przewagi, by wpaść 
-w Szał Bojowy. Patrz: strona 190.
+w **Szał Bojowy**. Patrz: strona 190.
 
 **Spaczenie (Pomniejsze)**
 Stworzenie jest napiętnowane przez Chaos lub przepełnione mroczną 
