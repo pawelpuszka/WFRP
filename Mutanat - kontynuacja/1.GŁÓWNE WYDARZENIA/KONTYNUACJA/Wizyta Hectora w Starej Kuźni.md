@@ -1,21 +1,26 @@
 
-**Kontekst sceny:** Wieczór, kilka dni po rozbiciu głównej kryjówki kultu. Karczma jest pełna gości — plotka o BG i uratowaniu syna karczmarza zdążyła się rozejść, więc kilku miejscowych zerka w ich stronę z podziwem, może ktoś stawia im piwo. Nagle gwar przycicha przy wejściu.
+**Kontekst sceny:** Wieczór, kilka dni po rozbiciu głównej kryjówki kultu. Karczma jest pełna gości — plotka o BG i uratowaniu syna karczmarza zdążyła się rozejść, więc kilku miejscowych zerka w waszą stronę z podziwem. Może nawet z podziwem.
+
+W pewnym momencie przy stole obok siada krępy mężczyzna o poplamionych smołą dłoniach – widać po nich, że to kołodziej albo cieśla. Stawia na stole dzban piwa i przysuwa go w waszą stronę.
+— A nie, nie, próżno gadać. Ja stawiam, i kwita. Bratanek mój w dobrej komitywie z synem karczmarza żyje? Cała okolica już plecie językami, że to wyście go... że to dzięki waszmościom chłopak w ogóle do dom wrócił.
+— Słuchajcie no... ja się tam na wojaczce nie znam, całymi dniami przy warsztacie... Ale jak człek słyszy, że pod samiuśkim nosem ludziska ginęli miesiącami, a nikt palcem nie kiwnął... to, na Sigmara, serce się kraje. Dobrze, żeście to skończyli.
 
 ---
 
-Drzwi Starej Kuźni otwierają się bez skrzypnięcia — ktoś najwyraźniej zadbał, żeby zawiasy nie zdradzały jego wejścia. Hector Wolf stoi w progu sam, bez świty, w prostym, ciemnym płaszczu zamiast pełnej gali łowcy czarownic. Rozgląda się po sali z powolnym, ocenianym spojrzeniem — jakby liczył wyjścia, nie ludzi.
+Drzwi Starej Kuźni otwierają się
+Nagle gwar przycicha.  Ktoś odstawia kufel zbyt gwałtownie.
+W progu stoi Hector Wolf. Sam, bez świty, w prostym, ciemnym płaszczu zamiast pełnej gali łowcy czarownic. Rozgląda się po sali z powolnym, oceniającym, pogardliwym spojrzeniem spod swojego kapelusza.
 
-Rozmowy przy sąsiednich stołach cichną. Ktoś odstawia kufel zbyt gwałtownie. Karczmarz blednie i nagle znajduje sobie zajęcie na zapleczu.
+Jego kroki rozchodzą się po cichej karczmie gdy bez pośpiechu zmierza w kierunku waszego stołu. 
 
-Hector podchodzi do stołu BG bez pośpiechu. Nie siada, dopóki nie zostanie zaproszony — to gest pozornej uprzejmości, choć w jego oczach nie ma prośby, tylko oczekiwanie.
+**Hector:** _(cicho, tylko do BG, tonem człowieka przyzwyczajonego, że jest słuchany)_ — Nie przyszedłem tu jako łowca czarownic. Przyszedłem jako przedstawiciel tego miasta który wam coś zawdzięcza. Uratowaliście chłopaka i zdjęliście gniazdo szczurzych sług, zanim zdążyło się rozrosnąć.
 
-**Hector:** _(cicho, tylko do BG, tonem człowieka przyzwyczajonego, że jest słuchany)_ — Nie przyszedłem tu jako łowca czarownic. Przyszedłem jako ktoś, kto wam coś zawdzięcza. Miasto o was mówi. Podobno... uratowaliście chłopaka. Podobno zdjęliście gniazdo szczurzych sług, zanim zdążyło się rozrosnąć.
+(Pauza. Rozgląda się po waszych twarzach jakby coś w nich czytał.)
 
-_(Pauza. Rozgląda się po twarzach BG, jakby czytał w nich coś więcej niż mówią słowa.)_
+Odsuwa krzesło i siada.
+"Karczmarzu, piwa! Ja stawiam. Niech gra muzyka! Niech każdy przechyli kufel na cześć tych oto bohaterów!"
 
 **Hector:** — To dobra robota. Rzadko widuję takie rzeczy poza własnymi ludźmi.
-
-_(Siada, dopiero teraz, powoli, jakby dawał sobie i BG czas na oswojenie się z jego obecnością.)_
 
 **Hector:** — Ale przyszedłem z czymś mniej przyjemnym. Gniazdo, które rozbiliście, nie było całym legowiskiem. To był tylko jeden korytarz w norze, która ma ich znacznie więcej. _(Ścisza głos jeszcze bardziej.)_ Wiem, bo ścigam te robactwo dłużej, niż wy żyjecie na tym świecie.
 
