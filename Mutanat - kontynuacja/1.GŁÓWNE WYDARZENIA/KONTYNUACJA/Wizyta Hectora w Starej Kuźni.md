@@ -4,6 +4,8 @@
 W pewnym momencie przy stole obok siada krępy mężczyzna o poplamionych smołą dłoniach – widać po nich, że to kołodziej albo cieśla. Stawia na stole dzban piwa i przysuwa go w waszą stronę.
 — A nie, nie, próżno gadać. Ja stawiam, i kwita. Bratanek mój w dobrej komitywie z synem karczmarza żyje? Cała okolica już plecie językami, że to wyście go... że to dzięki waszmościom chłopak w ogóle do dom wrócił.
 — Słuchajcie no... ja się tam na wojaczce nie znam, całymi dniami przy warsztacie... Ale jak człek słyszy, że pod samiuśkim nosem ludziska ginęli miesiącami, a nikt palcem nie kiwnął... to, na Sigmara, serce się kraje. Dobrze, żeście to skończyli.
+Podnosi swój kufel do ust i popija piwo
+— A gdybyście kiedy czego potrzebowali – koła do wozu, okucia, cokolwiek z drewna czy żelastwa – to **Otwin (Grubner - kołodziej)** zawżdy czas znajdzie. Darmocha, rozumiecie? Tyle jeno mogę uczynić.
 
 ---
 
@@ -15,9 +17,10 @@ Jego kroki rozchodzą się po cichej karczmie gdy bez pośpiechu zmierza w kieru
 
 **Hector:** _(cicho, tylko do BG, tonem człowieka przyzwyczajonego, że jest słuchany)_ — Nie przyszedłem tu jako łowca czarownic. Przyszedłem jako przedstawiciel tego miasta który wam coś zawdzięcza. Uratowaliście chłopaka i zdjęliście gniazdo szczurzych sług, zanim zdążyło się rozrosnąć.
 
-(Pauza. Rozgląda się po waszych twarzach jakby coś w nich czytał.)
+(Pauza)
+Rozgląda się po waszych twarzach jakby coś w nich czytał.
 
-Odsuwa krzesło i siada.
+Odsuwa krzesło, zarzuca płaszcz do tyłu. Siada.
 "Karczmarzu, piwa! Ja stawiam. Niech gra muzyka! Niech każdy przechyli kufel na cześć tych oto bohaterów!"
 
 **Hector:** — To dobra robota. Rzadko widuję takie rzeczy poza własnymi ludźmi.
@@ -30,11 +33,26 @@ Odsuwa krzesło i siada.
 
 **Propozycja:**
 
-**Hector:** — Dlatego mam dla was propozycję, choć wiem, że może nie przypaść wam do gustu. Opuśćcie Ubersreik. Na jakiś czas, nie na zawsze. Dam wam list polecający, otworzy wam niejedne drzwi w innych miastach — Sigmar wie, że ludzie waszych umiejętności są potrzebni wszędzie. _(Patrzy prosto w oczy najbardziej podejrzliwemu z BG.)_ Nie robię tego, żeby się was pozbyć. Robię to, bo nie mogę was ochronić w mieście, którego zaułków szczury znają lepiej niż ja.
+**Hector:** — Dlatego mam dla was propozycję, choć wiem, że może nie przypaść wam do gustu.
+
+Tu rozgląda się przez ramię dookoła jakby sprawdzał czy nikt nie podsłuchuje.
+
+Opuśćcie Ubersreik. Przynajmniej na jakiś czas. Sigmar wie, że ludzie waszych umiejętności są potrzebni wszędzie. 
+_(Patrzy prosto w oczy najbardziej podejrzliwemu z BG.)_ 
+ Mówię wam to, bo nie mogę was ochronić w mieście, którego zaułki szczury znają lepiej niż ja.
 
 _(Jeśli gracze zapytają o Stelzera lub straż miejską:)_
 
-**Hector:** _(lekki, gorzki uśmiech)_ — Straż jest dobra do pilnowania bram i łapania złodziei kur. To, co czai się pod miastem, to nie jest praca dla ludzi w mundurach patrolowych. To praca dla kogoś, kto zna wroga. _(Beat.)_ I dla nikogo więcej.
+**Hector:** _(lekki, gorzki uśmiech)_ — Straż jest dobra do pilnowania bram i łapania złodziei kur. To, co czai się pod miastem, to nie jest praca dla ludzi w mundurach patrolowych. To praca dla kogoś, kto zna wroga. 
+I dla nikogo więcej.
+
+_(Gdy BG odmówią)_
+**Hector:** Zatem nic tu po mnie. Nie zamierzam was przekonywać, ale przemyślcie to jeszcze raz. Czas na mnie.
+
+Sięga do kieszeni i kładzie na blacie kilka szylingów po czym wstaje od stołu i rzuca z (wymuszonym) uśmiechem na twarzy:
+Do zobaczenia panowie.
+
+Uśmiech: wymuszony, podejrzany, złośliwy, nieszczery.
 
 ---
 
