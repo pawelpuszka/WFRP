@@ -1,0 +1,1 @@
+Gdy BG będą przemierzali miasto to mogą natknąć się na poniższą sytuację

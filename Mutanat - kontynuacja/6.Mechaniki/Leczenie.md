@@ -20,7 +20,7 @@ Rany Krytyczne to poważne obrażenia, które wymagają szczególnego podejścia
 
 - **Zasada ogólna:** Rany Krytycznej nie można wyleczyć, dopóki nie zostaną usunięte wszystkie wywołane przez nią Stany i ujemne modyfikatory.
 - **Chirurgia:** Niektóre urazy (np. amputacje) wymagają interwencji chirurga. **Wydłużony Wymagający (+0) Test Leczenia** (z talentem Chirurgia) jest niezbędny do nastawienia kości czy zszycia głębokich ran.
-- **Tamowanie Krwawienia:** Udany test Leczenia usuwa jeden poziom **Stanu Krwawienie** (każdy dodatkowy PS usuwa kolejny poziom).
+- **Tamowanie Krwawienia:** Udany <font color="#ff0000">test Leczenia</font> usuwa jeden poziom **Stanu Krwawienie** (każdy dodatkowy PS usuwa kolejny poziom).
 - **Utrata Przytomności:** Postać, której Żywotność spadnie do 0, a nie zostanie uleczona w ciągu rund równych BWt, traci przytomność. Odzyskanie świadomości wymaga uleczenia przynajmniej 1 Rany.
 
 **Traktat dr. Hollsehera (Niezbędnik):** leczenie spaczeniem
