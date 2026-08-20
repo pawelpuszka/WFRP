@@ -15,7 +15,7 @@ Skonstruowana przez krasnoludy. Egzotyczny przedmiot składajacy się z rozsuwan
 Przedstawiający delikatnie wygrawerowany skrzyżowany palec — jeden z dyskretnych symboli Ranalda, patrona szczęściarzy i łotrzyków. ``
 Raz na sesję, gdy los zdaje się przesądzony, właściciel może zignorować krytyczną porażkę i natychmiast przerzucić wykonany test.
 **Cechy rzemieślnicze (Zalety przedmiotu):**
-- **Praktyczny (Zaleta):** Wisiorek jest łatwy do ukrycia. Każdy test _Skradania_ lub unikania uwagi strażników, gdy postać próbuje go schować w dłoni lub pod ubraniem, otrzymuje **+1 PS** w przypadku porażki.
+- **Praktyczny (Zaleta):** Wisiorek jest łatwy do ukrycia. W każdym teście przeciwstawnym gdzie przeszukujący używa **Percepcji** otrzymuje **-1PS** do swojego wyniku.
 **Charakterystyka mechaniczna:**
 - **Przerzut krytycznej porażki:** Raz na sesję, gdy postać uzyska wynik Pecha (dublet na nieudanym teście, np. 88, 99), może dotknąć wisiorka i przywołać imię Ranalda. Działa to jak Cud _Uśmiech Losu_ – pechowy rzut zostaje całkowicie zignorowany, a test można natychmiast powtórzyć (co odpowiada standardowemu wydaniu Punktu Szczęścia na przerzut).
 - **Kodeks Łotrzyka (Ranaldiańskie ograniczenie):** Ranald strzeże wolności, ale surowo **zakazuje stosowania niepotrzebnej przemocy** (z wyjątkiem samoobrony) oraz **donoszenia na innych**. Jeśli bohater użyje przemocy jako pierwszy w danej scenie, zdradzi towarzysza lub dopuści się okrucieństwa wobec bezbronnego, wisiorek natychmiast ciemnieje i traci swoją moc. Aby odzyskać przychylność boga, postać musi oddać 10% swojego kolejnego łupu ubogim lub złożyć ofiarę w sekrecie.

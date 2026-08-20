@@ -1,0 +1,40 @@
+Stoicie przed piętrowym spichlerzem z muru, desek i bali. Nad waszymi głowami wystaje ramię potężnego, drewnianego żurawia, którego liny cicho skrzypią na wietrze. Liny sięgają niemal do ziemi.
+
+Jeżeli **BG** będą próbowali **dostać się do magazynu w nocy** to usłyszą zbliżających się ludzi [[8. Nadejście łowcy i kultystów]]
+
+Jest to magazyn umieszczony w drugim rzędzie budynków od promenady w dokach.
+Drzwi są zamknięte. Jako że jest to mało uczęszczana, boczna uliczka BG mogą spróbować się włamać do środka. Drzwi są zamknięte na klucz, a zamek jest wręcz potężny i nie da się go otworzyć wytrychami. Trzeba mieć klucz.
+
+Są dwie możliwości wejścia do środka :
+- wdrapanie się po linach żurawia, otwarcie/podważenie skobla wrót wyładunkowych
+- OKNO na pierwszym piętrze. Grube, dębowe dechy zaimpregnowane dziegciem, zaryglowane od wewnątrz grubą, drewnianą deską.
+- Wdrapanie się po ścianie budynku lub po linie - TEST WSPINACZKI +0 (jeżeli mniej niż 2PS to do wykonania jeszcze jeden test, powyżej lub równo 2PS BG dostaje się do miejsca)
+- Do otwarcia jednego i drugiego będzie potrzebny **TEST ZRĘCZNOŚĆ 3PS +0** Jeżeli test się nie uda (-PS) to BG nie są w stanie sforsować tego zabezpieczenia.
+
+Jeżeli **BG** będą próbowali się **dostać do magazynu za dnia** to spotkają tylko pilnującego magazynu skavena [[Skaven w magazynie nr 55]]
+
+**Klimat**: ciemność lub półmrok. Zapach drewna i kurzu
+**1 PIĘTRO:**
+- Skrzynie, beczki, coś tu jest składowane - prawdziwe towary (ubrania, broń, są nawet beczki z przyprawami)
+- Pod ścianą leży kupka siana. 
+
+**Klimat**: niemal całkowita ciemność w dzień, a w nocy nic nie widać. Zapach drewna, kurzu, piżma (test percepcji +20)
+**PARTER:**
+- Aby zejść z 1 piętra można wykorzystać sznurkową drabinę, ale także zeskoczyć na skrzynie które sięgają wysoko praktycznie pod sufit, lub przemieszczać się po belkach stropowych (**TEST ATLETYKI +20**)
+- Skład różnej wielkości skrzyń poustawianych jedna na drugiej tworzą kilkumetrowe wieże sięgające niemal sufitu. Oparte o ścianę budynku ale także stojące na środku magazynu.
+- W magazynie stoją dziesiątki ciężkich, obitych żelaznymi okuciami beczek
+  
+- W skrzyniach można znaleźć 
+	  - rozłożone na części pierwsze, dziwne, mosiężne rury, skórzane miechy i szklane kule o grubych ściankach 
+	    *Przy odrobinie wiedzy inżynieryjnej (lub z pomocą krasnoluda) gracze z przerażeniem odkryją, że to zabójcza broń masowego rażenia - Miotacz Spaczenia*
+	  - Sterty ubrań i pancerzy miejskich strażników
+	    *Kultyści (ludzie) mieli je założyć w noc ataku, by otworzyć bramy miasta od wewnątrz albo wybić obrońców na murach, pozorując chaos.*
+	  - Amulety i miniaturowe ikony Chaosu
+	    *Znalezienie czegoś takiego w szufladzie biurka zamożnego kupca oznaczało dla niego natychmiastowy wyrok.*
+- W beczkach można znaleźć:
+	- dziwny, czarny proszek z zielonkawym nalotem 
+	  *niestabilny, zanieczyszczony zielonym pyłem proch, przeznaczony do podminowania murów obronnych miasta lub fundamentów Świątyni Sigmara.*
+	- zawierające zwykłą smołę lub tran 
+	  *ale w środku kryjące flakony z koncentratem zarazy (od Klanu Pestilens) lub toksynami. Plan zakładał wsypanie tego do głównych ujęć wody w noc ataku, by rano połowa garnizonu i straży miejskiej wymiotowała krwią.*
+
+ 

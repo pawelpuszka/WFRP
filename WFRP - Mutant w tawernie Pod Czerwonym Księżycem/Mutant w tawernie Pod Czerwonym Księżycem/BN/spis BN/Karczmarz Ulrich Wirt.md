@@ -1,8 +1,0 @@
-	- Łatwo ich zastraszyć. Mówią prawdę.
-	- Karczmę zamknęli od środka na klucz. Wszystkie okiennice były na noc zamknięte od środka na zasuwkę.
-	- jeżeli zostaną poproszeni o dokonanie oględzin ciała to zauważą że to nie ich syn ponieważ miał on na środku brzucha sporą bliznę po operacji pewnego chirurga
-	- Pozwolą na przeszukanie zajmowanych przez siebie izb
-	- Zapytani o Holwiga powiedzą, że był rezydentem karczmy od miesiąca i za tydzień zalegał z czynszem.
-	- jeżeli ktoś zapyta gdzie jest Holwig to karczmarz pójdzie sprawdzić jego pokój i wróci z informacją że Holwiga nie ma
-	- Będą pozytywnie nastawieni do przeszukania pokoi gości ale nie będą bardzo na to nalegać.
-	- Zaproponuje zakwaterowanie w karczmie za darmo do momentu aż BG odnajdą jego syna.

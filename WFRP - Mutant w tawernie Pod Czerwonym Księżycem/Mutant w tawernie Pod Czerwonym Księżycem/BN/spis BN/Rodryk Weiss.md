@@ -1,5 +1,0 @@
-	- Nie będzie miał niczego do ukrycia i chętnie odpowiedzie na pytania, zezwoli na przeszukanie swojego pokoju.
-	- Zapytany o konflikt z Holwigiem Rodryk potwierdzi to, co mógł powiedzieć Holwig – "Nasza kłótnia dotyczyła wyższości Ulryka nad Sigmarem. Przyznaję. Trochę mnie poniosło, bo miałem wypite i jestem porywczy z natury, ale nie zamierzałem zrobić Holwigowi żadnej krzywdy."
-	- Odnośnie zniknięcia Holwiga będzie zaskoczony i zaniepokojony, czy ktoś go mylnie nie oskarży, że zrealizował swoje wieczorne groźby wobec Holwiga.
-	- W przypadku konfornatacji z najemnikami może zostać przekonany aby stanął po stronie BG
-	- **Jeżeli** BG nie odkryją że mutant to Holwig to za jego zniknięcie zostanie obarczony Rodryk

@@ -4,7 +4,7 @@ kanban-plugin: board
 
 ---
 
-## [[8. Ciemne Interesy Łowcy Czarownic]]
+## [[Ciemne Interesy Łowcy Czarownic]]
 
 - [ ] Opis Dunkelfeucht
 - [ ] Gdzie dokładnie znajduje się Spittlefeld

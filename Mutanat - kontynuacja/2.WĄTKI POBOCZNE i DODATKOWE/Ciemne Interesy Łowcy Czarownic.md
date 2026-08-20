@@ -1,0 +1,34 @@
+Gdyby BG nie znaleźli żadnej z siedzib kultu to wydarzenie będzie ostatnią szansą.
+
+Okoliczności:
+ - Jeżeli BG nie dowiedzieli się że Hector Wolf współpracuje z kultem Żółtych Brzuchów - aby naprowadzić BG na trop
+ - Jeżeli podsłuchali rozmowę Łowcy i Kuby w w karczmie "Pod Czerwonym Księżycem" - wiedzą że ma nastąpić przekazanie przesyłki więc będą śledzić Hectora Wolfa
+ 
+- opis wydarzenia jak Wolf płaci w dokach za przesyłkę, bliższe oględziny pozwolą stwierdzić że przesyłka to uwięziony mutant a ten który go dostarczył to jeden z kultystów (np jeden z tych z którym się widzieli podczas spotkania  z Kubą)
+- teraz wystarczy śledzić kultystę aby trafić do kolonii Wandiene
+- co gracze zdecydują zrobić z Łowcą Czarownic
+
+
+Przystaje na chwilę i rozgląda się upewniając że nikt go nie widzi (**TEST Skradanie <-> Percepcja -20**).  _Minusowy mod ze względu na mgłę i ciemności_
+
+Jeżeli łowca czarownic zauważy BG, to zrobi jakiś niezrozumiały gest w kierunku rzeki (BG nie są w stanie dostrzec z kim Hector się komunikował), po czym skieruje się w stronę mostu. Na środku mostu zamieni dwa zdania ze strażnikami którzy zbierają myto za przekroczenie mostu. Strażnicy zatrzymają BG na chwilę aby ich przeszukać. Jeżeli BG nie będą stawiali oporu to strażnicy ich puszczą wolno. Po uiszczeniu opłaty. Hector Wolf będzie dobrze widoczny z wysokości mostu jak zmierza wzdłuż promenady i kieruje się do zachodnich części miasta. Łowca zmierza w stronę budynku czynszowego w Spittlefeld, gdzie kultyści mają jeszcze jedną siedzibę. Po dotarciu do budynku, BG powinni podążyć za łowcą. Trafią do pokoju w budynku gdzie przebywa łowca, niestety są tutaj także kultyści, którzy od razu zaatakują BG. uderzenia pałkami w głowę spowodują utratę przytomności BG.
+TUTAJ ZACZNIE SIĘ JATKA W SPITTLEFELD.
+
+Gdy jest pewny że nikt go nie zauważył podąża w kierunku Dunkelfeucht - miasteczko slumsy pod mostem przy dzielnicy portowej.
+- BG zauważają Hectora Wolfa, przebranego w prosty strój, zmierzającego do Dunkelfeucht
+- BG zauważają w jednym z zaułków Hectora Wolfa rozmawiającego z jakimś człowiekiem. Gdy dobrze się przyjrzą to zauważą że to jeden z kultystów którego spotkali już wcześniej
+- BG widzą że Hector wchodzi na barkę i sprawdza jakieś worki i skrzynie. Jest zadowolony chociaż co chwilę rozgląda się czy nikt go tutaj nie obserwuje.
+**ŚLEDZENIE ŁOWCY CZAROWNIC**
+- Hector opuszcza barkę i udaje się do tawerny **Pod Czerwonym Księżycem** na spotkanie z człowiekiem Kuby
+- Łowca jest ostrożny i stara się zgubić ewentualny ogon - BG muszą wykonać **test ŚLEDZENIA**
+- Hector i kultysta będą rozmawiali krótko
+	- **HK:**"Sprawdziłem przesyłkę. Wszystko się zgadza. Dzisiaj w nocy przetransportujecie przesyłkę do magazynu nr 55. Załatwiłem aby straż miejska nie przeszkadzała."
+	- **Kultysta:** "Wyśmienicie, wyśmienicie. Wszystko zgodnie z planem. Wszystko zmierza w dobrą stronę pomimo problemów z tymi ludźmi co tak węszą. Dzisiejszej nocy wszystko dostarczymy.
+	  Panowie z podziemi chcą z tobą rozmawiać. A teraz już się rozejdźmy aby nas ktoś nie zauważył."
+
+BG mogą śledzić Hectora Wolfa - wróci do domu po drodze przebierając się z powrotem w szaty łowcy czarownic.
+
+BG mogą dorwać któregoś z ludzi Śliskiego Kuby.
+
+BG mogą odnaleźć magazyn nr 55 [[Magazyn nr 55]]
+i robić zasadzkę a nawet wezwać straż miejską aby dorwać Wolfa. 

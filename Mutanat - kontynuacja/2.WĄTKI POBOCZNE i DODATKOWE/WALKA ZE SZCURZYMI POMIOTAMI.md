@@ -1,0 +1,11 @@
+Na chodniku przed wami coś się porusza. Jakiś kształt wielkości średniego psa. To coś was usłyszało i zastygło w bezruchu. Czerwone ślepia wpatrują się w was. Cichy szmer i pojawiają się kolejne ślepia. Nagle widać ruch. Stworzenia zbliżają się do was.
+*Jeżeli BG nie wycofują się*
+Podchodzą na tyle blisko aby wasze oczy mogły je spostrzec w świetle pochodni. Są to ogromne szczury.
+Ale coś tu jest nie tak. To nie jest zwykły szczur.
+Blade, obwisłe ciało pokryte jest nie sierścią — lecz czymś przypominającym skórę trupa. Po całym cielsku rozsiane są czerwone, ropiejące wypukłości. Rozdziawiona paszcza odsłania **żółte, krzywe kły** długie a między nimi coś bulgocze i kapie na kamienie. Z tyłu ciągnie się **długi, łuskowaty ogon**
+Z ciemności wyłaniają się trzy takie osobniki.
+Wydają z siebie przerażające dźwięki i rzucają się na was.
+[[statystyki BN.canvas]]
+
+*BG najprawdopodobniej nie dadzą sobie rady z przeciwnikiem. Gdy sytuacje będzie wyglądała źle to nadejdzie pomoc.*
+[[Nadejście Wahlunda]]
