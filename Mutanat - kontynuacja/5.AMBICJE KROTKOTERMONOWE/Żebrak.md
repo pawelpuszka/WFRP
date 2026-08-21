@@ -12,44 +12,47 @@ Z wyreżyserowaną godnością podchodzi do biurka, wspina się na podwyższony 
 Cień zasłonił światło dochodzące do pomieszczenia przez drzwi. Ogr stanął w przejściu i zastygł w bezruchu.
 
 _Jestem Dobrostan Lowhaven. Prawnik i plenipotent domu Lowhaven. Mieliśmy już okazję rozmwiać.
-Zdaje się że byliśmy umówieni na pewien interes. Wiemy, że ponieśliście porażkę. Niefortunny zbieg okoliczności.
+Zdaje się że byliśmy umówieni na wykonaie pewnego zadania. Wiemy, że ponieśliście porażkę. Niefortunny zbieg okoliczności.
 Niemniej jednak pragnę was poinformować, że sprawa została załatwiona. Nie będziecie już nam przydatni w tej kwestii._
 
-Tutaj zapada chwilowa cisza
+Tutaj zapada chwilowa cisza. Niziołek sięga po pióro i coś zapisuje coś na kartkach mamrocząc coś pod nosem. Okno za jego plecami wpuszcza blade światło słoneczne do zaciemnionego pomieszczenia.  Po dłuższej chwili podnosi wzork na was.  
 
-_Chciałbym też abyscie wiedzieli że nie zamierzamy się was pozbywać. Biorąc pod uwagę wasze osiągnięcia chcemy podtrzymać dobre relacje pomimo tego że wasza niekompetencja zmusiła nas do wykorzystania włąsnych zasobów.
+_Chciałbym też abyscie wiedzieli że nie zamierzamy się was pozbywać. Biorąc pod uwagę wasze osiągnięcia chcemy podtrzymać dobre relacje pomimo tego że wasza niekompetencja zmusiła nas do wykorzystania własnych zasobów.
 
-Wróćmy więc do spraw, które mogą być adekwatne do waszego poziomu. Świnie. Wróćmy do świń. Jak widzieliście, przed naszą posiadłością urządziliśmy mięsny kram. Potrzbujemy mięsa. Najbliższe źródło to świniarnia Rudgera. Chcę abyście nagięli go do obiżenia ceny do satysfakcjonującego dla nas poziomu albo ukarali niewdzięcznego pastucha._
+_Wróćmy więc do spraw, które mogą być adekwatne do waszego poziomu. Świnie. Wróćmy do świń. Jak widzieliście, przed naszą posiadłością urządziliśmy mięsny kram. Potrzebujemy mięsa. Najbliższe źródło to świniarnia Rudgera. Chcę abyście nagięli go do obiżenia ceny do satysfakcjonującego dla nas poziomu albo ukarali niewdzięcznego pastucha._
 
 To powiedziawszy zwraca się do ogra - _Gregor, poślij człowieka po pana Rudgera. Niech przybędzie jak najszybciej. W swoim uzasadnionym interesie niech nie zwleka ani chwili._
 
 ### Otwarcie – ustawienie pozycji
 
-Zacznij od tego, że **obie strony próbują mówić do siebie, nie przez BG** – to naturalny odruch, który BG muszą przełamać, żeby w ogóle zostać uznani za negocjatorów, a nie dekorację.
+Czekacie stojąc. 
+	- Tutaj BG mogą porozmawiać z przedstawicielem klanu Lowhaven.
+	- Niziołek ma nastawienie na realizowanie zysków z niemal każdej sytuacji. W ramach rozsądku. Ale przede wszytskim będzie stawiał na ineters klanu.
+	- Rozsądne argumenty mogą zwiększyć szanse BG na pomyślne rozwiązanie sprawy właściciela świń.
+Mija jakieś 20 minut. W drzwiach pojawia się postać. To świaniarz **Gart Fünke**. Ma niewesołą minę i wygląda na takiego co wie w jakim celu tutaj przybył.
 
-**Rudger** (spanikowany, wybucha jako pierwszy):  
-"Wiecie co on kazał wam zrobić?! Trucizna?! Dla moich świń?! Dla mnie?! Po tym jak razem gasiliśmy—"
+**Gart** (spanikowany, wybucha jako pierwszy):  
+"Czy pożar mojej świanirni to wynik braku konsensusu w naszych negocjacjach?"
+"Czego jeszcze chcecie ode mnie? Co tutaj robią ci ludzie?"
 
 **Dobrostan** (przerywa, spokojnie, nie podnosząc głosu):  
-"Panie Steinhauer, prosiłbym o powściągliwość. Jest pan tu z łaski, nie z prawa."
-
-To dobry moment na test **Charm Speech/Coolheaded/Consume Alcohol (jeśli częstujecie się czymś przy stole – niziołki lubią jedzenie)**, żeby BG przejęli kontrolę nad tempem rozmowy i zmusili obie strony do mówienia _przez_ nich, a nie _na_ nich. Jeśli się nie uda – rozmowa zaczyna się od razu w napięciu, -1 do dalszego licznika.
+"Panie Fünke, prosiłbym o powściągliwość. Nasze negocjacje nadal trwają.  Ale chciałbym zaznaczyć że jest pan tu z łaski, nie z prawa."
 
 ### Stanowiska wyjściowe (daj graczom je poznać/wyczuć)
 
 **Dobrostan chce:**
 
-- Całą trzodę, po cenie, którą sam ustali (poniżej rynkowej, ale niekoniecznie poniżej kosztów – to punkt wyjścia do targowania, nie ostateczna prawda).
-- Milczenia o sprawie dłużnika i o metodach klanu.
+- Większą część trzody, po cenie, którą sam ustali (poniżej rynkowej, ale niekoniecznie poniżej kosztów – to punkt wyjścia do targowania, nie ostateczna prawda).
+- Milczenia o metodach klanu.
 - Precedensu: inni hodowcy mają się dowiedzieć, że z Lowhaven się nie zadziera, ale że "rozsądni ludzie" wychodzą z tego z czymś, nie z niczym.
 
-**Rudger chce (i o to prosi BG, często nierealistycznie):**
+**Rudger chce:**
 
 - Zatrzymać świnie / sprzedać po cenie rynkowej.
 - Żeby "ci mali bandyci" zniknęli z jego życia na zawsze.
 - Bezpieczeństwa – żeby nikt więcej nie podpalił mu niczego.
 
-Warto, żeby gracz grający negocjatora zrozumiał: **Rudger nie jest tu partnerem do negocjacji, tylko kimś, kogo trzeba negocjacjami ochronić przed samym sobą.** Jeśli pozwolisz mu mówić za dużo, będzie eskalował.
+Warto, żeby gracz grający negocjatora zrozumiał: **Gart nie jest tu partnerem do negocjacji, tylko kimś, kogo trzeba negocjacjami ochronić przed samym sobą.** Jeśli pozwolisz mu mówić za dużo, będzie eskalował.
 
 ### Licznik negocjacji (0–4)
 
