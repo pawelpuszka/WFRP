@@ -41,3 +41,15 @@ zebrać statystyki BG w jeden dokument
 
 spis różnych sytuacji
 	mięsna maczanka
+
+MUZYKA
+- zabawa w karczmie
+- odwiedziny Hectora Wolfa w Starej Kuźni
+- za murami zamku czarna skała - miasto kupiecka lub rzemieślnicza
+- włamanie do domu
+- w domu łowcy czarownic
+- przed magazynem
+- wkradanie się do magazynu
+stos dla mutantów
+- pościg za Hectorem Wolfem
+- Hector Wolf schodzi do podświata
