@@ -33,7 +33,7 @@ Nagle jego twarz przybiera złowrogi wygląd.
 **Lowhaven**
 „Lowhaven? Mamma mia... Wy naprawdę macie talent do wplątywania się w kłopoty. Zrobić odzyskanie cokolwiek od tych kurdupli to jak wyrwać ząb gryfowi.”
 Navarro jest zasępiony i zamyślony.
-"Dobrze więc, zrobimy tak. Zrobicie chodzenie do niziołkowego klanu i przyniesiecie mi ten kamień. Nie interesuje mnie jak to zrobicie. Czy będziecie robili ich przekonywanie czy okradanie. Za dwa dni zrobię wracanie w to miejsce. Jeżeli nie będzie kamienia albo was tu nie zastanę to dla mnie znak że musimy inaczej robić rozmawianie. Po to jest ten list gończy!"
+"Dobrze więc, zrobimy tak. Zrobicie chodzenie do niziołkowego klanu i przyniesiecie mi ten kamień. Nie interesuje mnie jak to zrobicie. Czy będziecie robili ich przekonywanie czy okradanie. Za dwa dni zrobię wracanie w to miejsce. Jeżeli nie będzie kamienia albo was tu nie zastanę to dla mnie znak że musimy inaczej robić rozmawianie. Ktoś może mieć smutny dzień!"
 
 To mówiąc wstaje od stołu, dopija wino. Stawia kielich z impetem na stół.
 "Panowie.."
@@ -64,3 +64,5 @@ Jest potężnie zbudowany, ma szerokie barki, oliwkową cerę i charakterystyczn
 | Główna Broń                   | 2x Pistolet Tarczowy (Obrażenia +8, Zasięg 20m)        | Rapier (Obrażenia +7, Finezja)                 | Kordelas (Obrażenia +8)                     |
 | Druga Broń / Wyposażenie      | Rapier (Obrażenia +7, Finezja)                         | Misericordia (Obrażenia +5, Ignoruje Pancerz)  | Puklerz (Pancerz +1 w zwarciu)              |
 | Kluczowe Cechy / Talenty      | Szybkie Przeładowanie, Strzał z Biodra, Królewski Krok | Nieustępliwy, Cichy Zabójca, Precyzyjne Cięcie | Zastraszanie, Ogłuszenie, Twardziel         |
+
+[[Propozycja odzyskania kamienia]]
