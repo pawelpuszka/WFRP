@@ -19,8 +19,13 @@
 [[Hector Wolf schodzi do Podświata]]
 
 [[Navarro Carcatera na tropie]]
-
 [[Propozycja odzyskania kamienia]]
+
+Zadzieje się po spotkaniu z Navarro. Do BG podejdzie jakiś człowiek i zaoferuje swoją pomoc w odzyskaniu kamienia. Oczywiście będzie to podstęp i BG trafią na
+[[Pułapka]]
+
+Tutaj opisać można sytuację gdzie BG widzą jak w bocznej uliczce jest bity i okradany człowiek. nigdzie nie widac straży miejskiej. Jeżeli BG będą chcieli pomóc ofierze to wpdną w pułapkę 
+[[Wciągnieci w pułapkę]]
 
 
 TŁO

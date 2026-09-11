@@ -1,6 +1,6 @@
 BG siedzą w "Starej Kuźni" i próbują się zrelaksować.
 
-- **Atmosfera w „Starej Kuźni”:** Wieczór jest tłoczny. Pełno tu rzemieślników i mieszczaństwa. Wesoła muzyka przygrywa ostatnio w karczmie bardzo często. Karczmarz od kilku dni chodzi szczęśliwy i zadowolony. Co rzutuje na nastroj w Starej Kuźni. Ale to normalne - uratowaliście mu syna, który właśnie przemyka pomiędzy stołami donosząc kolejnych napitków.
+- **Atmosfera w „Starej Kuźni”:** Wieczór jest tłoczny. Pełno tu rzemieślników i mieszczan. Wesoła muzyka przygrywa ostatnio w karczmie bardzo często. Karczmarz od kilku dni chodzi szczęśliwy i zadowolony. Co rzutuje na nastroj w Starej Kuźni. Ale to normalne - uratowaliście mu syna, który właśnie przemyka pomiędzy stołami donosząc kolejnych napitków.
   Słyszycie jak ludzie szepczą po kątach o waszych ostatnich czynach wskazując was palcem.
 
 - Gdzieś słyszeliście już ten głos.  **_pogodny, lekkoduch_**
