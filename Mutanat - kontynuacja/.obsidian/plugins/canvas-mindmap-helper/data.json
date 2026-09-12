@@ -1,4 +1,6 @@
 {
   "autoLayoutDefault": false,
-  "autoLayoutEnabledFor": {}
+  "autoLayoutEnabledFor": {
+    "4.BN/statystyki BN.canvas": false
+  }
 }

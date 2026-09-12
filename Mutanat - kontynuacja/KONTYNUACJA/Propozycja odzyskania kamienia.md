@@ -5,8 +5,7 @@ Hubert
 Michał
 Wiktor
 Jest to test na **Intuicję** BG mówiący czy BG wykryją kłamstwo Egona.
-**Egon** jest zawodowym kłamcą, rajfurem i rabusiem. Posiada **Charyzmę 60** 
-Przeciwstawny test Intuicja <-> Charyzma (60)
+**Egon** jest zawodowym kłamcą, rajfurem i rabusiem. Posiada talent **Gładkie Słówka** więc BG nie wykryją jego kłamstwa
 
 Gdy BG będą rozprawiać o ostatnim spotkaniu z Navrro podejdzie do nich obcy człowiek.
 

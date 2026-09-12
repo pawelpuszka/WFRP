@@ -11,9 +11,6 @@
 
 [[Dom łowcy czarownic]]
 
-[[Magazyn nr 55]]
-[[Skaven w magazynie nr 55]]
-
 Można w tym momencie poprosić graczy o rzuty kością na poczet wydarzenia **Propozycja odzyskania kamienia**
 [[Navarro Carcatera na tropie]]
 [[Propozycja odzyskania kamienia]]
@@ -23,6 +20,8 @@ Zadzieje się po spotkaniu z Navarro. Do BG podejdzie jakiś człowiek i zaoferu
 
 Tutaj opisać można sytuację gdzie BG widzą jak w bocznej uliczce jest bity i okradany człowiek. nigdzie nie widac straży miejskiej. Jeżeli BG będą chcieli pomóc ofierze to wpdną w pułapkę 
 [[Zasadzka]]
+
+
 
 [[Łowca czarownic ucieka]]
 

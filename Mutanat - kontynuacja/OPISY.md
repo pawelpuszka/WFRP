@@ -1,0 +1,2 @@
+Skręcacie w boczny zaułek, a nad głowami wyższe kondygnacje budynków wystają przed lico parteru, tworząc nad drogą naturalny dach. Powietrze jest tu chłodne i przesiąknięte zapachem wilgotnego drewna oraz starego kamienia. Wasze kroki niosą się echem po nierównym, wytartym bruku, a z mroku wyłaniają się pękate beczki i wiklinowe kosze. Wszystko zostawione tu jakby w pośpiechu. Na końcu drogi przejście zwęża się w sklepiony, kamienny przesmyk prowadzący Pod ciągiem budynków. Przejście do kolejnej części miasta
+

@@ -1,5 +1,7 @@
  **SKAVEN**
-- W kącie magazynu, zaraz za trzema skrzyniami ułożonymi w stos czai się skaven. Zauważy on BG schodzącego z 1 piętra. Skaven zmieni miejsce aby się lepiej ukryć. BG powinien wykonać **TEST PERCEPCJA +0** aby zauważyć ten ruch. Po krótkim czasie skaven  wystrzeli s kuszy z zatrutym bełtem (czarny lotos - **TEST ODPORNOŚĆ +0** - niezdany 2 poziomy zatrucia).
+- W kącie magazynu, zaraz za trzema skrzyniami ułożonymi w stos czai się skaven. Zauważy on BG schodzącego z 1 piętra. Skaven zmieni miejsce aby się lepiej ukryć. BG powinien wykonać **TEST PERCEPCJA +0** aby zauważyć ten ruch. 
+- **Porażka:** BG nie dostrzega ruchu. Skaven zyskuje darmowy atak z ukrycia, a BG otrzymuje **Stan Zaskoczenie** (brak możliwości obrony w 1. rundzie, +20 do trafienia dla atakującego)
+- Po krótkim czasie skaven  wystrzeli z kuszy z zatrutym bełtem (czarny lotos - **TEST ODPORNOŚĆ +0** - niezdany 2 poziomy zatrucia).
 - 1. Kiedy strzela z zaskoczenia / Atakuje z ukrycia
 	- _„Zgiń-przepadnij, mięso-małpo! Rogaty Szczur chce twojej krwi-posoki!”_
 	- _„Cicho-cicho, gińcie w ciemności! Nikomu nie powiecie-zdradzicie!”_
