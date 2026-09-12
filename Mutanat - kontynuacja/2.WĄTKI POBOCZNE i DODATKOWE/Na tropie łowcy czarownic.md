@@ -6,11 +6,12 @@ Najlepszą porą na rozegranie sceny [[Ciemne Interesy Łowcy Czarownic]] byłby
 OPIS 
 Jest już wieczór/noc/wczesny poranek. Wilgoć przenika przez wasze ubrania i powoduje dreszcze za każdym podmuchem zimowego wiatru. Podążacie za Hectorem Wolfem w stronę doków. Jego ślady są widoczne w świeżym śniegu. W miarę zbliżania się do rzeki mgła gęstnieje coraz bardziej a powietrze staje się jeszcze bardziej wilgotne i przenikające chłodem.
 
-**PAMIĘTAĆ O TESTACH Skradanie <-> Percepcja**
+**PAMIĘTAĆ O TESTACH Skradanie <-> Percepcja(-20)**
+Jeżeli **Hector Wolf** zorientuje się jest śledzony to przyśpieszy kroku i będzie zmierzał do miasteczka pod mostem - Dunkelfeucht.
 
 Idziecie za łowcą. Ponurym Wolfem. Skręca za budynek w stronę rzeki.
 
-Schodzicie po kamiennych schodach które prowadzą was pomiędzy dwa budynki a następnie do promenady. 
+Schodzicie po kamiennych schodach które prowadzą was pomiędzy dwoma budynkami a następnie do promenady. 
 
 Promenada wita was zapachem mokrego drewna i ryb. Dźwięk skrzypiących lin dźwigów portowych kołysanych wiatrem niesie się przez mgłę jak jęk starego statku. Woda uderza o kamienne nabrzeże miarowym, cichym pluskiem. 
 Stłumiony brzęk łańcuchów i skrzypienie kadłubów cumujących jednostek. 
@@ -18,5 +19,5 @@ Nieliczne latarnie na słupach walczą z gęstniejącą mgłą, rzucając blade,
 
 Łowca zatrzymuje się niedaleko niknącego we mgle mostu. [[Ciemne Interesy Łowcy Czarownic]]
 
-CO SIĘ STANIE GDY BG ZOSTALI ZAUWAŻENI
+
 
