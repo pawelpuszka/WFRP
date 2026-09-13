@@ -5,17 +5,20 @@ Wykorzystaj ten fragment w momencie, gdy Bohaterowie Graczy, ścigając łowcę 
 ---
 
 > Ściek, którym biegniecie, zwęża się gwałtownie, a jego dno pokrywa już nie zwykły muł, lecz warstwa czegoś ciemniejszego, lepkiego, usianego drobnymi kośćmi – szczurów, ptaków, a może i czegoś większego. Pochodnia skwierczy, jakby powietrze samo protestowało przeciw płomieniowi.
-> 
+
+**HECTOR WOLF SCHODZI DO PODŚWIATA**
+> Łowca czarownic, którego ścigacie, zatrzymuje się przed otworem tylko na chwilę. Ociera twarz, jakby zbierał się na coś gorszego niż to, przed czym uciekał – po czym pochyla się i znika w środku, a poświata na moment przygasa, jakby przejście go połknęło.
+
+
 > Przed wami mur – stary, o wiele starszy niż reszta kolektora, budowany z ciosanego kamienia, jakiego już się nie używa. Widnieje na nim wilgotna, rdzawa smuga ściekająca z pęknięcia w kamieniu, jakby sam mur krwawił, a raczej płakał krwią rdzy.
 > 
 > W tym murze ktoś – a raczej coś – wykuło przejście. Nieregularne, niskie, o krawędziach obudowanych zardzewiałymi prętami i szczątkami starych krat. Otwór jest zbyt niski, by przeszedł nim dorosły człowiek bez schylenia się niemal do ziemi.
 > 
 > Z głębi sączy się chorobliwie zielonkawa poświata, pulsująca nieregularnie. Zapach, który stamtąd bije, miesza słodkawą woń rozkładu z gryzącym, metalicznym smrodem.
 > 
-> Z ciemności dobiega chrobot pazurów o kamień, chóralny, cichy pisk i regularny, mokry odgłos, jakby coś wielkiego oddychało głęboko pod miastem.
+> Z ciemności dobiega chrobot pazurów o kamień, chóralny, cichy pisk i regularny, obrzydliwy odgłos, jakby coś wielkiego oddychało głęboko pod miastem.
 
-**HECTOR WOLF SCHODZI DO PODŚWIATA**
-> Łowca czarownic, którego ścigacie, zatrzymuje się przed otworem tylko na chwilę. Ociera twarz, jakby zbierał się na coś gorszego niż to, przed czym uciekał – po czym pochyla się i znika w środku, a poświata na moment przygasa, jakby przejście go połknęło.
+
 
 ---
 

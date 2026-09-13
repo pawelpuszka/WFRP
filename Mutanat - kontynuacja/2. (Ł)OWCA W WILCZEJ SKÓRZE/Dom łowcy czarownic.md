@@ -24,5 +24,6 @@ Pod ścianą obok okna stoi spore **dębowe biurko**. Na nim kałamarz, pióro, 
 
 BG mogą znaleźć tutaj potwierdzenie opłaty za magazyn nr 55 (wsadzona w ostatnie strony księgi z wpisami lub pod łóżkiem).
 
-BG mogą dowiedzieć się po tym wydarzeniu że kapitan straży został oskarżony o wyznawanie boga Slanesha. Znaleziono u niego w domu amulety i ołtarzyk poświęcony temu bóstwu chaosu.
+[[Kapitan Stelzer oskarżony]]
+
 

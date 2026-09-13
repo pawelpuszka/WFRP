@@ -11,19 +11,20 @@ Podnosi swój kufel do ust i popija piwo
 
 Drzwi Starej Kuźni otwierają się
 Nagle gwar przycicha.  Ktoś odstawia kufel zbyt gwałtownie.
-W progu stoi Hector Wolf. Sam, bez świty, w prostym, ciemnym płaszczu zamiast pełnej gali łowcy czarownic. Rozgląda się po sali z powolnym, oceniającym, pogardliwym spojrzeniem spod swojego kapelusza.
+W progu stoi Hector Wolf. Sam,  w prostym, ciemnym płaszczu. Rozgląda się po sali spod swojego kapelusza z powolnym, oceniającym, pogardliwym spojrzeniem.
 
 Jego kroki rozchodzą się po cichej karczmie gdy bez pośpiechu zmierza w kierunku waszego stołu. 
+
+"Co tak pocichli? Muzyka grać! Nie przyszedłem tutaj nikogo palić na stosie! Chcę się napić piwa!" To powiedziawszy, bez pytania dosiada się do was.
 
 **Hector:** _(cicho, tylko do BG, tonem człowieka przyzwyczajonego, że jest słuchany)_ — Nie przyszedłem tu jako łowca czarownic. Przyszedłem jako przedstawiciel tego miasta który wam coś zawdzięcza. Uratowaliście chłopaka i zdjęliście gniazdo szczurzych sług, zanim zdążyło się rozrosnąć.
 
 (Pauza)
 Rozgląda się po waszych twarzach jakby coś w nich czytał.
 
-Odsuwa krzesło, zarzuca płaszcz do tyłu. Siada.
 "Karczmarzu, piwa! Ja stawiam. Niech gra muzyka! Niech każdy przechyli kufel na cześć tych oto bohaterów!"
 
-**Hector:** — To dobra robota. Rzadko widuję takie rzeczy poza własnymi ludźmi.
+**Hector:** — To dobra robota. Rzadko widuję takie rzeczy poza mną oczywiście.
 
 **Hector:** — Ale przyszedłem z czymś mniej przyjemnym. Gniazdo, które rozbiliście, nie było całym legowiskiem. To był tylko jeden korytarz w norze, która ma ich znacznie więcej. _(Ścisza głos jeszcze bardziej.)_ Wiem, bo ścigam te robactwo dłużej, niż wy żyjecie na tym świecie.
 

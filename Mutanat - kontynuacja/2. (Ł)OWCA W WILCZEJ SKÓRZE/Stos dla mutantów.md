@@ -18,7 +18,8 @@ Chaos i wszelkie jego znamiona zostaną wytropione i wytępione. Nie będzie lit
 
 To mówiąc weźmie przejmie od jednego ze strażników miejskich pochodnię i rzuci ją na stos, który w krótkim czasie zajmie się ogniem a w powietrzu czuć będzie smród spalenizny.
 
-GDZIE UDA SIĘ NASTĘPNIE HECTOR WOLF
+GDZIE UDA SIĘ NASTĘPNIE HECTOR WOLF - w zależności od sytuacji 
 - gospoda 
 - budynek straży miejskiej
 - swój dom
+- do Dunkelfeucht [[Na tropie łowcy czarownic]]

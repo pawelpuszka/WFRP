@@ -4,23 +4,23 @@ Przystaje na chwilę i rozgląda się upewniając że nikt go nie widzi (**TEST 
 **JEŻELI BG ZOSTANĄ ZAUWAŻENI**
 Jeżeli łowca czarownic zauważy BG, to zrobi jakiś niezrozumiały gest w kierunku rzeki (BG nie są w stanie dostrzec z kim Hector się komunikował), po czym skieruje się w stronę miasteczka biedoty pod mostem i zniknie we mgle oraz w wąskiej uliczce pomiędzy budynkami.
 
-Jeżleli BG podejdą do nabrzeża to usłyszą tylko dźwięki płynącej łodzi i jakiś poblask światła który rozchodzi poprzez mgłę.
+Jeżleli BG podejdą do nabrzeża to usłyszą tylko dźwięki płynącej łodzi i blady poblask światła rozchodzący się poprzez mgłę.
 
 BG zapewne podążą za łowcą czarownic. 
 
 Okolica nie wygląda najciekawiej.
-Mroźny, gęsty śnieg osiada na czarnym kamieniu monumentalnego, krasnoludzkiego mostu, spinającego brzegi rzeki Teufel. Nad wodą unosi się gęsta mgła, która mieszając się z lodowatym powietrzem, otula pobliską okolicę.
+Mroźno, śnieg osiada na czarnym kamieniu monumentalnego, krasnoludzkiego mostu, spinającego brzegi rzeki Teufel. Nad wodą unosi się gęsta mgła, która mieszając się z lodowatym powietrzem, otula pobliską okolicę.
 W mroku pną się prymitywne, kilkupiętrowe szopy z przymarzniętej dykty, drewna i płótna zagrzebanego w błocie. 
 Jedynym źródłem światła są nieliczne, dogasające paleniska zamknięte w dziurawych żelaznych beczkach.
 
 Jeżeli BG ruszą dalej to zbliżając się do jednego z przyrzecznych mól (wybudowanych zapewne na potrzeby szmuglu) usłyszą głos gdzieś z oddali. Nie widać jego źródła przez mgłę.
 
-"Czego tu szukacie? Bo na chwilę obecną znaleźliście kłopoty! Zmiatać stąd albo rano straż będzie łowiła wasze zwłoki z rzeki."
+"Czego tu szukacie? Bo jak na razie znaleźliście kłopoty! Zmiatać stąd albo rano straż będzie z rzeki wasze zwloki łowiła."
 
-Jeżeli BG będą się wykłócać
+Jeżeli BG będą się wykłócać albo oponować.
 "Dobra. Sami tego chcieliście" WALKA
 
-W tym czasie Hector Wolf ucieknie ze slumsów i BG nic więcej nie znajdą.
+W tym czasie Hector Wolf ucieknie ze slumsów i BG nic więcej nie znajdą, ponieważ kultyści wypłyną barką na rzekę i będą się ukrywali wśród mgieł po drugij stronie Teufelu. 
 
 **JEŻELI BG NIE ZOSTANĄ ZAUWAŻENI**
 Gdy jest pewny że nikt go nie zauważył podąża w kierunku Dunkelfeucht - miasteczko slumsy pod mostem przy dzielnicy portowej.
@@ -57,10 +57,10 @@ Jeżeli BG będą chcieli zatopić łódź
 - Łowca jest ostrożny i stara się zgubić ewentualny ogon - BG muszą wykonać **test ŚLEDZENIA**
 -  Jeżeli BG będą się nadal skaradali i nie zostaną wykryci to 
 - Hector będzie rozmawiał z niską przygarbioną postacią (skaven). Będą rozmawiali krótko
-	- **HK:**"Sprawdziłem przesyłkę. Wszystko się zgadza. Dzisiaj przed wschodem słońca przetransportujemy ją do **magazynu**. Załatwiłem aby straż miejska nie przeszkadzała."
+	- **HK:**"Sprawdziłem przesyłkę. Wszystko dotarło. Jutro w nocy przetransportujemy ją do **magazynu**. Załatwiłem aby straż miejska nie przeszkadzała."
 	- **Skaven:** "Wyśmienicie, wyśmienicie. Wszystko zgodnie z planem. Wszystko zmierza w dobrą stronę. Łowca spisuje się dobrze i będzie wynagrodzony gdy miasto upadnie. Czy rozwiązałeś ten problem węszycieli? 
-	- **HK:** "Jeszcze nie, ale mam pewien plan."
-	- **Skaven:** Dobrze, czy mamy być gotowi?
+	- **HK:** "Jeszcze nie, ale mam pewien plan. Nad kapitanem pracuje jeden z moich zaufanych ludzi."
+	- **Skaven:** Dobrze, czy mam być gotowy?
 	- **HK:** Nie. Poradzimy sobie własnymi siłami.
 	- **Skaven:** To dobrze dobrze. Teraz już się rozejdźmy aby nas nikt nie zauważył.
 
@@ -71,7 +71,7 @@ BG mogą śledzić Hectora Wolfa - wróci do domu aby wypocząć.
 - ujawni dziwne ślady w miejscu gdzie nie ma bruku a także w śniegu który leży gdzieniegdzie. Prowadzą do włazu do kanałów miejskich. Jest on zamknięty.
 Kolejny **TEST Percepcji (+0)** 
 - ujawni że właz był niedawno otwierany.
-Lepiej aby BG nie wchodzili teraz do kanałów.
+Jeżeli BG będą śledzić skavena kanałami, co będzie bardzo trudne, to wyjdzie on w dzielnicy portowej w pobliżu magazynu nr 55, po czym schowa się w tym magazynie jeżeli nikogo nie zauważył lub schowa się pomiędzy budynkami aby zwieść pościg.
 
 W ostateczności przypomnieć im że:
 - BG mają informację o magazynie. Nie wiedzą tylko o jaki magazyn chodzi.
