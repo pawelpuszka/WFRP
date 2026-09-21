@@ -7,10 +7,11 @@ Wykorzystaj ten fragment w momencie, gdy Bohaterowie Graczy, ścigając łowcę 
 > Ściek, którym biegniecie, zwęża się gwałtownie, a jego dno pokrywa już nie zwykły muł, lecz warstwa czegoś ciemniejszego, lepkiego, usianego drobnymi kośćmi – szczurów, ptaków, a może i czegoś większego. Pochodnia skwierczy, jakby powietrze samo protestowało przeciw płomieniowi.
 
 **HECTOR WOLF SCHODZI DO PODŚWIATA**
-> Łowca czarownic, którego ścigacie, zatrzymuje się przed otworem tylko na chwilę. Ociera twarz, jakby zbierał się na coś gorszego niż to, przed czym uciekał – po czym pochyla się i znika w środku, a poświata na moment przygasa, jakby przejście go połknęło.
+	W oddali widzicie postać z pochodnią.   
+> Zatrzymuje się przed otworem tylko na chwilę. Ociera twarz, rzuca pochodnię na ziemię, po czym pochyla się i znika. Macie wrażenie że na chwilę ciemność rozświetliła bladozielona poświata. Łowca zniknął, jakby coś go połknęło.
 
 
-> Przed wami mur – stary, o wiele starszy niż reszta kolektora, budowany z ciosanego kamienia, jakiego już się nie używa. Widnieje na nim wilgotna, rdzawa smuga ściekająca z pęknięcia w kamieniu, jakby sam mur krwawił, a raczej płakał krwią rdzy.
+> Przed wami mur – stary, budowany z ciosanego kamienia, jakiego już się nie używa. Widnieje na nim wilgotna, rdzawa smuga ściekająca z pęknięcia w kamieniu, jakby sam mur krwawił, a raczej płakał rdzą.
 > 
 > W tym murze ktoś – a raczej coś – wykuło przejście. Nieregularne, niskie, o krawędziach obudowanych zardzewiałymi prętami i szczątkami starych krat. Otwór jest zbyt niski, by przeszedł nim dorosły człowiek bez schylenia się niemal do ziemi.
 > 
@@ -18,9 +19,12 @@ Wykorzystaj ten fragment w momencie, gdy Bohaterowie Graczy, ścigając łowcę 
 > 
 > Z ciemności dobiega chrobot pazurów o kamień, chóralny, cichy pisk i regularny, obrzydliwy odgłos, jakby coś wielkiego oddychało głęboko pod miastem.
 
+> _Wahlund spogląda na wąską wyrwę w ścianie kanału. Dobywa swojej broni. Jego słowa niosą się echem po korytarzu. 
+> Dawco siły i hartu ducha udziel nam swojej nieustępliwości, by nasze ramiona nie zadrżały, a serca nie poznały trwogi. Spójrz na to plugawe leże i użycz nam swojej nieustępliwości oraz miażdżącej siły! Niech Twój mroźny oddech skruszy ten kamień, a Twój topór obali mury wroga!
 
-
----
+W ciasnym,  korytarzu kanału temperatura gwałtownie spada – wilgoć na krasnoludzkich cegłach i krawędziach wyrwy natychmiast ścina się w grubą warstwę białego szronu.
+Z potężnym zamachem uderza w ścianę tuż nad zejściem do podświata. 
+Zamiast zwykłego stuku metalu, podziemiami wstrząsa ogłuszający trzask pękającego lodu i łamanej skały. Mroźna fala energii rozsadza spoiwa muru, a przemrożony kamień gwałtownie zapada się do środka. Strop obsuwa się z kaskadą gruzu, całkowicie zasypując i pieczętując przejście. W ciasnym rynsztoku pozostaje tylko tuman pyłu oraz chłodna, głęboka cisza.
 
 ### Wskazówki dla MG
 

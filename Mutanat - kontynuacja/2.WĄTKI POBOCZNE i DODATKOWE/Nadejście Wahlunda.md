@@ -10,6 +10,13 @@ Z ciemności wyłania się sylwetka. Zakrzywione ostrze przecina powietrze tuż 
 
 "To tutaj to szczurze pomioty. Młode osobniki ale niebezpieczne. Macie szczęście że na was trafiliśmy. Teraz musimy odszukać leże tego plugastwa. Ha tfu."
 
+"Mogę z wami pójść jeżeli to co mówicie to prawda. Znam jedno niepokojące miejsce w tych kanałach i podejrzewam że właśnie tam udaje się ten człowiek. Ruszajmy"
+
+[[Hector Wolf schodzi do Podświata]]
+
+
+
+------------- To jest w przypadku gdy BG rozgrywali wcześniejszą przygodę---------------------
 "Mogę was zaprowadzić w jedno miejsce. Stamtąd wyłażą jacyś ludzie. Nie sprawiają kłopotów więc się nimi nigdy nie interesowałem. Może tam znajdziecie to czego szukacie."
 
 Wracacie do miejsca gdzie jest kamień, zaraz po drugiej stronie kanału znajduje się kolejna odnoga głównego korytarza. Wahlund prowadzi was jakieś sto kroków i pokazuje na jeden z bocznych korytarzy [[Siedziba kultu Żółtych Brzuchów#^1adac8]]

@@ -9,3 +9,5 @@ Wydają z siebie przerażające dźwięki i rzucają się na was.
 
 *BG najprawdopodobniej nie dadzą sobie rady z przeciwnikiem. Gdy sytuacje będzie wyglądała źle to nadejdzie pomoc.*
 [[Nadejście Wahlunda]]
+
+Powrót do [[Łowca czarownic ucieka]]

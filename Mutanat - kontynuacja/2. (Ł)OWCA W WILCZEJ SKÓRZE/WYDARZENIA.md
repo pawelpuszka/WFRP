@@ -8,7 +8,7 @@ BG mogą chcieć śledzić Hectora aby wiedzieć kiedy nie ma go w domu
 1 dzien 
 - rano
 	**POGODA**: zimno i pochmurno, wieje zimny wiatr
-	[[Żebrak]]
+	[[Żebrak]] ambicja krókoterminowa
 - po południu 
 	[[Wizyta Hectora w Starej Kuźni]]
 - wieczór/noc
@@ -28,7 +28,7 @@ BG mogą chcieć śledzić Hectora aby wiedzieć kiedy nie ma go w domu
 - w ciągu dnia/wieczorem gdy Hectora nie ma w domu
 	**POGODA**: zimno i pochmurno, czasami księżyc wyjrzy spoza chmur, pada lekki śnieg, mgła
 	[[Na pomoc!!]] - opcja
-	[[Kapitan Stelzer oskarżony]] - tego raczej nie grać ponieważ utrudni to rozegranie obławy
+	[[Kapitan Stelzer oskarżony]] - ???
 	[[Magazyn nr 55]]
 	[[Skaven w magazynie nr 55]]
 	[[Przekonać władze miasta]]
@@ -40,7 +40,7 @@ BG mogą chcieć śledzić Hectora aby wiedzieć kiedy nie ma go w domu
 	[[Hector Wolf schodzi do Podświata]]
 
 ALTERNATYWA
-3 dzień - rozegrać tylko i wyłącznie wtedy gdyby BG się bardzo ociągali lub nie chcieli ścigać łowcy czarownic
+3 dzień - rozegrać tylko i wyłącznie wtedy gdyby BG się bardzo ociągali lub nie chcieli ścigać łowcy czarownic lub nawet wtedy gdy uszkodzą barkę i zatopią 
 - rano
 	[[Oskarżeni o chaos]]
 
