@@ -1,8 +1,8 @@
 
-**Kontekst sceny:** Wieczór, kilka dni po rozbiciu głównej kryjówki kultu. Karczma jest pełna gości — plotka o BG i uratowaniu syna karczmarza zdążyła się rozejść, więc kilku miejscowych zerka w waszą stronę z podziwem. Może nawet z podziwem.
+**Kontekst sceny:** Wieczór, kilka dni po rozbiciu głównej kryjówki kultu. Karczma jest pełna gości — plotka o BG i uratowaniu syna karczmarza zdążyła się rozejść, więc kilku miejscowych zerka w waszą stronę. Może nawet z podziwem.
 
 W pewnym momencie przy stole obok siada krępy mężczyzna o poplamionych smołą dłoniach – widać po nich, że to kołodziej albo cieśla. Stawia na stole dzban piwa i przysuwa go w waszą stronę.
-— A nie, nie, próżno gadać. Ja stawiam, i kwita. Bratanek mój w dobrej komitywie z synem karczmarza żyje? Cała okolica już plecie językami, że to wyście go... że to dzięki waszmościom chłopak w ogóle do dom wrócił.
+— A nie, nie, próżno gadać. Ja stawiam, i kwita. Bratanek mój w dobrej komitywie z synem karczmarza żyje. Cała okolica już plecie językami, że to wyście go... że to dzięki waszmościom chłopak w ogóle do dom wrócił.
 — Słuchajcie no... ja się tam na wojaczce nie znam, całymi dniami przy warsztacie... Ale jak człek słyszy, że pod samiuśkim nosem ludziska ginęli miesiącami, a nikt palcem nie kiwnął... to, na Sigmara, serce się kraje. Dobrze, żeście to skończyli.
 Podnosi swój kufel do ust i popija piwo
 — A gdybyście kiedy czego potrzebowali – koła do wozu, okucia, cokolwiek z drewna czy żelastwa – to **Otwin (Grubner - kołodziej)** zawżdy czas znajdzie. Darmocha, rozumiecie? Tyle jeno mogę uczynić.

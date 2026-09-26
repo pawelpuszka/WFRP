@@ -1,9 +1,22 @@
+### PLOTKI
+Na poczatku pozwolić BG na TEST na **Gadanina**
+- Graf Sigissmund von Jungfreud będzie organizował wielkie przyjęcie z okazji urodzin swojego syna **Gerhardta** w związku z tym na gwałt potrzebuje świetnej jakości jadła zwłaszcza wędlin i mięsiwa.
+- Piwo zostanie dostarczone przez lokalny browar Borguna
+- Wieprzowa Jama **Garta Fünke** ma nieporównywalnie lepsze mięso od świniarni spoza miasta
+
 **AKTYWNOŚĆ ŁOWCY CZAROWNIC**
 BG mogą chcieć śledzić Hectora aby wiedzieć kiedy nie ma go w domu
 	- przebywa w domu do południa
 	- wychodzi na miasto i udaje się do tawerny Bałagan i Wiadro w dzielnicy Wojskowej i tam spędza czas do wieczora, chyba że ma inne rzeczy na głowie
 	- **pierwszego dnia** Hector opuści tawernę o zmroku i uda się do Dunkelfeucht aby sprawdzić ładunek który przypłynął barką
 	- w nocy **drugiego dnia** Hector i jego ludzie przypłyną barką pod magazyn aby przenieść ładunek 
+
+**JAK BG MOGĄ SIĘ DOWIEDZIEĆ O TYM ŻE LOWHAVENOWIE WYNAJMUJĄ MAGAZYNY W PORCIE**
+	- Niektórzy BN zapytani o wynajem magazynów będą wiedzieli o tym
+		- Ulrich Wirt
+		- kapitan Stelzer
+	- Mogą usłyszeć jako plotkę w "Starej Kuźni", innej karczmie lub w porcie, jak jeden z kupców narzeka na wysoką opłatę za wynajęcie magazynu u niziołków
+
 
 1 dzien 
 - rano

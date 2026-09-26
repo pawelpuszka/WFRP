@@ -17,7 +17,7 @@ Nagle zauważają że w bocznej uliczce dwóch drabów bije leżącego człowiek
 
 Jeżeli BG rzucą się na pomoc to powinni dorwać rabusiów i ich pokonać. W momencie gdy BG zaczną przeszukiwać rabusiów przybiegnie oddział strażników miejskich na czele z sierżantem Klumpenklugiem.
 
-"Świetna robota! Czy ja was skądś nie znam? Mordy wy moje! Wy jesteście te chłopaki ze Starej Kuźni co mało co nie spłonęli za fałszywego mutanta."
+"Świetna robota! Czy ja was skądś znam? Mordy wy moje! Wy jesteście te chłopaki ze Starej Kuźni co mało co nie spłonęli za fałszywego mutanta."
 "A, widziałem że go obszukiwałeś. Pokaż przyjacielu co tam znalazłeś przy tym obsrańcu."
 **Rabuś**: "Kuszę pistoletową mi zabrał. Chcę ją z powrotem!"
 **K:** "Kuszę pistoletową? Przecież to nielegalne! To jest broń skrytobójcza! Mordeczko ty moja ja to rekwiruję. Musisz mi ją oddać w imię prawa miasta Ubersreik. I tym podobne..."
