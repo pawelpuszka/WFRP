@@ -24,7 +24,12 @@ Wykorzystaj ten fragment w momencie, gdy Bohaterowie Graczy, ścigając łowcę 
 
 W ciasnym,  korytarzu kanału temperatura gwałtownie spada – wilgoć na krasnoludzkich cegłach i krawędziach wyrwy natychmiast ścina się w grubą warstwę białego szronu.
 Z potężnym zamachem uderza w ścianę tuż nad zejściem do podświata. 
-Zamiast zwykłego stuku metalu, podziemiami wstrząsa ogłuszający trzask pękającego lodu i łamanej skały. Mroźna fala energii rozsadza spoiwa muru, a przemrożony kamień gwałtownie zapada się do środka. Strop obsuwa się z kaskadą gruzu, całkowicie zasypując i pieczętując przejście. W ciasnym rynsztoku pozostaje tylko tuman pyłu oraz chłodna, głęboka cisza.
+Zamiast zwykłego stuku metalu, podziemiami wstrząsa ogłuszający trzask pękającego lodu i łamanej skały. Mroźna fala energii rozsadza spoiwa muru, a przemrożony kamień gwałtownie zapada się do środka. Strop obsuwa się, całkowicie zasypując przejście. W korytarzu pozostaje tylko tuman pyłu oraz przeszywający chłód.
+
+"Chodźmy stąd."
+"Byliście świadkami i widzieliście coś czego nie powinniście widzieć."
+"Nie rozpowiadajcie tego i nie zdradzajcie nikomu. Mnie tu nie było i nic nie zrobiłem. Jeżeli ktoś się o tym dowie będę wiedział kogo mam szukać."
+"Bywajcie."
 
 ### Wskazówki dla MG
 
