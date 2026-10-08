@@ -11,7 +11,7 @@ Co zrobią BG?
 Jeżeli przybędą wcześniej to po **23.00**
 [[Nadejście łowcy i kultystów#^0836d8]]
 
-Szeroka uliczka w drugim rzędzie jest znacznie cichsza niż tętniąca życiem promenada przy rzece. Smród rzeki jest jakby trochę mniejszy. Wszechogarniający mrok rozświetla jedynie Manslieb, który wyjrzał zza rzadko po niebie rozsianych chmur. Lekko zawiewa mroźny wiatr.
+Szeroka uliczka w drugim rzędzie jest znacznie cichsza niż tętniąca życiem promenada przy rzece. Smród rzeki jest jakby trochę mniejszy. Wszechogarniający mrok rozświetla jedynie Manslieb, który wyjrzał zza chmur rozsianych rzadko po niebie. Lekko zawiewa mroźny wiatr.
 Stoicie przed piętrowym spichlerzem z muru, desek i bali. Nad waszymi głowami wystaje ramię potężnego, drewnianego żurawia, którego liny cicho skrzypią na wietrze, sięgając niemal do ziemi. Ulica wydaje się pusta.
 
 Rozglądacie się po okolicy. Dostrzegacie kilka wozów na pustym podwórzu naprzeciwko (pewnie coś do wynajęcia - własność dokerów). Kilkanaście metrów dalej ciągną się budynki. Gdzieś dalej słyszycie głosy ludzi bawiących się w karczmie. Przejścia pomiędzy tymi budynkami są dość wąskie, często zawalone beczkami. Po lewej jaki po prawej stronie stoją podobne magazyny.
