@@ -11,14 +11,33 @@ Poprosić o wcześniejszy rzut kością. Nie mówić BG że to jest test na Perc
 Wracacie do Starej Kuźni na nocleg po ciężkim dniu.
 Jesteście zmęczeni.
 
-Noc jest ciemna, księżyc schował się za chmurami i słychać wycie wiatru któ©y przedostaje się do izby szparami w oknie.
-Szybko idziecie spać.
+Noc jest ciemna, księżyc schował się za chmurami i słychać wycie wiatru który przedostaje się do izby szparami w oknie. Jesteście zmęczeni.
+ZAPYTAĆ o deklaracje, może BG chcą coś omówić.
 
+Szybko idziecie spać.
+Gdyby któryś z BG postanowił pełnić wartę to musi zdać Trudny (-20) test na Odporność inaczej zaśnie.
+
+BG są albo budzeni pukaniem do drzwi, dźwiękiem klucza przekręcanego w zamku albo po prostu ktoś ich budzi (gdyby nic innego ich nie zbudziło lub nie pełnili warty).
+
+W ciemności stoi postać.
+"Cicho" - mówi - "Przyszedłem was ostrzec. Musicie opuścić karczmę przed świtem. Hector Wolf przybędzie z samego rana aby was aresztować i przedstawić zarzuty. Ja miałem wam podrzucić fałszywe dowody" i to mówiąc pokazuje rzeczy które wyciąga z torby zawieszonej na ramieniu.
+
+"Oni mi coś zrobili gdy byłem w niewoli. Moje myśli. Coś mi nakazuje robić złe rzeczy. Ja też muszę opuścić ojcowiznę. Zostawiłem ojcu list. Udam się do lasu i tam będę żył samotnie. Nie szukajcie mnie."
+
+"Oni czczą jakiegoś szczura. Planują coś złego. Prawdopodobnie dotyczy to całego miasta. Tyle zrozumiałem z ich..."
+
+Nagle chłopak rozprostowuje się, a jego oczy lśnią w ciemności odbijając ledwo docierające tutaj światło księżyca. Wygląda trochę inaczej, jakby coś go odmieniło.
+
+"Muszę już iść" - burczy grubym, bulgoczącym głosem, po czym opuszcza wasz pokój, zabiera swój plecak, i opuszcza karczmę.
+
+
+
+#### PODRZUCENIE DOWODÓW ZBRODNI
 Wykonać rzut na **Skradanie** <-> **Percepcja(-20)** dla **Egona** i porównać z wcześniejszymi rzutami BG.
 Jeżeli test wygra Egon to BG rzucają kolejny **TEST Percepcja(+0)**
 Jeżeli test wygrają BG to ten z najwyższym wynikiem rzuca  **TEST Percepcja** z dodatnim modyfikatorem o tyle o ile wygrał test.
 
-**EGON PODRZUCA PRZEDMIOTY BG**
+**SIG PODRZUCA PRZEDMIOTY BG**
 Z samego rana budzi was walenie do drzwi.
 "Otwierać w imieniu miasta Ubersreik!"
 

@@ -1,18 +1,31 @@
-Stoicie przed piętrowym spichlerzem z muru, desek i bali. Nad waszymi głowami wystaje ramię potężnego, drewnianego żurawia, którego liny cicho skrzypią na wietrze. Liny sięgają niemal do ziemi.
+Jeżeli BG są tutaj pomiędzy **23.00 a 1.00** to napotkają krzątających sie ludzi. Rozpoznają między innymi tych którzy ich zaatakowali dzisiejszego dnia jak i samego Hectora Wolfa. 
 
-Jest to magazyn umieszczony w drugim rzędzie budynków od promenady w dokach.
-Drzwi są zamknięte. Jako że jest to mało uczęszczana, boczna uliczka BG mogą spróbować się włamać do środka. Drzwi są zamknięte na klucz, a zamek jest wręcz potężny i nie da się go otworzyć wytrychami. Trzeba mieć klucz.
+Jeżeli BG opuszczą magazyn przed 23.00 to nie wiadomo co będą chcieli zrobić - improwizacja.
+Możliwe wydarzenia:
+- będą chcieli się zaczaić i poczekać na właścicieli towaru
+- zgłoszą wszystko straży miejskiej
 
-Są dwie możliwości wejścia do środka :
+Będzie tam też skaven, ale ukryty. Może wyjść na chwilę, ale ciężko go zauważyć.
+Co zrobią BG?
+
+Jeżeli przybędą wcześniej to po **23.00**
+[[Nadejście łowcy i kultystów#^0836d8]]
+
+Szeroka uliczka w drugim rzędzie jest znacznie cichsza niż tętniąca życiem promenada przy rzece. Smród rzeki jest jakby trochę mniejszy. Wszechogarniający mrok rozświetla jedynie Manslieb, który wyjrzał zza rzadko po niebie rozsianych chmur. Lekko zawiewa mroźny wiatr.
+Stoicie przed piętrowym spichlerzem z muru, desek i bali. Nad waszymi głowami wystaje ramię potężnego, drewnianego żurawia, którego liny cicho skrzypią na wietrze, sięgając niemal do ziemi. Ulica wydaje się pusta.
+
+Rozglądacie się po okolicy. Dostrzegacie kilka wozów na pustym podwórzu naprzeciwko (pewnie coś do wynajęcia - własność dokerów). Kilkanaście metrów dalej ciągną się budynki. Gdzieś dalej słyszycie głosy ludzi bawiących się w karczmie. Przejścia pomiędzy tymi budynkami są dość wąskie, często zawalone beczkami. Po lewej jaki po prawej stronie stoją podobne magazyny.
+
+**Drzwi są zamknięte**. Jako że jest to mało uczęszczana, boczna uliczka BG mogą spróbować się włamać do środka. Drzwi są zamknięte na klucz, a zamek jest wręcz potężny i nie da się go otworzyć wytrychami. Trzeba mieć klucz.
+
+Możliwości wejścia do środka :
+- otwarcie głównego wejścia kluczem
 - wdrapanie się po linach żurawia, otwarcie/podważenie skobla wrót wyładunkowych
 - OKNO na pierwszym piętrze. Grube, dębowe dechy zaimpregnowane dziegciem, zaryglowane od wewnątrz grubą, drewnianą deską.
 - Wdrapanie się po ścianie budynku lub po linie - TEST WSPINACZKI +0 (jeżeli mniej niż 2PS to do wykonania jeszcze jeden test, powyżej lub równo 2PS BG dostaje się do miejsca)
 - Do otwarcia jednego i drugiego będzie potrzebny **TEST ZRĘCZNOŚĆ 3PS +0** Jeżeli test się nie uda (-PS) to BG nie są w stanie sforsować tego zabezpieczenia.
 
-Jeżeli **BG** będą próbowali się **dostać do magazynu za dnia** to spotkają tylko pilnującego magazynu skavena.
-
-Jeżeli **BG** będą próbowali **dostać się do magazynu w nocy** to w pewnym momencie usłyszą zbliżających się ludzi [[8. Nadejście łowcy i kultystów]].
-Być może jeden z BG jest już w środku lub walczy ze skavenem.
+**TEST (+0) Percepcja** 
 
 **Klimat**: ciemność lub półmrok. Zapach drewna i kurzu
 **1 PIĘTRO:**

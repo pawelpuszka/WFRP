@@ -4,7 +4,8 @@ Przystaje na chwilę i rozgląda się upewniając że nikt go nie widzi (**TEST 
 **JEŻELI BG ZOSTANĄ ZAUWAŻENI**
 Jeżeli łowca czarownic zauważy BG, to zrobi jakiś niezrozumiały gest w kierunku rzeki (BG nie są w stanie dostrzec z kim Hector się komunikował), po czym skieruje się w stronę miasteczka biedoty pod mostem i zniknie we mgle oraz w wąskiej uliczce pomiędzy budynkami.
 
-Jeżleli BG podejdą do nabrzeża to usłyszą tylko dźwięki płynącej łodzi i blady poblask światła rozchodzący się poprzez mgłę.
+Jeżeli BG podejdą do nabrzeża to usłyszą tylko 
+dźwięki płynącej łodzi i blady poblask światła rozchodzący się poprzez mgłę.
 
 BG zapewne podążą za łowcą czarownic. 
 
@@ -13,7 +14,7 @@ Mroźno, śnieg osiada na czarnym kamieniu monumentalnego, krasnoludzkiego mostu
 W mroku pną się prymitywne, kilkupiętrowe szopy z przymarzniętej dykty, drewna i płótna zagrzebanego w błocie. 
 Jedynym źródłem światła są nieliczne, dogasające paleniska zamknięte w dziurawych żelaznych beczkach.
 
-Jeżeli BG ruszą dalej to zbliżając się do jednego z przyrzecznych mól (wybudowanych zapewne na potrzeby szmuglu) usłyszą głos gdzieś z oddali. Nie widać jego źródła przez mgłę.
+Jeżeli BG ruszą dalej to zbliżając się do jednego z przyrzecznych molo (wybudowanych zapewne na potrzeby szmuglu) usłyszą głos gdzieś z oddali. Nie widać jego źródła przez mgłę.
 
 "Czego tu szukacie? Bo jak na razie znaleźliście kłopoty! Zmiatać stąd albo rano straż będzie z rzeki wasze zwloki łowiła."
 
@@ -30,13 +31,14 @@ Mroźny, gęsty śnieg osiada na czarnym kamieniu monumentalnego, krasnoludzkieg
 W mroku pną się prymitywne, kilkupiętrowe szopy z przymarzniętej dykty, drewna i płótna zagrzebanego w błocie. 
 Jedynym źródłem światła są nieliczne, dogasające paleniska zamknięte w żelaznych okuciach beczek.
 
-W miarę jak idziecie wąską, pustą uliczką wśród ruin słyszycie ciche głosy które niosą się wśród ciemności. Nie widać kto rozmawia, ale możecie zorientować się skąd pochodzą głosy.
-TEST **Skradanie** <-> **Percepcja(-30)**
-Gdy zbliżasz się tak aby słyszeć rozmowę zauważasz dwie postacie które stoją na małej barce.
+W miarę jak idziecie wąską, pustą uliczką wśród tych ruin słyszycie ciche głosy które niosą się wśród ciemności. Nie widać kto rozmawia, ale możecie zorientować się skąd pochodzą głosy.
+TEST **Skradanie** <-> **Percepcja(-20)**
+Gdy zbliżasz się tak aby słyszeć rozmowę zauważasz dwie postacie które stoją na barce.
 Jedna z postaci sprawdza jakieś worki i skrzynie. Jest zadowolona chociaż co chwilę rozgląda się czy nikt go tutaj nie obserwuje.
 
-"Tak, wszystko tutaj jest. Przetransportujcie to w odpowiednie miejsce. Najpierw zbierzcie ludzi do szybkiego przeładunku. Moja w tym głowa aby nikt się nie zorientował że coś jest szmuglowane. 
-Acha. I zostań tutaj. Pilnuj tego ładunku jak oka w głowie."
+*"Tak, wszystko tutaj jest. Przetransportujcie to do magazynu. Wszystko musi być gotowe jutro w nocy. Najpierw zbierzcie ludzi do szybkiego przeładunku. Moja w tym głowa aby nikt się nie zorientował że coś jest szmuglowane.* 
+<font color="#c00000">**Jeżeli BG ukradli klucz do magazynu z domu Wolfa** </font>- <font color="#c00000">"*Klucz dostaniesz jutro. Bo zniknął. Muszę odwiedzić tych przeklętych niziołków żeby dali mi zapasowy."*</font>
+*Acha. I zostań tutaj dopóki stąd nie odpłyniecie. Pilnuj tego ładunku jak oka w głowie."*
 
 Hector Wolf opuści łódź i uda się z powrotem w stronę miasta. 
 Człowiek który był na łodzi postoi kilka minut, po czym mamrocząc coś pod nosem zejdzie z barki (teksty o tym że mu zimno i jest przemoczony i chce mu się lać, idzie po brata (Marcus) żeby z nim się zmieniał na warcie).
@@ -49,7 +51,7 @@ Jeżeli BG będą chcieli zatopić łódź
 - Zegar błędów (4 segmenty):
 	- przy wydłużonym teście wybijania otworu każda porażka oznacza zapełnienie jednego segmentu
 	- każda krytyczna porażka oznacza zapełnienie 2 segmentów
-- Jeżeli zegar błędów zapełni się do końca to BG usłyszą głosy i przybędzie kilku drabów-kultyystów aby sprawdzić co się dzieje.
+- Jeżeli zegar błędów zapełni się do końca to BG usłyszą głosy i przybędzie kilku drabów-kultystów aby sprawdzić co się dzieje.
 
 
 **ŚLEDZENIE ŁOWCY CZAROWNIC**
@@ -68,7 +70,7 @@ BG mogą śledzić Hectora Wolfa - wróci do domu aby wypocząć.
 
 **Niska przygarbiona postać** zniknie gdzieś za rogiem.
 **TEST Percepcja** (+0 za ciemności) 
-- ujawni dziwne ślady w miejscu gdzie nie ma bruku a także w śniegu który leży gdzieniegdzie. Prowadzą do włazu do kanałów miejskich. Jest on zamknięty.
+- ujawni dziwne ślady w miejscu gdzie nie ma bruku a także w śniegu który leży gdzieniegdzie. Prowadzą do włazu do kanałów miejskich. Jest on przymknięty.
 Kolejny **TEST Percepcji (+0)** 
 - ujawni że właz był niedawno otwierany.
 Jeżeli BG będą śledzić skavena kanałami, co będzie bardzo trudne, to wyjdzie on w dzielnicy portowej w pobliżu magazynu nr 55, po czym schowa się w tym magazynie jeżeli nikogo nie zauważył lub schowa się pomiędzy budynkami aby zwieść pościg.

@@ -2,7 +2,7 @@
 Na poczatku pozwolić BG na TEST na **Gadanina**
 - Graf Sigissmund von Jungfreud będzie organizował wielkie przyjęcie z okazji urodzin swojego syna **Gerhardta** w związku z tym na gwałt potrzebuje świetnej jakości jadła zwłaszcza wędlin i mięsiwa.
 - Piwo zostanie dostarczone przez lokalny browar Borguna
-- Wieprzowa Jama **Garta Fünke** ma nieporównywalnie lepsze mięso od świniarni spoza miasta
+- Świniarnia Rudgera ma nieporównywalnie lepsze mięso od świniarni spoza miasta i od świń z Wieprzowej Jamy
 
 **AKTYWNOŚĆ ŁOWCY CZAROWNIC**
 BG mogą chcieć śledzić Hectora aby wiedzieć kiedy nie ma go w domu
@@ -16,6 +16,7 @@ BG mogą chcieć śledzić Hectora aby wiedzieć kiedy nie ma go w domu
 		- Ulrich Wirt
 		- kapitan Stelzer
 	- Mogą usłyszeć jako plotkę w "Starej Kuźni", innej karczmie lub w porcie, jak jeden z kupców narzeka na wysoką opłatę za wynajęcie magazynu u niziołków
+	- Kapitan Stelzer zasugeruje BG aby ci wykorzystali swoje kontakty
 
 
 1 dzien 
@@ -37,6 +38,7 @@ BG mogą chcieć śledzić Hectora aby wiedzieć kiedy nie ma go w domu
 	**POGODA**: zimno i pochmurno, czasami księżyc wyjrzy spoza chmur, pada lekki śnieg
 	[[Navarro Carcatera na tropie]]
 	[[Propozycja odzyskania kamienia]]
+	[[Jak tu okraść Lowhavenów]]
 
 - w ciągu dnia/wieczorem gdy Hectora nie ma w domu
 	**POGODA**: zimno i pochmurno, czasami księżyc wyjrzy spoza chmur, pada lekki śnieg, mgła
@@ -44,8 +46,10 @@ BG mogą chcieć śledzić Hectora aby wiedzieć kiedy nie ma go w domu
 	[[Kapitan Stelzer oskarżony]] - ???
 	[[Magazyn nr 55]]
 	[[Skaven w magazynie nr 55]]
-	[[Przekonać władze miasta]]
-- późna noc
+	
+- późna noc 
+	Jeżeli BG nie pojawią się w tym dniu w magazynie to zostanie on opróżniony i nie znajdą już więcej żadnych dowodów
+	[[Nadejście łowcy i kultystów]] - zaraz po 23.00 i będą przenosić skrzynie i beczki do 1.00
 	[[Obława]]
 	[[Łowca czarownic ucieka]]
 	[[WALKA ZE SZCZURZYMI POMIOTAMI]]
@@ -53,7 +57,7 @@ BG mogą chcieć śledzić Hectora aby wiedzieć kiedy nie ma go w domu
 	[[Hector Wolf schodzi do Podświata]]
 
 ALTERNATYWA
-3 dzień - rozegrać tylko i wyłącznie wtedy gdyby BG się bardzo ociągali lub nie chcieli ścigać łowcy czarownic lub nawet wtedy gdy uszkodzą barkę i zatopią 
+3 dzień - rozegrać tylko i wyłącznie wtedy gdyby BG się bardzo ociągali lub nie chcieli ścigać łowcy czarownic lub nawet wtedy gdy uszkodzą barkę i zatopią 0
 - rano
 	[[Oskarżeni o chaos]]
 

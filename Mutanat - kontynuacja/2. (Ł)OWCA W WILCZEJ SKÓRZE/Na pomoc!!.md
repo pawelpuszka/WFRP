@@ -15,7 +15,13 @@ i wyszli z zasadzki cało
 BG przemierzają miasto w poszukiwaniu śladów, sprawunków czy innym celu
 Nagle zauważają że w bocznej uliczce dwóch drabów bije leżącego człowieka i wyrywają mu sakiewkę. Tamten krzyczy o pomoc lecz w pobliżu nie ma strażników miejskich.
 
-Jeżeli BG rzucą się na pomoc to powinni dorwać rabusiów i ich pokonać. W momencie gdy BG zaczną przeszukiwać rabusiów przybiegnie oddział strażników miejskich na czele z sierżantem Klumpenklugiem.
+Jeżeli BG rzucą się na pomoc to powinni dorwać rabusiów i ich pokonać. 
+
+##### PRZYBYCIE STRAŻY MIEJSKIEJ
+
+^f53018
+
+W momencie gdy BG zaczną przeszukiwać rabusiów przybiegnie oddział strażników miejskich na czele z **sierżantem Klumpenklugiem**.
 
 "Świetna robota! Czy ja was skądś znam? Mordy wy moje! Wy jesteście te chłopaki ze Starej Kuźni co mało co nie spłonęli za fałszywego mutanta."
 "A, widziałem że go obszukiwałeś. Pokaż przyjacielu co tam znalazłeś przy tym obsrańcu."
@@ -25,3 +31,8 @@ Jeżeli BG rzucą się na pomoc to powinni dorwać rabusiów i ich pokonać. W m
 
 Jeżeli BG będzie zależało na kuszy to sierżant powie że jest to dowód w zbrodni. Ale warty 3ZK.
 Gdyby BG zdecydował się odnaleźć i zapłacić sierżantowi pieniądze to znajdą go w domu. SIerżant przejmie pieniądze ale niestety poinformuje BG że kuszy nie ma a korony które wziął wykorzysta na to aby odegrać kuszę którą przegrał dzień wcześniej w karczmie. BG mogą mu pomóc w rozgrywca wykorzystując Hazard lub Inteligencję.
+
+Klumpenklug przekaże także wiadomość:
+"Nie wiem czy słyszeliście, ale nasz kapitan straży nie jest już kapitanem. Stary zbereźnik siedzi teraz w lochu i czeka na wyrok. Pewnie spłonie na stosie za swoje obrzydliwe rytuały."
+rządy w straży miejskiej przejmuje **sierżant Trudi Shrieber** awansowana na kapitana, 
+Która jest bardzo opieszała gdy trzeba podejmować jakiekolwiek decyzje. Zwłaszcza gdyby miały dotyczyć Lowhavenów. Boi się także przeciwstawić łowcy czarownic.

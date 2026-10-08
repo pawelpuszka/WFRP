@@ -1,7 +1,7 @@
 BG siedzą w "Starej Kuźni" i próbują się zrelaksować.
 
 - **Atmosfera w „Starej Kuźni”:** Wieczór jest tłoczny. Pełno tu rzemieślników i mieszczan. Wesoła muzyka przygrywa ostatnio w karczmie bardzo często. Karczmarz od kilku dni chodzi szczęśliwy i zadowolony. Co rzutuje na nastroj w Starej Kuźni. Ale to normalne - uratowaliście mu syna, który właśnie przemyka pomiędzy stołami donosząc kolejnych napitków.
-  Słyszycie jak ludzie szepczą po kątach o waszych ostatnich czynach wskazując was palcem.
+  Słyszycie jak ludzie szepczą po kątach o waszych ostatnich czynach wskazując was palcami.
 
 - Gdzieś słyszeliście już ten głos.  **_pogodny, lekkoduch_**
 	- "*Karczmarzu wino! Tileańskie!"*
@@ -15,11 +15,13 @@ Przysiada się bez pytania do waszego stołu.
 Mówi to przez cały czas uśmiechając się i polewając wina do drewnianych kielichów które ze sobą przyniósł.
 "*Ale my mamy ze sobą pewne rachunki , czyż nie? Musimy zrobić ich wyrównanie.*”
 
+TEST Percepcji(+20) Jeżeli zdany to BG zauważają dwóch tileańczyków siedzących przy sąsiednim stole i popijających wino.
+
 Kładzie na stole list gończy z waszymi podobiznami. Wygładza go powoli dłonią przyglądając się wam z zafrasowaną miną, to znowu spogląda na rysunki. Kiwa głową z aprobatą i mruczy coś pod nosem.
 - "Ha! To wy!"
 - "A ja jestem Navarro Carcatera. Łowca nagród. Zamierzam zrobić zgarnianie ta nagroda co jest napisana tutaj. Tym bardziej że jej część hrabia zrobił mi wypłacanie."
 
-- „Wy robicie oddawanie cenny kamień i płacenie mi za fatygę, a ja robię mówienie grafowi, że zginęliście w pożarze albo rzeczne trolle zrobiły pożeranie was i każdy robi wracanie do swoich spraw. To bardzo proste.”
+- „Wy robicie oddawanie cenny kamień i płacenie mi za fatygę, a ja robię mówienie grafowi, że zginęliście w pożarze albo rzeczne trolle zrobiły pożeranie was i każdy robi wracanie do swoich spraw. To bardzo proste. Na koniec zrobię wam odpalanie działki z nagrody od grafa von Drakensberga!”
 
 
 **Jeżeli BG oświadczą że nie mają kamienia**
@@ -27,13 +29,14 @@ Kładzie na stole list gończy z waszymi podobiznami. Wygładza go powoli dłoni
 Navarro na chwilę wstrzymuje oddech i spogląda na was z kamienną miną.
 _**wybuch śmiechu**_
 "Bardzo dobre poczucie humoru tutaj w Imperium."
-Nagle jego twarz przybiera złowrogi wygląd.
-"Gdzie jest kamień?!"
+Nagle jego twarz przybiera poważny wygląd.
+"To gdzie jest kamień?!"
 
 **Lowhaven**
 „Lowhaven? Mamma mia... Wy naprawdę macie talent do wplątywania się w kłopoty. Zrobić odzyskanie cokolwiek od tych kurdupli to jak wyrwać ząb gryfowi.”
 Navarro jest zasępiony i zamyślony.
-"Dobrze więc, zrobimy tak. Zrobicie chodzenie do niziołkowego klanu i przyniesiecie mi ten kamień. Nie interesuje mnie jak to zrobicie. Czy będziecie robili ich przekonywanie czy okradanie. Za dwa dni zrobię wracanie w to miejsce. Jeżeli nie będzie kamienia albo was tu nie zastanę to dla mnie znak że musimy inaczej robić rozmawianie. Ktoś może mieć smutny dzień!"
+"Dobrze więc, zrobimy tak. Zrobicie chodzenie do niziołkowego klanu i przyniesiecie ten kamień. Nie interesuje mnie jak to zrobicie. Czy będziecie robili ich przekonywanie czy okradanie. Za dwa dni zrobię wracanie w to miejsce. Jeżeli nie będzie kamienia albo was tu nie zastanę to dla mnie znak że musimy inaczej robić rozmawianie. 
+Ktoś może mieć smutny dzień!"
 
 To mówiąc wstaje od stołu, dopija wino. Stawia kielich z impetem na stół.
 "Panowie.."

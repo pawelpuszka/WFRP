@@ -13,9 +13,9 @@ Idziecie za łowcą. Ponurym Wolfem. Skręca za budynek w stronę rzeki.
 
 Schodzicie po kamiennych schodach które prowadzą was pomiędzy dwoma budynkami a następnie do promenady. 
 
-Promenada wita was zapachem mokrego drewna i ryb. Dźwięk skrzypiących lin dźwigów portowych kołysanych wiatrem niesie się przez mgłę jak jęk starego statku. Woda uderza o kamienne nabrzeże miarowym, cichym pluskiem. 
-Stłumiony brzęk łańcuchów i skrzypienie kadłubów cumujących jednostek. 
-Nieliczne latarnie na słupach walczą z gęstniejącą mgłą, rzucając blade, drżące kręgi światła, w których śnieg wiruje jak popiół nad ogniskiem.
+Promenada wita was zapachem mokrego drewna i ryb. Dźwięk skrzypiących lin dźwigów portowych kołysanych wiatrem. Woda uderza o kamienne nabrzeże miarowym, cichym pluskiem.  Brzęk łańcuchów i skrzypienie kadłubów cumujących jednostek. 
+Nieliczne latarnie na słupach walczą z gęstniejącą mgłą, rzucając blade kręgi światła, w których śnieg wiruje jak popiół nad ogniskiem.
+Z pobliskich karczm i przybytków słychać gwar pijanej tłuszczy, aczkolwiek nikt się tu nie kręci o tej porze. Jest za zimno i lepiej grzać dupsko siedząc w ciepłej gospodzie z kuflem piwa w ręku. 
 
 Łowca zatrzymuje się niedaleko niknącego we mgle mostu. [[Ciemne Interesy Łowcy Czarownic]]
 
