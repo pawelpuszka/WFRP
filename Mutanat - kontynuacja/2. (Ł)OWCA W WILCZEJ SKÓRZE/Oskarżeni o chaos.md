@@ -1,12 +1,12 @@
 **PRZEDMIOTY PODRZUCONE BG**
-- **Szkatułka z „Zakazanym Pachnidłem” i Amuletem:** Rzeźbiona w kości słoniowej szkatułka pachnąca odurzającym, zbyt słodkim olejekim  (wywołującym omamy/pokusy), zawierająca mosiężny, giętki symbol Slaanesha oraz kosmyk włosów... (samego Kapitana Straży).
-    
-- **„Rytualny Sztylet i Listy”:** Zdobiony sztylet o falistym ostrzu z grawerunkiem w kształcie jakiegoś symbolu (Slaanesha). Obok niego spięte purpurową wstążką zapisane zwijki paieru (listy, z których wynika, że Kapitan opłacał BG, by ci chronili jego potajemny, rozpustny kącik kultu w mieście).
-    
-- **"Księga Uciech” z listą uczestników:** Zakazany traktat opisujący zakazane rytuały, w którym na marginesie wykaligrafowano imiona Kapitana oraz... imiona Bohaterów Graczy jako „nowych adeptów”.
+##### Zdobiony sztylet o falistym ostrzu z grawerunkiem w kształcie jakiegoś symbolu i kilka zapisanych kartek
+- **„Rytualny Sztylet i Listy”:** Zdobiony sztylet o falistym ostrzu z grawerunkiem w kształcie  symbolu Slaanesha. Obok niego spięte purpurową wstążką zapisane zwijki papieru (listy, z których wynika, że Kapitan opłacał BG, by ci chronili jego potajemny, rozpustny kącik kultu w mieście).
+
+##### Dziwna księga z bluźnierczymi rysunkami i symbolami
+- **"Księga Uciech” z listą uczestników z symbolami Slanesha:** Zakazany traktat opisujący zakazane rytuały, w którym na marginesie wykaligrafowano imiona Kapitana oraz... imiona Bohaterów Graczy jako „nowych adeptów”.
 - Pozwolić na **TEST Inteligencja(+0)** Bg aby mogli rozpoznać w piśmie swoje imiona 
 
-Poprosić o wcześniejszy rzut kością. Nie mówić BG że to jest test na Percepcję(-20)
+Poprosić o wcześniejszy rzut kością. Nie mówić BG że to jest test na Percepcję(-20), gdyby spali.
 
 Wracacie do Starej Kuźni na nocleg po ciężkim dniu.
 Jesteście zmęczeni.
@@ -20,11 +20,12 @@ Gdyby któryś z BG postanowił pełnić wartę to musi zdać Trudny (-20) test 
 BG są albo budzeni pukaniem do drzwi, dźwiękiem klucza przekręcanego w zamku albo po prostu ktoś ich budzi (gdyby nic innego ich nie zbudziło lub nie pełnili warty).
 
 W ciemności stoi postać.
-"Cicho" - mówi - "Przyszedłem was ostrzec. Musicie opuścić karczmę przed świtem. Hector Wolf przybędzie z samego rana aby was aresztować i przedstawić zarzuty. Ja miałem wam podrzucić fałszywe dowody" i to mówiąc pokazuje rzeczy które wyciąga z torby zawieszonej na ramieniu.
+"Odchodzę" - mówi - "Ale najpierw przyszedłem się pożegnać i podziękować. Musicie też coś wiedzieć. Hector Wolf kazał mi podrzucić w waszym pokoju te fałszywe dowody" - to mówiąc pokazuje rzeczy które wyciąga z torby zawieszonej na ramieniu - "Szantażował mnie. Gdybym tego nie zrobił to ujawniłby TO" - i pokazuje rybie łuski na klatce piersiowej - "Przybędzie z samego rana aby was aresztować i przedstawić zarzuty. Będzie chciał was spalić jak najszybciej. Powinniście opuścić karczmę przed świtem."
+Sig jeszcze nie wie że Hector uciekł, BG wiedzą że uciekł ale nie wiedzą czy nie powróci.
 
 "Oni mi coś zrobili gdy byłem w niewoli. Moje myśli. Coś mi nakazuje robić złe rzeczy. Ja też muszę opuścić ojcowiznę. Zostawiłem ojcu list. Udam się do lasu i tam będę żył samotnie. Nie szukajcie mnie."
 
-"Oni czczą jakiegoś szczura. Planują coś złego. Prawdopodobnie dotyczy to całego miasta. Tyle zrozumiałem z ich..."
+"Oni czczą jakiegoś szczura. Planują coś złego. Prawdopodobnie dotyczy to całego miasta. Tyle zrozumiałem z ich rozmów."
 
 Nagle chłopak rozprostowuje się, a jego oczy lśnią w ciemności odbijając ledwo docierające tutaj światło księżyca. Wygląda trochę inaczej, jakby coś go odmieniło.
 

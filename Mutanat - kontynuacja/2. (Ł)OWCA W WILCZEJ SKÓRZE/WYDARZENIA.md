@@ -52,6 +52,7 @@ BG mogą chcieć śledzić Hectora aby wiedzieć kiedy nie ma go w domu
 	[[Nadejście łowcy i kultystów]] - zaraz po 23.00 i będą przenosić skrzynie i beczki do 1.00
 	[[Obława]]
 	[[Łowca czarownic ucieka]]
+	
 	[[WALKA ZE SZCZURZYMI POMIOTAMI]]
 	[[Nadejście Wahlunda]]
 	[[Hector Wolf schodzi do Podświata]]
