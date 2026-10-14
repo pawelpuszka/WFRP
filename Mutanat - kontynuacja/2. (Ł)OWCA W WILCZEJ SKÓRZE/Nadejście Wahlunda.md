@@ -4,15 +4,15 @@ Z ciemności wyłania się sylwetka. Zakrzywione ostrze przecina powietrze tuż 
 
 "A wy co tutaj robicie? Kim jesteście?"
 
-"Szukacie kultystów? To nie moja sprawa. Moja domena to szczury."
+"Szukacie człowieka? To nie moja sprawa. Moja domena to szczury."
 
 "Przybylismy do miasta całkiem niedawno. Słyszałem że w Ubersreiku jest problem ze szczurami a miejscowy cech nie chce się tym zająć. My się tym zajmiemy. Mam zamiar założyć prawdziwy cech szczurołapów. Jak już się tu zadomowimy to będę poszukiwał ochotników którzy chcieliby do nas dołączyć. Przyuczę do zawodu a stawka za dobrze wykonaną pracę będzie dobra." 
 
 "To tutaj to szczurze pomioty. Młode osobniki ale niebezpieczne. Macie szczęście że na was trafiliśmy. Teraz musimy odszukać leże tego plugastwa. Ha tfu."
 
-"Mogę z wami pójść jeżeli to co mówicie to prawda. Znam jedno niepokojące miejsce w tych kanałach i podejrzewam że właśnie tam udaje się ten człowiek. Ruszajmy"
+"Mogę z wami pójść jeżeli to co mówicie to prawda. Znam jedno niepokojące miejsce w tych kanałach i podejrzewam że właśnie tam udał się ten człowiek. Ruszajmy"
 
-[[Hector Wolf schodzi do Podświata]]
+[[Zejście do Podświata]]
 
 
 

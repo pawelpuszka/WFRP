@@ -42,7 +42,7 @@ BG mogą chcieć śledzić Hectora aby wiedzieć kiedy nie ma go w domu
 
 - w ciągu dnia/wieczorem gdy Hectora nie ma w domu
 	**POGODA**: zimno i pochmurno, czasami księżyc wyjrzy spoza chmur, pada lekki śnieg, mgła
-	[[Na pomoc!!]] - opcja
+	] - opcja
 	[[Kapitan Stelzer oskarżony]] - ???
 	[[Magazyn nr 55]]
 	[[Skaven w magazynie nr 55]]
@@ -53,14 +53,20 @@ BG mogą chcieć śledzić Hectora aby wiedzieć kiedy nie ma go w domu
 	[[Obława]]
 	[[Łowca czarownic ucieka]]
 	
-	[[WALKA ZE SZCZURZYMI POMIOTAMI]]
-	[[Nadejście Wahlunda]]
-	[[Hector Wolf schodzi do Podświata]]
+	
 
 ALTERNATYWA
 3 dzień - rozegrać tylko i wyłącznie wtedy gdyby BG się bardzo ociągali lub nie chcieli ścigać łowcy czarownic lub nawet wtedy gdy uszkodzą barkę i zatopią 0
 - rano
-	[[Oskarżeni o chaos]]
+	[[Sig odchodzi]]
+	[[Tylo Vielfras]]
+	[[Na pomoc!!]]
+	[[Na odzyskanie kuszy]]
+	[[Bordo Lowhaven]]
+	[[Tropem łowcy czarownic]]
+	[[WALKA ZE SZCZURZYMI POMIOTAMI]]
+	[[Nadejście Wahlunda]]
+	[[Zejście do Podświata]]
 
 
 OPCJA

@@ -1,15 +1,15 @@
 ## Brama pod miastem — opis do odczytania
 
-Wykorzystaj ten fragment w momencie, gdy Bohaterowie Graczy, ścigając łowcę czarownic przez kanały Ubersreiku, docierają do miejsca, gdzie ten znika w głąb podziemi.
 
 ---
 
-> Ściek, którym biegniecie, zwęża się gwałtownie, a jego dno pokrywa już nie zwykły muł, lecz warstwa czegoś ciemniejszego, lepkiego, usianego drobnymi kośćmi – szczurów, ptaków, a może i czegoś większego. Pochodnia skwierczy, jakby powietrze samo protestowało przeciw płomieniowi.
+
 
 **HECTOR WOLF SCHODZI DO PODŚWIATA**
 	W oddali widzicie postać z pochodnią.   
 > Zatrzymuje się przed otworem tylko na chwilę. Ociera twarz, rzuca pochodnię na ziemię, po czym pochyla się i znika. Macie wrażenie że na chwilę ciemność rozświetliła bladozielona poświata. Łowca zniknął, jakby coś go połknęło.
 
+> Ściek, którym idziecie, zwęża się gwałtownie, a jego dno pokrywa już nie zwykły muł, lecz warstwa czegoś ciemniejszego, lepkiego, usianego drobnymi kośćmi – szczurów, ptaków, a może i czegoś większego. Pochodnia skwierczy, jakby powietrze samo protestowało przeciw płomieniowi.
 
 > Przed wami mur – stary, budowany z ciosanego kamienia, jakiego już się nie używa. Widnieje na nim wilgotna, rdzawa smuga ściekająca z pęknięcia w kamieniu, jakby sam mur krwawił, a raczej płakał rdzą.
 > 
@@ -19,7 +19,10 @@ Wykorzystaj ten fragment w momencie, gdy Bohaterowie Graczy, ścigając łowcę 
 > 
 > Z ciemności dobiega chrobot pazurów o kamień, chóralny, cichy pisk i regularny, obrzydliwy odgłos, jakby coś wielkiego oddychało głęboko pod miastem.
 
-> _Wahlund spogląda na wąską wyrwę w ścianie kanału. Dobywa swojej broni. Jego słowa niosą się echem po korytarzu. 
+> _Wahlund spogląda na wąską wyrwę w ścianie kanału. 
+> > Dobywa swojej broni. 
+> > Jego słowa niosą się echem po korytarzu. 
+> > 
 > Dawco siły i hartu ducha udziel nam swojej nieustępliwości, by nasze ramiona nie zadrżały, a serca nie poznały trwogi. Spójrz na to plugawe leże i użycz nam swojej nieustępliwości oraz miażdżącej siły! Niech Twój mroźny oddech skruszy ten kamień, a Twój topór obali mury wroga!
 
 W ciasnym,  korytarzu kanału temperatura gwałtownie spada – wilgoć na krasnoludzkich cegłach i krawędziach wyrwy natychmiast ścina się w grubą warstwę białego szronu.
@@ -29,7 +32,7 @@ Zamiast zwykłego stuku metalu, podziemiami wstrząsa ogłuszający trzask pęka
 "Chodźmy stąd."
 "Byliście świadkami i widzieliście coś czego nie powinniście widzieć."
 "Nie rozpowiadajcie tego i nie zdradzajcie nikomu. Mnie tu nie było i nic nie zrobiłem. Jeżeli ktoś się o tym dowie będę wiedział kogo mam szukać."
-"Bywajcie."
+
 
 ### Wskazówki dla MG
 
