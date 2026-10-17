@@ -26,3 +26,8 @@ Pytania do BG
 
 - Musicie się dowiedzieć co się stało z Hectorem Wolfem. Musimy mieć pewność że nie powróci. A jeżeli powróci to prostą drogą na stos lub szafot.
 - Co z ludźmi którzy z nim współpracowali? Czy rozpoznacie ich? Potraficie ich odnaleźć? Ja ze swojej strony poinstruuję oddziały strażników miejskich. Niech też ich szukają. Gdybyście ich znaleźli to dostaniecie po dodatkowej złotej koronie na głowę.
+
+BG WARCAJĄ DO TYLO VIELFRASA Z DOWODAMI I INFO O HECTORZE WOLFIE
+Gdy BG powrócą do Vielfrasa z kapeluszem i płaszczem Hectora Wolfa to otrzymają obiecaną wypłatę.
+Dodatkowo mogą uzyskać 1ZK za wydarzenie po którym straż miejska aresztuje członków kultu.
+"Tych których aresztowaliśmy w zupełności wystarczą. Sierżant Klumpenklug potwierdził że to dzięki wam zostali aresztowani. My juz się nimi zajmiemy. Mamy swoje sposoby aby wydobyć z nich informacje."

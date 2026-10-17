@@ -73,6 +73,19 @@ ALTERNATYWA
 OPCJA
 [[Oględziny miejsc kultu]] - Kolonia Wandiene
 
+Co BG uzsłyszą gdy pozostaną w mieście przez dłuższy czas:
+- Spotkaliście się z Navarro Carcaterrą i dokonaliście ucziwej wymiany. Tileańczyk okazał sie słowny i poznaliście jego wesołą stronę. Był bardzo zadowolony z odzyskania kamienia. 
+  "Och jakie ukontentowanie robię i dziękowanie wam. Macie kamień. Nie wiem jak zrobiliście dokonanie takiego czynu! Ale teraz  uważanie róbcie na wstrętne niziołki Lowhavenowe. Na pewno będą robili szukanie wstrętnych złodziei. Oto wasza zapłata. Ja muszę robić odwiedzanie hrabiego Drakenberga po moją zapłatę. Bywajcie! Może się jeszcze kiedyś spotkamy i wychylimy kielich tileańskiego wina."
+  Uzyskaliście 10ZK.
+- Lowhavenowie mieli sporo problemów z lokalnymi władzami. Wy domyślacie się dlaczego. Nigdy się do was nie odezwali w związku z kamieniem.
+- Kapitan Stelzer został uniewinniony. Podobno jeden z kultystów wyznał na przesłuchaniu że Hector Wolf wrobił kapitana i podrzucił mu sfabrykowane dowody poprzez swojego agenta w straży miejskiej
+- Agent został ujęty.
+- Przechadzając się wzdłuż żeki Teufel promenadą przy nabrzeżu widzicie jak w miejscu wybuchu powstają nowe konstrukcje. Pomimo niesprzyjających warunków pogodowych miejsce zostało uprzątnięte i kręcą się tam ludzie z jakimiś przyrządami pomiarowymi. Pod koniec pobytu, gdy pogoda stała się nieco bardziej łaskawa zauważyliście piersze szkielety nowych budynków. Może jedna jest jeszcze nadzieja w ludziach. Krasnoludy pewnie zaczęłyby szukać sposobów na zemstę a elfy opuściły to miejsce. Ludzie jednak  z powrotem starają się zagospodarować to miejsce.
+- Karczmarz ponownie się załamał gdy rano znalazł list od syna. Tym razem jednak postanowił zamknąć karczmę. taki stan utzrymywał się kilka dni do momentu aż wpadliście na pomysł aby wspomóc Ulricha skoro i tak tutaj siedzicie. Zajęcliście się karczmą i zaczęła ona znowu działać. Ludzie przychodzili i zawarliście mnóstwo znajomości z okolicznymi rzemieślnikami. Ulrich, gdy doszedł do siebie był bardzo szczęśliwy i wdzięczny. Pogodził się z tym, że stracił syna bo nie było już dla niego ratunku. Już zawsze będziecie mieli darmowy nocleg w Starej Kuźni.
+  Zyskujecie umiejętność zaawansowaną Rzemiosło(Gotowanie) oraz Wiedza(Ubersreik) po 5 rozwinięć
+
+[[Epilog]]
+
 
 
 Pomysły
