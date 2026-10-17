@@ -1,12 +1,12 @@
-Dwoistość wydarzenia
-
-**JEŻELI BG NIE ZGODZĄ SIĘ NA POMOC OD EGONA** 
-i nie pójdą w zasadzkę.
-
+<font color="#ff0000">MUZYKA: SKRADANIE OBSERWACJA- Gothic 3 Soundtrack - Ominous Woods</font>[]()
 BG przemierzają miasto w poszukiwaniu śladów, sprawunków czy innym celu
-Nagle zauważają że w bocznej uliczce dwóch drabów bije leżącego człowieka i wyrywają mu sakiewkę. Tamten krzyczy o pomoc lecz nigdzie nie ma strażników miejskich.
+Nagle zauważają w bocznej uliczce Egona - człowieka który proponował im pomoc w odzyskaniu kamienia a później przybył do magazynu wraz z Hectorem Wolfem.
 
-Jeżeli BG zareagują pozytywnie na wydarzenie to doprowadzi ich do [[Zasadzka]]
+<font color="#ff0000">MUZYKA: POŚCIG - Escape - Royalty Free Cinematic Music</font>
+Jeżeli BG spróbują złapać Egona to należy rozegrać pościg wąskimi uliczkami dzielnicy portowej.
+Egon ma Szybkość 5 (+1PS na do Testów Atletyki) na potrzeby ucieczki i przewagę  = 4.
+
+To doprowadzi ich do [[Zasadzka]]
 
 
 **JEŻELI BG ZGODZILI SIĘ NA POMOC EGONA**

@@ -12,7 +12,7 @@ Z ciemności wyłania się sylwetka. Zakrzywione ostrze przecina powietrze tuż 
 
 "Mogę z wami pójść jeżeli to co mówicie to prawda. Znam jedno niepokojące miejsce w tych kanałach i podejrzewam że właśnie tam udał się ten człowiek. Ruszajmy"
 
-[[Zejście do Podświata]]
+[[Przejście do Podświata]]
 
 
 

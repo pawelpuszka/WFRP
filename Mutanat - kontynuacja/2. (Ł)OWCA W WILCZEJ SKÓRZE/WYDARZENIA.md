@@ -56,9 +56,10 @@ BG mogą chcieć śledzić Hectora aby wiedzieć kiedy nie ma go w domu
 	
 
 ALTERNATYWA
-3 dzień - rozegrać tylko i wyłącznie wtedy gdyby BG się bardzo ociągali lub nie chcieli ścigać łowcy czarownic lub nawet wtedy gdy uszkodzą barkę i zatopią 0
-- rano
+	[[Wybuch]]
 	[[Sig odchodzi]]
+	Na drugi dzień w gospodzie BG mogą usłyszeć plotki o wydarzeniach poprzedniego dnia
+	[[Plotki]]
 	[[Tylo Vielfras]]
 	[[Na pomoc!!]]
 	[[Na odzyskanie kuszy]]
@@ -66,7 +67,7 @@ ALTERNATYWA
 	[[Tropem łowcy czarownic]]
 	[[WALKA ZE SZCZURZYMI POMIOTAMI]]
 	[[Nadejście Wahlunda]]
-	[[Zejście do Podświata]]
+	[[Przejście do Podświata]]
 
 
 OPCJA

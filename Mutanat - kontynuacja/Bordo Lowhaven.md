@@ -2,4 +2,10 @@ BG będą świadkami jak przed tawerną Pod Skrzywionym Młotkiem dwóch drabów
 
 BG powinni się domyślić, że Egon jednak mówił prawdę i właśnie spotkali niziołka który mógłby wykraść kamień od Lowhavenów.
 
+LUB
+
+Gdy grają w karty aby odegrać kuszę. 
+Scena jak niziołek gra w karty a inny bywalec upomina sie o pieniądze które niziołek jest mu nalezny. 
+Mozna dowiedziec się od Klumpenkluga że to Bordo Lowhaven i ma długi karciane.
+
 [[Jak tu okraść Lowhavenów#^a23971]]

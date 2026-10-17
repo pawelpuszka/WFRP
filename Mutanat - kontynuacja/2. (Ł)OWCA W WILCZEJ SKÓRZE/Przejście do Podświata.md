@@ -1,9 +1,9 @@
-## Brama pod miastem — opis do odczytania
+
 
 
 ---
 
-
+MUZYKA: 
 
 **HECTOR WOLF SCHODZI DO PODŚWIATA**
 	W oddali widzicie postać z pochodnią.   
