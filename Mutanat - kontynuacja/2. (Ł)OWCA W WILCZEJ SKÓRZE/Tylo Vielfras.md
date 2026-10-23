@@ -1,3 +1,22 @@
+<font color="#ff0000">MUZYKA: TŁO NIEPOKÓJ - A Brief Respite (Camp Theme)</font>
+
+BG WARCAJĄ DO TYLO VIELFRASA Z DOWODAMI I INFO O HECTORZE WOLFIE
+Gdy BG powrócą do Vielfrasa z kapeluszem i płaszczem Hectora Wolfa to otrzymają obiecaną wypłatę.
+
+JAK TYLO VIELFRAS MOŻE ZAREAGOWAĆ NA DOWODY.
+Bierze do ręki płaszcz i kapelusz
+"Gdzie jest Hector Wolf?"
+"A więc mówicie że Hector Wolf zginął. Czy można zobaczyć jego ciało?"
+"Co oznacz że zszedł do podziemia? Jakiego podziemia?"
+
+"Moi ludzie nie znaleźli jego licencji łowcy czarownic. Czyżby zabrał ją ze sobą? Czy może to wy znaleźliście ją lub zabraliście razem z tymi wszystkimi dokumentami?"
+TEST Intuicja <-> Opanowanie
+
+Dodatkowo mogą uzyskać 1ZK za wydarzenie po którym straż miejska aresztuje członków kultu.
+"Tych których aresztowaliśmy w zupełności wystarczą. Sierżant Klumpenklug potwierdził że to dzięki wam zostali aresztowani. My już się nimi zajmiemy. Mamy swoje sposoby aby wydobyć z nich informacje."
+
+
+---------------------------------------------
 <font color="#ff0000">MUZYKA: Skyrim Music Tavern</font>
 
 Jest mroźny, zimowy poranek w Ubersreiku. W izbie gospody pachnie dymem z kominka, tanim piwem i gorącą strawą, a Bohaterowie Graczy (BG) jedzą śniadanie po dramatycznej i wyczerpującej nocy.
@@ -27,7 +46,3 @@ Pytania do BG
 - Musicie się dowiedzieć co się stało z Hectorem Wolfem. Musimy mieć pewność że nie powróci. A jeżeli powróci to prostą drogą na stos lub szafot.
 - Co z ludźmi którzy z nim współpracowali? Czy rozpoznacie ich? Potraficie ich odnaleźć? Ja ze swojej strony poinstruuję oddziały strażników miejskich. Niech też ich szukają. Gdybyście ich znaleźli to dostaniecie po dodatkowej złotej koronie na głowę.
 
-BG WARCAJĄ DO TYLO VIELFRASA Z DOWODAMI I INFO O HECTORZE WOLFIE
-Gdy BG powrócą do Vielfrasa z kapeluszem i płaszczem Hectora Wolfa to otrzymają obiecaną wypłatę.
-Dodatkowo mogą uzyskać 1ZK za wydarzenie po którym straż miejska aresztuje członków kultu.
-"Tych których aresztowaliśmy w zupełności wystarczą. Sierżant Klumpenklug potwierdził że to dzięki wam zostali aresztowani. My juz się nimi zajmiemy. Mamy swoje sposoby aby wydobyć z nich informacje."

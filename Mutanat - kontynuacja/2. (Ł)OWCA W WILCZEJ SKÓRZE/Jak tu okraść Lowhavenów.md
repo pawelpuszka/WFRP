@@ -14,17 +14,32 @@ JAK SIĘ DOWIEDZIEĆ O NIZIOŁKU
 - od sierżanta Klumpenkluga, który nie sprzeda tej informacji zbyt tanio
 - podczas wykupywania kuszy pistoletowej w grze w karty - Klumpenklug
 
-Bordo będzie zadowolony. Jego twarz promienieje. Ma sznasę pozbyć się długów.
-Co wie Bordo:
-- Hieronimus Lowhaven prowadzi lombard i jest jego wujkiem, aczkolwiek nie lubi swojego siostrzeńca i zawsze patrzy mu na ręce gdy ten odwiedza wuja
-- Bordo wie o który kamień chodzi i wie w którym miejscu kamień jest schowany w lombardzie 
-- w nocy obok lombardu bardzo często przechodzą opłacone patrole straży miejskiej
-- zamek w drzwiach jest bardzo trudny do otwarcia i może zabraknąć czasu aby go otworzyć pomiędzy kolejnymi patrolami
-- być może BG będą musieli zając się patrolem aby odwrócić jego uwagę
 
 #### 2. WŁAMANIE DO LOMBARDU
-Zamek w wielkiej kłódce która trzyma ogromną, metalową sztabę - (T+10, 2PS)
+<font color="#ff0000">MUZYKA:SKRADANIE WŁAMANIE - Tempting Fate</font>
+- Zamek w wielkiej kłódce która trzyma ogromną, metalową sztabę - **(T+10, 2PS)**
 	Jeżeli **krytyczna porażka** to BG narobi hałasu metalową sztabą co zwabi strażników miejskich którzy pojawią się na miejscu za około 1 minutę
-Zamek w drzwiach - (T+0, 4PS)
+- Zamek w drzwiach - **(T+0, 4PS)**
+- Szkatuła w której jest kamień posiada zamek **(T+0, 5PS).** 
+Aby odnaleźć odpowiednią szkatułę BG musi wykonać test
+PERCEPCJA 
+- -20 jeżeli nie rozmawiali z niziołkiem
+- +0 jeżeli niziołek wytłumaczył im jak wygląda i gdzie może znajdować się szkatułka
 
 Strażnicy przechodzą tędy co około 10 minut co można wyliczyć jako 5 rund.
+
+
+#### 3. POMOC BORDO W WYKRADZENIU KAMIENIA
+<font color="#ff0000">MUZYKA: TŁO ZACIEKWIENIE - Sneaking Theme - RPG Toolkit</font>
+BG będą musieli się udać do lombardu wraz z niziołkiem.
+Bordo potrzebuje 8 minut aby zdobyć kamień i niepostrzeżenie opuścić lombard.
+
+Start to 4 minuty, cel to zwiększyć liczbę minut do 8.
+BG przeprowadzają testy Ogłady, Występów <-> Intuicja (38)
+Porażki
+- Każda porażka to +0 minut
+- Porażka krytyczna lub -5PS to nakrycie Bordo na kradzieży
+- więcej niż 8 wykonanych testów - Bordo zostaje nakryty na kradzieży
+Sukcesy
+- Każdy sukces to +1 PS
+- Sukces krytyczny to +2PS

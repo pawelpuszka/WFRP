@@ -1,3 +1,4 @@
+<font color="#ff0000">MUZYKA: TŁO NIEPOKÓJ - Baldur_S Gate 3 Original Soundtrack - Quest For A Cure</font>
 Kolejna uliczka kończy się i wbiegacie za Egonem na mały placyk.
 Egon biegnie za stojący po prawej stronie wóz.
 Po drugiej stronie placu, przy studni stoi człowiek. 
@@ -5,6 +6,7 @@ Widzieliście go już. Łysy, grubas w rzeźnickim fartuchu. W ręku trzyma top�
 
 "He he. Dali się złapać w zasadzkę jak jakieś gówniaki."
 "Teraz sprawdzimy co jesteście warci, jak nie plujecie strzałami z zaskoczenia."
+"Dostaliście już jedno ostrzeżenie."
 "Wyślemy was do pana podziemi. Bierzcie ich chłopaki"
 
 Zza pobliskiego rogu budynku, zza beczek stojących gdzieś w kącie i z innych kierunków wychylają się mężczyźni. W ciemności nocy widzicie tylko sylwetki i słyszycie dźwięk i szczęk wyciąganych broni. Nie wyglądają na przyjaźnie nastawionych.
